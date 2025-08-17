@@ -97,7 +97,7 @@ MASTER_WRITE:
       [str, x2, [x8, $frame_tick]],
       [b, 0xd87500],
       [sub, x0, x2, x1],
-      [bl, 0x148c860], # BL nn::os::ConvertToTimeSpan(nn::os::Tick)
+      [ttts],
       [ucvtf, s0, x0],
       [mov, w0, 0xa055],
       [movk, w0, 0x1fc, 16],

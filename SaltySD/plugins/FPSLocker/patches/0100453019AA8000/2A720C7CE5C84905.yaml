@@ -306,13 +306,6 @@ MASTER_WRITE:
     instructions: [
       [bl, _qteFix()]
     ]
-  ## Connect function
-  -
-    type: asm_a64
-    main_offset: 0x67354
-    instructions: [
-      [mov, x0, xzr]
-    ]
   # Fix fog speed
   -
     type: asm_a64

@@ -54,15 +54,15 @@ DECLARATIONS:
     name: blackBackgroundFix
     instructions: [
       [fcmp, s1, 0.0],
-      [b.ne, +32],
+      [b.ne, :goto1],
       [ldurh, w8, [x25, -6]],
       [cmp, w8, 5],
-      [b.ne, +20],
+      [b.ne, :goto1],
       [ldurh, w8, [x25, -8]],
       [cmp, w8, 5],
-      [b.ne, +8],
+      [b.ne, :goto1],
       [fmov, s8, 1.0],
-      [fmadd, s9, s0, s8, s1],
+      :goto1, [fmadd, s9, s0, s8, s1],
       [ret]
     ]
 MASTER_WRITE:

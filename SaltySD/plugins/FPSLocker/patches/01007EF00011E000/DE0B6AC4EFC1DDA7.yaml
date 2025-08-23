@@ -155,7 +155,7 @@ ALL_FPS:
     value: "30 / FPS_TARGET"
   # Prerendered cutscenes must be played at 30 FPS
   -
-    type: compare #+1
+    type: compare
     compare_address: [VARIABLE, cutscene_state]
     compare_type: "=="
     compare_value: 0

@@ -3,10 +3,10 @@
 
 unsafeCheck: true
 
-REGISTER:
+DECLARATIONS:
   -
     type: variable
-    name: default_speed
+    name: game_speed
     value_type: float
     default_value: 1.0
   -
@@ -14,21 +14,69 @@ REGISTER:
     name: min_delta
     value_type: float
     default_value: 1.0
+    evaluate: 30 / FPS_TARGET
+  -
+    type: variable
+    name: dr_factor
+    value_type: float
+    default_value: 100.0
+    evaluate: (FPS_TARGET / 30) * 100
+  -
+    type: variable
+    name: frame_tick
+    value_type: uint64
+    default_value: 0
+  -
+    type: const
+    name: default_frame_nanoseconds
+    value: 33333333
+  -
+    type: code
+    name: dynamicSpeed
+    instructions: [
+      [stp, x29, x30, [sp, -16], "!"],
+      [mov, x29, sp],
+      [blr, x8],
+      [mrs, x2, cntpct_el0],
+      [adrp, x8, $frame_tick],
+      [ldr, x1, [x8, $frame_tick]],
+      [cmp, x1, xzr],
+      [str, x2, [x8, $frame_tick]],
+      [b.eq, :goto4],
+      [sub, x0, x2, x1],
+      [bl, _convertTickToTimeSpan()],
+      [ucvtf, s0, x0],
+      [mov, w0, $default_frame_nanoseconds],
+      [movk, w0, $default_frame_nanoseconds, 16],
+      [ucvtf, s1, w0],
+      [fdiv, s0, s0, s1],
+      [fmov, s1, 2.0],
+      [fcmp, s0, s1],
+      [b.lt, :goto2],
+      [fmov, s0, s1],
+      :goto2, [adrp, x8, $min_delta],
+      [ldr, s1, [x8, $min_delta]],
+      [fcmp, s0, s1],
+      [b.gt, :goto3],
+      [fmov, s0, s1],
+      :goto3, [adrp, x8, $game_speed],
+      [str, s0, [x8, $game_speed]],
+      :goto4, [ldp, x29, x30, [sp], 16],
+      [ret]
+    ]
   -
     type: variable
     name: cutscene_state
     value_type: uint8
     default_value: 1
   -
-    type: variable
-    name: dr_factor
-    value_type: float
-    default_value: 100
-  -
-    type: variable
-    name: frame_tick
-    value_type: uint64
-    default_value: 0
+    type: code
+    name: signalCutscene
+    instructions: [
+      [adrp, x7, $cutscene_state],
+      [strb, w1, [x7, $cutscene_state]],
+      [b, 0xbf7f78]
+    ]
 MASTER_WRITE:
   # Remove double buffer
   ## REF: 61 F6 42 39
@@ -38,102 +86,63 @@ MASTER_WRITE:
     instructions: [
       [mov, w1, 1]
     ]
-  # Change pointer of time factor for DR calculations to MAIN + 0x1D36FF4
+  # Change pointer of time factor for DR calculations to $dr_factor
   ## REF: 01 01 27 1E 08 59 A8 52 03 08 21 1E, replace hardcoded 100.0 float
   -
     type: asm_a64
     main_offset: 0x1153314
     instructions: [
-      [adrp, x8, $default_speed],
+      [adrp, x8, $dr_factor],
       [fmul, s3, s0, s1],
-      [ldr, s1, [x8, $default_speed]]
+      [ldr, s1, [x8, $dr_factor]]
     ]
   # Dynamic speed
-  ## Replace nvnQueuePresentTexture call to code cave at MAIN+0x148D964
+  ## Replace nvnQueuePresentTexture call to code cave _dynamicSpeed()
   -
     type: asm_a64
     main_offset: 0xD874FC
     instructions: [
-      [b, 0x148d964]
+      [bl, _dynamicSpeed()]
     ]
-  ## Patch game speed function to use speed from MAIN+0x1D36FF0
+  ## Patch game speed function to use speed from $game_speed
   -
     type: asm_a64
     main_offset: 0x14092A8
     instructions: [
-      [b, 0x14092b4]
+      [b, +12]
     ]
   -
     type: asm_a64
     main_offset: 0x14092CC
     instructions: [
-      [adrp, x9, $default_speed],
-      [ldr, s1, [x9, $default_speed]]
+      [adrp, x9, $game_speed],
+      [ldr, s1, [x9, $game_speed]]
     ]
-  ## Patch UI speed function to use speeed from MAIN+0x1D36FF0
+  ## Patch UI speed function to use speeed from $game_speed
   -
     type: asm_a64
     main_offset: 0x116D0D8
     instructions: [
-      [adrp, x7, $default_speed]
+      [adrp, x7, $game_speed]
     ]
   -
     type: asm_a64
     main_offset: 0x116D0E4
     instructions: [
-      [ldr, s0, [x7, $default_speed]]
-    ]
-  ## CODE CAVE
-  -
-    type: asm_a64
-    main_offset: 0x148D964
-    instructions: [
-      [blr, x8],
-      [mrs, x2, cntpct_el0],
-      [adrp, x8, $frame_tick],
-      [ldr, x1, [x8, $frame_tick]],
-      [cmp, x1, xzr],
-      [b.ne, +12],
-      [str, x2, [x8, $frame_tick]],
-      [b, 0xd87500],
-      [sub, x0, x2, x1],
-      [ttts],
-      [ucvtf, s0, x0],
-      [mov, w0, 0xa055],
-      [movk, w0, 0x1fc, 16],
-      [ucvtf, s1, w0],
-      [fdiv, s0, s0, s1],
-      [fmov, s1, 2.0],
-      [fcmp, s0, s1],
-      [b.lt, +8],
-      [fmov, s0, s1],
-      [adrp, x8, $min_delta],
-      [ldr, s1, [x8, $min_delta]],
-      [fcmp, s0, s1],
-      [b.gt, +8],
-      [fmov, s0, s1],
-      [adrp, x8, $default_speed],
-      [str, s0, [x8, $default_speed]],
-      [b, -80],
-      [adrp, x0, $default_speed],
-      [ldr, w0, [x0, $default_speed]],
-      [ret],
-      [adrp, x7, $cutscene_state],
-      [str, w1, [x7, $cutscene_state]],
-      [b, 0xbf7f78]
+      [ldr, s0, [x7, $game_speed]]
     ]
   # Signal Cutscenes playing
   -
     type: asm_a64
     main_offset: 0xC00680
     instructions: [
-      [bl, 0x148d9d8]
+      [bl, _signalCutscene()]
     ]
   -
     type: asm_a64
     main_offset: 0xC00E40
     instructions: [
-      [bl, 0x148d9d8]
+      [bl, _signalCutscene()]
     ]
 ALL_FPS:
   # Scrolling speed
@@ -144,22 +153,11 @@ ALL_FPS:
     address: [MAIN, 0x1C4BA40]
     value_type: float
     value: "30 / FPS_TARGET"
-  # Min Delta
-  -
-    type: evaluate_write
-    address: [GLOBAL, min_delta]
-    value: "30 / FPS_TARGET"
-  # DR factor
-  -
-    type: evaluate_write
-    address: [GLOBAL, dr_factor]
-    value: "(FPS_TARGET / 30) * 100"
   # Prerendered cutscenes must be played at 30 FPS
   -
-    type: compare
-    compare_address: [GLOBAL, cutscene_state]
+    type: compare #+1
+    compare_address: [VARIABLE, cutscene_state]
     compare_type: "=="
     compare_value: 0
-    address: [MAIN]
     value_type: refresh_rate
     value: 30

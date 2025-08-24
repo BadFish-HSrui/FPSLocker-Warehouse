@@ -163,10 +163,36 @@ As you can see, they are written in very similar way, but avoiding writing whole
 
 Only some instructions are supported, some of them don't cover every single case.
 Supported mnemonics (read how they work in ARM64/AArch64 documentation, `V` registers are not supported):
-`ADD`, `ADRP`, `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `BLR`, `BR`, `CBNZ`, `CBZ`, `CMP`, `CSEL`, `FADD`, `FCMP`, `FCMPE`, `FCSEL`, `FCVT`, `FCVTZU`, `FDIV`, `FMADD`, `FMINNM`, `FMOV`, `FMUL`, `FNEG`, `FSQRT`, `FSUB`, `LDP`, `LDR`, `LDRB`, `LDRH`, `LDUR`, `LDURH`, `LSL`, `MADD`, `MOV`, `MOVK`, `MRS`, `MUL`, `NOP`, `RET`, `SCVTF`, `SDIV`, `STP`, `STR`, `STRB`, `STRH`, `STUR`, `STURH`, `STXR`, `STXRB`, `SUB`, `SVC`, `TBNZ`, `TBZ`, `UCVTF`, `UDIV`
+`ADD`, `ADRP`, `B`, `B.EQ`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `BLR`, `BR`, `CBNZ`, `CBZ`, `CMP`, `CSEL`, `FADD`, `FCMP`, `FCMPE`, `FCSEL`, `FCVT`, `FCVTZU`, `FDIV`, `FMADD`, `FMINNM`, `FMOV`, `FMUL`, `FNEG`, `FSQRT`, `FSUB`, `LDP`, `LDR`, `LDRB`, `LDRH`, `LDUR`, `LDURH`, `LSL`, `MADD`, `MOV`, `MOVK`, `MRS`, `MUL`, `NOP`, `RET`, `SCVTF`, `SDIV`, `STP`, `STR`, `STRB`, `STRH`, `STUR`, `STURH`, `STXR`, `STXRB`, `SUB`, `SVC`, `TBNZ`, `TBZ`, `UCVTF`, `UDIV`
 
 Additional feature is supported by `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `CBNZ`, `CBZ`, `TBNZ`, `TBZ` - if for immediate you will write + or - sign, you can use it to inform that it's a relative amount of bytes you want to jump. So if you write for example `[b, -4]`, it will go to previous instruction.
 
+```yaml
+  -
+    type: asm_a64
+    main_offset: 0x193CEA8
+    instructions: [
+      [b.ne, +8],
+      [nop],
+      [ldr, s2, [x10, 0xf00]], #it will jump here
+      [movk, x9, 0x3c9, 16]
+    ]
+```
 
+For `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `CBNZ`, `CBZ` you can use labels that work as goto function. Labels must start with `:`
 
+```yaml
+  -
+    type: asm_a64
+    main_offset: 0x193CEA8
+    instructions: [
+      [b.ne, :goto1],
+      [nop],
+      :goto1, [ldr, s2, [x10, 0xf00]], #it will jump here
+      [movk, x9, 0x3c9, 16]
+    ]
+```
 
+For `B` and `BL` you can use calls to hardcoded function:
+- `_convertTickToTimeSpan()` - accepting tick value as x0, it will return ticks converted to nanoseconds in x0
+- `_setUserInactivityDetectionTimeExtended()` - this is used mainly to avoid using hardcoded pointer in Tears of the Kingdom config. It accepts bool as x0/w0, and when true it blocks auto sleep.

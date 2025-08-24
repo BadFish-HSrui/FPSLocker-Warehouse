@@ -63,27 +63,39 @@ It's the same as `compare` with one big difference - it is used to write express
   - `timing` - it blocks FPSLocker internal frame delay. It is advised to use it when we want to use the game's proprietary FPS lock. This is automatically applied when FPS target matches refresh rate + 30 FPS if refresh rate is set to 60 Hz.
 
 # List of types accepted by `MASTER_WRITE`
-- `bytes` - this is used to write data into main executable, it can write to any part of executable, even read only. It's applied only before game actually starts.
-  - `main_offset` - where value should be written relative to `main` executable start in RAM.
-  - `value_type` - check "Supported types".
-  - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
-- `asm_a64` - this is used to write assembly instructions instead of integers for better maintenance. FPSLocker automatically calculates offsets based of main_offset value.
-  - `main_offset` - where value should be written relative to `main` executable start in RAM.
-  - `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
+> type: bytes
+
+This is used to write data into main executable, it can write to any part of executable, even read only. It's applied only before game actually starts.
+- `main_offset` - where value should be written relative to `main` executable start in RAM.
+- `value_type` - check "Supported types".
+- `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
+> type: asm_a64
+
+This is used to write assembly instructions instead of integers for better maintenance. FPSLocker automatically calculates offsets based of main_offset value.
+- `main_offset` - where value should be written relative to `main` executable start in RAM.
+- `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
 
 # List of types accepted by `DECLARATIONS`
-> ORDER OF PROVIDED ENTRIES IS IMPORTANT! ENTRY CANNOT REFERENCE SOMETHING THAT WAS NOT DECLARED BEFORE!
-- `const` - define 64-bit integer value that will be referenced directly in assembly when generating patch, makes using mov/movk pair more readable. This won't be put standalone into generated patch.
-  - `name` - label used to reference value. To reference it in assembly, you must use `$` in combination with its name.
-  - `value` - value that is between 0 and UINT64_MAX
-- `variable` - defines value that will be put into Core's RW- buffer.
-  - `name` - label used to reference value. To reference it in assembly, you must use `$` in combination with its name. In `ALL_FPS` section, referencing its address use raw name.
-  - `value_type` - check "Supported types".
-  - `default_value` - value that will be used to initialize new variable. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
-  - `evaluate` - math formula that will refresh variable in regular interval if Custom FPS Target is set. It's not obligatory to use it.
-- `code` - defines assembly instructions that will be put into Core's R-X section, which means they can be executed.
-  - `name` - label used to reference value. To reference it in assembly, you must use `_` before provided name and `()` after provided name.
-  - `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
+> [!IMPORTANT]
+> ORDER OF PROVIDED ENTRIES IS RESTRICTED! ENTRY CANNOT REFERENCE SOMETHING THAT WAS NOT DECLARED BEFORE!
+
+> type: const
+
+Define 64-bit integer value that will be referenced directly in assembly when generating patch, makes using mov/movk pair more readable. This won't be put standalone into generated patch.<br>
+- `name` - label used to reference value. To reference it in assembly, you must use `$` in combination with its name.
+- `value` - value that is between 0 and UINT64_MAX
+> type: variable
+
+Defines value that will be put into Core's RW- buffer.
+- `name` - label used to reference value. To reference it in assembly, you must use `$` in combination with its name. In `ALL_FPS` section, referencing its address use raw name.
+- `value_type` - check "Supported types".
+- `default_value` - value that will be used to initialize new variable. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
+- `evaluate` - math formula that will refresh variable in regular interval if Custom FPS Target is set. It's not obligatory to use it.
+> type: code
+
+Defines assembly instructions that will be put into Core's R-X section, which means they can be executed.
+- `name` - label used to reference value. To reference it in assembly, you must use `_` before provided name and `()` after provided name.
+- `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
 ---
 
 # Supported types
@@ -108,7 +120,7 @@ It's the same as `compare` with one big difference - it is used to write express
   - `float`
   - `double`
 
-- `value_type` exclusive for non-`MASTER_WRITE` keys:
+- `value_type` exclusive for `ALL_FPS`:
   - `refresh_rate` (forces chosen refresh rate, supports decimals. When used, address has no impact, as long as it's using valid data)
 
 # Expressions
@@ -153,7 +165,7 @@ As you can see, they are written in very similar way, but avoiding writing whole
 
 Only some instructions are supported, some of them don't cover every single case.
 Supported mnemonics (read how they work in ARM64/AArch64 documentation, `V` registers are not supported):
-`ADD`, `ADRP`, `B`, `B.EQ`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `BLR`, `BR`, `CBNZ`, `CBZ`, `CMP`, `CSEL`, `FADD`, `FCMP`, `FCMPE`, `FCSEL`, `FCVT`, `FCVTZU`, `FDIV`, `FMADD`, `FMINNM`, `FMOV`, `FMUL`, `FNEG`, `FSQRT`, `FSUB`, `LDP`, `LDR`, `LDRB`, `LDRH`, `LDUR`, `LDURH`, `LSL`, `MADD`, `MOV`, `MOVK`, `MRS`, `MUL`, `NOP`, `RET`, `SCVTF`, `SDIV`, `STP`, `STR`, `STRB`, `STRH`, `STUR`, `STURH`, `STXR`, `STXRB`, `SUB`, `SVC`, `TBNZ`, `TBZ`, `UCVTF`, `UDIV`
+`ADD`, `ADRP`, `B`, `B.EQ`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `BLR`, `BR`, `CBNZ`, `CBZ`, `CMP`, `CSEL`, `FADD`, `FCMP`, `FCMPE`, `FCSEL`, `FCVT`, `FCVTZU`, `FDIV`, `FMADD`, `FMINNM`, `FMOV`, `FMUL`, `FNEG`, `FSQRT`, `FSUB`, `LDP`, `LDR`, `LDRB`, `LDRH`, `LDUR`, `LDURH`, `LSL`, `MADD`, `MOV`, `MOVK`, `MRS`, `MUL`, `NOP`, `RET`, `SCVTF`, `SDIV`, `STP`, `STR`, `STRB`, `STRH`, `STUR`, `STURH`, `SUB`, `SVC`, `TBNZ`, `TBZ`, `UCVTF`, `UDIV`
 
 Additional feature is supported by `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `CBNZ`, `CBZ`, `TBNZ`, `TBZ` - if for immediate you will write + or - sign, you can use it to inform that it's a relative amount of bytes you want to jump. So if you write for example `[b, -4]`, it will go to previous instruction.
 
@@ -211,3 +223,4 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+

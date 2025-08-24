@@ -7,34 +7,10 @@ YAML files must be encoded in UTF-8 without BOM.
 YAML file consists of keys:
 - `unsafeCheck` - setting it to `true` results in the plugin not checking if an address is valid. It is recommended to leave it at `false` if you use HEAP related address
 - `ALL_FPS`
-- `ALL_REFRESH_RATES` (doesn't work if ALL_FPS is not defined)
 - `MASTER_WRITE`
+- `DECLARATIONS`
 
-if `ALL_FPS` is not defined, those are required to exist:
-- `15FPS`
-- `20FPS`
-- `25FPS`
-- `30FPS`
-- `35FPS`
-- `40FPS`
-- `45FPS`
-- `50FPS`
-- `55FPS`
-- `60FPS`
-
-Each key except of unsafeCheck is `a list of dicts`. Examples:
-```yaml
-15FPS:
-  -
-    type: write
-    address: [MAIN, 0x12257C30, 0x434]
-    value_type: float
-    value: 15
-  -
-    type: block
-    what: timing
-
-```
+Each key except of unsafeCheck is `a list of dicts`. Example:
 ```yaml
 ALL_FPS:
   -
@@ -196,3 +172,4 @@ For `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `CBNZ`, `CBZ` you can u
 For `B` and `BL` you can use calls to hardcoded function:
 - `_convertTickToTimeSpan()` - accepting tick value as x0, it will return ticks converted to nanoseconds in x0
 - `_setUserInactivityDetectionTimeExtended()` - this is used mainly to avoid using hardcoded pointer in Tears of the Kingdom config. It accepts bool as x0/w0, and when true it blocks auto sleep.
+

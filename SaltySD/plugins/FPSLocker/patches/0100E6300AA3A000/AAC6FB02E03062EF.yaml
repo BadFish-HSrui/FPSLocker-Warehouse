@@ -45,7 +45,8 @@ DECLARATIONS:
       [mov, x1, x23],
       [blr, x8],
       [adrp, x22, 0x1751000],
-      [b, 0x5edc]
+      [ldp, x29, x30, [sp], 16],
+      [ret]
     ]
 
 MASTER_WRITE:
@@ -85,3 +86,4 @@ MASTER_WRITE:
     instructions: [
       [mov, x2, 0x1950000]
     ]
+

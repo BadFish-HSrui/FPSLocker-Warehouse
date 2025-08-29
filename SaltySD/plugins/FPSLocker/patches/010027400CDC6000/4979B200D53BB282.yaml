@@ -14,7 +14,7 @@ DECLARATIONS:
     evaluate: "(30 / FPS_TARGET) * 1000000"
 
 MASTER_WRITE:
-  # Change location of GPU frametime double divider to MAIN+0x32C6D00
+  # Change location of GPU frametime double divider
   -
     type: asm_a64
     main_offset: 0x921768
@@ -22,3 +22,4 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, d1, [x8, $dr_scale]]
     ]
+

@@ -17,7 +17,7 @@ DECLARATIONS:
     default_value: 31
     evaluate: "0.93 * FRAMETIME_TARGET"
 MASTER_WRITE:
-  # redirect reading Dynamic Resolution timing min & max to MAIN + 0xC3C0A50
+  # redirect reading Dynamic Resolution timing min & max
   -
     type: asm_a64
     main_offset: 0x6171A0
@@ -42,3 +42,4 @@ ALL_FPS:
     address: [MAIN, 0xAA62FF0]
     value_type: int32
     value: 2
+

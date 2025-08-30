@@ -16,7 +16,6 @@ DECLARATIONS:
     value_type: float
     default_value: 0.037037
     evaluate: "1 / (FPS_TARGET + 5)"
-
 MASTER_WRITE:
   # Redirect Dynamic Resolution target
   # REF: 6A C8 82 52
@@ -42,3 +41,4 @@ ALL_FPS:
     address: [MAIN, 0x2C0B558, 0x170, 0x18C]
     value_type: int32
     value: FPS_LOCK_TARGET
+

@@ -12,7 +12,7 @@ DECLARATIONS:
     default_value: 33.333333
     evaluate: FRAMETIME_TARGET
 MASTER_WRITE:
-# Redirect DR frametime target to MAIN+0x30A7F00
+# Redirect DR frametime target
   -
     type: asm_a64
     main_offset: 0x193CEA8
@@ -20,3 +20,4 @@ MASTER_WRITE:
       [adrp, x10, $dr_target],
       [ldr, s2, [x10, $dr_target]]
     ]
+

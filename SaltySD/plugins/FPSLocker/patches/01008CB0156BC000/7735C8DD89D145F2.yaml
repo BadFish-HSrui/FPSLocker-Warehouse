@@ -42,6 +42,8 @@ DECLARATIONS:
       [adrp, x9, $last_tick],
       [ldr, x10, [x9, $last_tick]],
       [str, x8, [x9, $last_tick]],
+      [cmp, x10, xzr],
+      [b.eq, :goto3],
       [sub, x10, x8, x10],
       [ucvtf, s3, x10],
       [mov, w9, $tick_frequency],
@@ -57,7 +59,7 @@ DECLARATIONS:
       [b.lt, :goto2],
       [fmov, s4, s2],
       :goto2, [str, s4, [x9, $actual_frametime]],
-      [mov, w8, 0x1af0],
+      :goto3, [mov, w8, 0x1af0],
       [ret]
     ]
 MASTER_WRITE:
@@ -97,3 +99,4 @@ MASTER_WRITE:
       [adrp, x11, $actual_frametime],
       [ldr, w11, [x11, $actual_frametime]]
     ]
+

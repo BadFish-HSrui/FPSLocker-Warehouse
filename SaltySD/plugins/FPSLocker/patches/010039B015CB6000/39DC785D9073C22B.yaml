@@ -2,6 +2,7 @@
 # BID: 39DC785D9073C22B
 
 unsafeCheck: true
+
 DECLARATIONS:
   -
     type: variable
@@ -31,7 +32,6 @@ DECLARATIONS:
       [ldr, d1, [x8, $dr_target2]],
       [ret]
     ]
-
 MASTER_WRITE:
   # Redirect DynamicResolution$$LowerResSW Max Target in MS
   -
@@ -47,5 +47,3 @@ MASTER_WRITE:
     instructions: [
       [bl, _drMinTarget()]
     ]
-
-

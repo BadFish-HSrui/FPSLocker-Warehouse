@@ -13,6 +13,15 @@ DECLARATIONS:
     type: code
     name: signalCutscene
     instructions: [
+      [adrp, x8, $cutscene_flag],
+      [mov, w1, 1],
+      [str, w1, [x8, $cutscene_flag]],
+      [ret]
+    ]   
+  -
+    type: code
+    name: designalCutscene
+    instructions: [
       [mov, w3, wzr],
       [adrp, x4, $cutscene_flag],
       [str, w3, [x4, $cutscene_flag]],
@@ -22,9 +31,15 @@ MASTER_WRITE:
   # Detect prerendered cutscenes
   -
     type: asm_a64
-    main_offset: 0x9F26EC
+    main_offset: 0x9F2540
     instructions: [
       [bl, _signalCutscene()]
+    ]
+  -
+    type: asm_a64
+    main_offset: 0x9F26EC
+    instructions: [
+      [bl, _designalCutscene()]
     ]
 ALL_FPS:
   # Internal FPS Lock

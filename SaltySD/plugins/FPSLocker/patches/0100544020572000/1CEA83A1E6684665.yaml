@@ -1,8 +1,6 @@
 # Atelier Yumia: The Alchemist of Memories & the Envisioned Land 1.3.0
 # BID: 1CEA83A1E6684665
 
-unsafeCheck: false
-
 DECLARATIONS:
   -
     type: variable
@@ -28,6 +26,7 @@ ALL_FPS:
   -
     type: write
     address: [MAIN, 0x2F23C00, 0xE0, 0x294]
+    address_unsafe: true
     value_type: uint8
     value: 0
 

@@ -1,8 +1,6 @@
 # Hellblade: Senua's Sacrifice 1.1.0
 # BID: 9B3DDF2FB9100E51
 
-unsafeCheck: false
-
 ALL_FPS:
   # Custom Dynamic Resolution implementation - Frame Time (MAX/MIN)
   # MAX = (1/FPS) * 0.95

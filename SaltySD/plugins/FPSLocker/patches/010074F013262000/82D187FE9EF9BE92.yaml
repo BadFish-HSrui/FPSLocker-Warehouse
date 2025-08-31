@@ -1,8 +1,6 @@
 # Xenoblade Chronicles 3 2.2.0/2.2.1
 # BID: 82D187FE9EF9BE92
 
-unsafeCheck: false
-
 DECLARATIONS:
   -
     type: variable
@@ -51,6 +49,7 @@ ALL_FPS:
   -
     type: evaluate_write
     address: [MAIN, 0x1BA1A90, 128]
+    address_unsafe: true
     value_type: float
     value: "1 / FPS_TARGET"
   -

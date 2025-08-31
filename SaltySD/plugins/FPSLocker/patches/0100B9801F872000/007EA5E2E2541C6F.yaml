@@ -1,8 +1,6 @@
 # FAIRY TAIL 2 1.4.2
 # BID: 007EA5E2E2541C6F
 
-unsafeCheck: false
-
 DECLARATIONS:
   -
     type: variable
@@ -39,6 +37,6 @@ ALL_FPS:
   -
     type: evaluate_write
     address: [MAIN, 0x2C0B558, 0x170, 0x18C]
+    address_unsafe: true
     value_type: int32
     value: FPS_LOCK_TARGET
-

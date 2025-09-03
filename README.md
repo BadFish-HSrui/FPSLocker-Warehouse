@@ -396,7 +396,7 @@ PATCH AVAILABILITY<br>
 | Kirby Star Allies | `01007E3006DDA000` | `D55608916FA56C18`  ([✅](SaltySD/plugins/FPSLocker/patches/01007E3006DDA000/D55608916FA56C18.yaml), v6, 4.0.0a) | ~~🔐⚔️~~ |
 | Kirby's Dream Buffet | `0100A8E016236000` | `82AF4E16BBC0BEC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A8E016236000/82AF4E16BBC0BEC8.yaml), v1, 1.0.0a) | ~~🔐⚔️~~ |
 | L.A. Noire | `0100830004FB6000` | `40F973CE3B5EC8D7` ([✅](SaltySD/plugins/FPSLocker/patches/0100830004FB6000/40F973CE3B5EC8D7.yaml), v2, 1.2) | ~~⏱️🖥️🏃~~ |
-| Labirynth Of The Demon King | `010071F0228CA000` | `DE26B43C3D21B3A3` ([✅](SaltySD/plugins/FPSLocker/patches/010071F0228CA000/DE26B43C3D21B3A3.yaml), v1, 1.81) | ~~🔐🔧~~ |
+| Labirynth Of The Demon King | `010071F0228CA000` | `DE26B43C3D21B3A3` ([✅](SaltySD/plugins/FPSLocker/patches/010071F0228CA000/DE26B43C3D21B3A3.yaml), v1, 1.81.) | ~~🔐🔧~~ |
 | Lara Croft and the Guardian of Light | `010079C017F5E002` | `BD5CD5189BC90093` ([✅](SaltySD/plugins/FPSLocker/patches/010079C017F5E002/BD5CD5189BC90093.yaml), v0, 1.1_65791) | ~~📏~~ |
 | Lara Croft and the Temple of Osiris | `010079C017F5E001` | `F47C697C2B59443B` ([✅](SaltySD/plugins/FPSLocker/patches/010079C017F5E001/F47C697C2B59443B.yaml), v0, 1.1_65791) | ~~🔐📏~~ |
 | LEGO 2K Drive | `0100739018020000` | `B75E7D3DB78D69C1` ([✅](SaltySD/plugins/FPSLocker/patches/0100739018020000/B75E7D3DB78D69C1.yaml), v17, 1.17) | ~~🔐📏🔧~~ |

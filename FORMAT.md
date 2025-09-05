@@ -82,6 +82,7 @@ This is used to write assembly instructions instead of integers for better maint
 # List of types accepted by `DECLARATIONS`
 > [!IMPORTANT]
 > ORDER OF PROVIDED ENTRIES IS RESTRICTED! ENTRY CANNOT REFERENCE SOMETHING THAT WAS NOT DECLARED BEFORE!
+> 
 > ONLY 64-BIT GAMES ARE SUPPORTED!
 
 > type: const
@@ -228,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

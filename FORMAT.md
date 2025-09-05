@@ -7,7 +7,7 @@ YAML file consists of keys:
 - `unsafeCheck` - setting it to `true` results in the plugin not checking if an address is valid. It is recommended to leave it at `false` if you use HEAP related address. By default it's `true`. This key is not obligatory to have.
 - `ALL_FPS` - When Custom FPS Target is set, this part is updating provided addresses regularly. It supports only RW- sections.This section is not obligatory if you use `MASTER_WRITE`.
 - `MASTER_WRITE` - This applies data before game starts initialization to any section that can be read, which means R-X, RW- and R--. This section is not obligatory.
-- `DECLARATIONS` - It puts data into Core internal buffers, you can reference them with labels in sections above. This section is not obligatory.
+- `DECLARATIONS` - It puts data into Core internal buffers, you can reference them with labels in sections above. This section is not obligatory. Compatible only with 64-bit games.
 
 Each key except of unsafeCheck is `a list of dicts`. Example:
 ```yaml
@@ -48,13 +48,13 @@ It's the same as `write` with one big difference - it is used to write expressio
 > type: compare
 
 Compare the value from provided `compare_address` with a static `compare_value` and if it's correct, it writes the static `value` to provided `address`
-- `compare_address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE`. Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A65958` to `MAIN` address to get a final address. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
+- `compare_address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE` (64-bit games only). Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A65958` to `MAIN` address to get a final address. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
 - `compare_address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
 - `compare_type` - check "Supported types". `compare_value` is the right operand.
 - `compare_value_type` - check "Supported types". Write them always with quotes to not trigger yaml formatting exception.
 - `compare_value` - what value will be compared with the value from `compare_address`. Remember that if `value_type` is set to any integer, don't use decimals.
 - `address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
-- `address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE`. Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A08F98` to `MAIN` address and this is the final address. This is not required if `value_type` is `refresh_rate`. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
+- `address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE` (64-bit games only). Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A08F98` to `MAIN` address and this is the final address. This is not required if `value_type` is `refresh_rate`. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
 - `value_type` - check "Supported types".
 - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
 
@@ -73,7 +73,7 @@ This is used to write data into main executable, it can write to any part of exe
 - `main_offset` - where value should be written relative to `main` executable start in RAM.
 - `value_type` - check "Supported types".
 - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
-> type: asm_a64
+> type: asm_a64 (64-bit games only)
 
 This is used to write assembly instructions instead of integers for better maintenance. FPSLocker automatically calculates offsets based of main_offset value.
 - `main_offset` - where value should be written relative to `main` executable start in RAM.
@@ -82,6 +82,7 @@ This is used to write assembly instructions instead of integers for better maint
 # List of types accepted by `DECLARATIONS`
 > [!IMPORTANT]
 > ORDER OF PROVIDED ENTRIES IS RESTRICTED! ENTRY CANNOT REFERENCE SOMETHING THAT WAS NOT DECLARED BEFORE!
+> ONLY 64-BIT GAMES ARE SUPPORTED!
 
 > type: const
 
@@ -227,5 +228,6 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 

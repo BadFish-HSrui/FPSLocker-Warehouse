@@ -127,7 +127,7 @@ Defines assembly instructions that will be put into Core's R-X section, which me
   - `double`
 
 - `value_type` exclusive for `ALL_FPS`:
-  - `refresh_rate` (forces chosen refresh rate, supports decimals. When used, address has no impact, as long as it's using valid data)
+  - `refresh_rate` (forces chosen refresh rate, supports decimals. When used, address entry is not needed)
 
 # Expressions
 
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

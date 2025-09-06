@@ -1,8 +1,6 @@
 # Boomerang X 1.0.2
 # BID: D92F465FE9920BB6
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -21,3 +19,4 @@ MASTER_WRITE:
       [ldr, s0, [x0, $dr_target]],
       [ret]
     ]
+

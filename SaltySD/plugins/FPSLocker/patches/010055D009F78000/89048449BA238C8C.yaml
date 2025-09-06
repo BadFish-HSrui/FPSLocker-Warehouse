@@ -30,4 +30,3 @@ MASTER_WRITE:
       [adrp, x8, $dr_target2],
       [ldr, s2, [x8, $dr_target2]]
     ]
-

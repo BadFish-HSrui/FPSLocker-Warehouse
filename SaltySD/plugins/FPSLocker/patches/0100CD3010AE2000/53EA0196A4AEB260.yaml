@@ -1,8 +1,6 @@
 # Crysis 3 Remastered 1.3.0
 # BID: 53EA0196A4AEB260
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -92,5 +90,3 @@ ALL_FPS:
   -
     type: block
     what: timing
-
-

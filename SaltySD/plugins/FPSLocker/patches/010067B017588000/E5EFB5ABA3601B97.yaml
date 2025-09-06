@@ -3,8 +3,6 @@
 # Some things are still tied to framerate, but nothing game breaking it seems.
 # Game is using double buffer, trying to enable triple buffer results in crash.
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

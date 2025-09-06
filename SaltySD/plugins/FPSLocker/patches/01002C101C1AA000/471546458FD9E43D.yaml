@@ -2,8 +2,6 @@
 # BID: 471546458FD9E43D
 # REF: 01 04 0C 5E 00 10 2E 1E
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

@@ -1,8 +1,6 @@
 # Amber Isle 1.0.3
 # BID: E8BF195297B63BA2
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -51,3 +49,4 @@ MASTER_WRITE:
       [ldr, d0, [x8, $dr_target]],
       [fneg, d0, d0]
     ]
+

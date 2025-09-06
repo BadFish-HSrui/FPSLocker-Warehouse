@@ -20,4 +20,3 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, d1, [x8, $dr_scale]]
     ]
-

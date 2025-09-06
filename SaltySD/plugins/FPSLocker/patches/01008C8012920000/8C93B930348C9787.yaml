@@ -1,8 +1,6 @@
 # Dying Light: Platinum Edition 1.0.5
 # BID: 8C93B930348C9787
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

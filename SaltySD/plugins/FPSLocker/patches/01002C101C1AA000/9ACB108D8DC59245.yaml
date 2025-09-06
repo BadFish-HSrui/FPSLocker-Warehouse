@@ -17,5 +17,4 @@ MASTER_WRITE:
     instructions: [
       [adrp, x13, $dr_target],
       [ldr, s2, [x13, $dr_target]]
-
     ]

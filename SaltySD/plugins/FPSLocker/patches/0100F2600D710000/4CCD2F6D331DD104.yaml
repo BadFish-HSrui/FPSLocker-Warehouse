@@ -7,7 +7,7 @@ DECLARATIONS:
     name: dr_factor
     value_type: float
     default_value: 1000000
-    evaluate: "(30 / FPS_TARGET) * 1000000"
+    evaluate: "30000000 / FPS_TARGET"
   -
     type: code
     name: fpsTarget
@@ -38,4 +38,5 @@ ALL_FPS:
     address: [MAIN, 0xD94628]
     value_type: uint32
     value: FPS_TARGET
+
 

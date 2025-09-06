@@ -69,7 +69,7 @@ ALL_FPS:
   -
     type: evaluate_write
     address: [MAIN, 0x1C49DD0, 0x39E0]
-    address_unsafe: true
     value_type: uint32
     value: "VSYNC_TARGET - 1"
+
 

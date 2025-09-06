@@ -13,7 +13,7 @@ DECLARATIONS:
     evaluate: "FPS_TARGET / 30"
 
 MASTER_WRITE:
-# Patch code to multiply last frametime by float scale factor stored in MAIN+0x4276B00
+# Patch code to multiply last frametime by float scale factor
 # To match it to Dynamic Resolution calculations
   -
     type: asm_a64
@@ -29,3 +29,4 @@ MASTER_WRITE:
       [fmul, s0, s8, s0],
       [nop]
     ]
+

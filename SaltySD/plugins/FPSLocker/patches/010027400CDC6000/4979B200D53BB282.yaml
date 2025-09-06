@@ -9,7 +9,7 @@ DECLARATIONS:
     name: dr_scale
     value_type: double
     default_value: 1000000
-    evaluate: "(30 / FPS_TARGET) * 1000000"
+    evaluate: "30000000 / FPS_TARGET"
 
 MASTER_WRITE:
   # Change location of GPU frametime double divider
@@ -20,3 +20,4 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, d1, [x8, $dr_scale]]
     ]
+

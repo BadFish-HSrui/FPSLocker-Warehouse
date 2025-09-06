@@ -86,7 +86,7 @@ ALL_FPS:
     type: evaluate_write
     address: [MAIN, 0x3466BB0]
     value_type: float
-    value: "0.66 * (1/FPS_TARGET)"
+    value: "0.66 / FPS_TARGET"
   -
     type: block
     what: timing

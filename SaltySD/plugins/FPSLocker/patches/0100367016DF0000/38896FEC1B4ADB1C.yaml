@@ -1,10 +1,8 @@
 # Hammerwatch 2 1.0.4
 # BID: 38896FEC1B4ADB1C
 
-unsafeCheck: true
-
 MASTER_WRITE:
-  # Rewrite "v_fps_limit 30" to 62
+  # Rewrite "v_fps_limit 30" to 99
   -
     type: bytes
     main_offset: 0x7C7597

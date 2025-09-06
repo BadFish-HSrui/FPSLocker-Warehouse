@@ -1,8 +1,6 @@
 # 零 ～濡鴉ノ巫女～ 1.0.5
 # BID: 8BFBF5B8A7098443
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -41,5 +39,3 @@ ALL_FPS:
   -
     type: block
     what: timing
-
-

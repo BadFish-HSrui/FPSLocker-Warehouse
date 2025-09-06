@@ -1,8 +1,6 @@
 # Hammerwatch Anniversary Edition 1.0.3
 # BID: D147CAEF2BC74574
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Rewrite "v_fps_limit 30" to 99
   -

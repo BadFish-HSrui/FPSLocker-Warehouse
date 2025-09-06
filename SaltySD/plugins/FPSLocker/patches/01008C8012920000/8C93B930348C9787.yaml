@@ -7,31 +7,31 @@ DECLARATIONS:
     name: dr_timing1
     value_type: float
     default_value: 0.034
-    evaluate: "(1 / FPS_TARGET) * 1.02"
+    evaluate: "1.02 / FPS_TARGET"
   -
     type: variable
     name: dr_timing2
     value_type: float
     default_value: 0.028
-    evaluate: "(1 / FPS_TARGET) * 0.84"
+    evaluate: "0.84 / FPS_TARGET"
   -
     type: variable
     name: dr_timing3
     value_type: float
     default_value: 0.0289855
-    evaluate: "(1 / FPS_TARGET) * 0.87"
+    evaluate: "0.87 / FPS_TARGET"
   -
     type: variable
     name: dr_timing4
     value_type: float
     default_value: 0.0263158
-    evaluate: "(1 / FPS_TARGET) * 0.79"
+    evaluate: "0.79 / FPS_TARGET"
   -
     type: variable
     name: dr_timing5
     value_type: float
     default_value: 0.0324675
-    evaluate: "(1 / FPS_TARGET) * 0.974"
+    evaluate: "0.974 / FPS_TARGET"
 MASTER_WRITE:
   # Disable Dynamic GPU Clocks
   -
@@ -71,3 +71,4 @@ MASTER_WRITE:
       [adrp, x11, $dr_timing5],
       [ldr, w11, [x11, $dr_timing5]]
     ]
+

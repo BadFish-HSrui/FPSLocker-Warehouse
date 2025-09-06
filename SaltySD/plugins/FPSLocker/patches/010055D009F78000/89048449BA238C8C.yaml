@@ -1,8 +1,6 @@
 # Fire Emblem: Three Houses 1.2.0
 # BID: 89048449BA238C8C
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

@@ -2,8 +2,6 @@
 # FATAL FRAME: MAIDEN OF BLACK WATER 1.0.4
 # BID: B38D51E0391187EC
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

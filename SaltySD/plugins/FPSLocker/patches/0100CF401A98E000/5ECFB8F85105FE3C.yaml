@@ -1,8 +1,6 @@
 # Contra: Operation Galuga 1.0.882291
 # BID: 5ECFB8F85105FE3C
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

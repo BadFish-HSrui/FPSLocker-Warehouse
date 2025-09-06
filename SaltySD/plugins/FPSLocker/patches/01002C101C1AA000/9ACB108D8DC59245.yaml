@@ -13,8 +13,9 @@ MASTER_WRITE:
 # Redirect DR frametime target
   -
     type: asm_a64
-    main_offset: 0x1737630
+    main_offset: 0x1737634
     instructions: [
       [adrp, x13, $dr_target],
       [ldr, s2, [x13, $dr_target]]
+
     ]

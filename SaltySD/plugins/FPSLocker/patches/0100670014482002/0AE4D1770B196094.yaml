@@ -8,7 +8,7 @@ DECLARATIONS:
     name: dr_scale
     value_type: float
     default_value: 1000
-    evaluate: "(30 / FPS_TARGET) * 1000"
+    evaluate: "30000 / FPS_TARGET"
 MASTER_WRITE:
 # Patch code to divide last frametime by float scale factor
 # To match it to Dynamic Resolution calculations
@@ -19,4 +19,5 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, s1, [x8, $dr_scale]]
     ]
+
 

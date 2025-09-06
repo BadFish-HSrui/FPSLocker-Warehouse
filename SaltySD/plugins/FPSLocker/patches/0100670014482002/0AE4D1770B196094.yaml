@@ -19,5 +19,3 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, s1, [x8, $dr_scale]]
     ]
-
-

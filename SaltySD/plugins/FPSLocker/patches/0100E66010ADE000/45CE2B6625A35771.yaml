@@ -1,8 +1,6 @@
 # Crysis Remastered 1.8.0
 # BID: 45CE2B6625A35771
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -105,6 +103,7 @@ ALL_FPS:
   -
     type: block
     what: timing
+
 
 
 

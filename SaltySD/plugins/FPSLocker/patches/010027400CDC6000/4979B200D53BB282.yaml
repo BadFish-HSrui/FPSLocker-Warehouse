@@ -3,8 +3,6 @@
 # Game is using double buffer, buffers are not allocated in loop.
 # So it's not possible to get stable FPS lock between 30 and 60 without changing refresh rate.
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -22,4 +20,3 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, d1, [x8, $dr_scale]]
     ]
-

@@ -2,8 +2,6 @@
 # BID: 0AE4D1770B196094
 # Scenes exclusively 2D are tied to framerate, so at 60 FPS they are 2x faster. 
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -21,3 +19,4 @@ MASTER_WRITE:
       [adrp, x8, $dr_scale],
       [ldr, s1, [x8, $dr_scale]]
     ]
+

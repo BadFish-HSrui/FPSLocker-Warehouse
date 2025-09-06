@@ -72,5 +72,3 @@ ALL_FPS:
     address_unsafe: true
     value_type: uint32
     value: "VSYNC_TARGET - 1"
-
-

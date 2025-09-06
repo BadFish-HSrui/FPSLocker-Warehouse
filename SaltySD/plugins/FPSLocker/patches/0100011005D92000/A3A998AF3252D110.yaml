@@ -1,8 +1,6 @@
 # Batman - The Telltale Series 1.0.4
 # BID: A3A998AF3252D110
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: code
@@ -87,3 +85,4 @@ MASTER_WRITE:
     instructions: [
       [mov, x2, 0x1950000]
     ]
+

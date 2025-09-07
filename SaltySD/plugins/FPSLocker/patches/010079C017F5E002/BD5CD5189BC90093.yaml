@@ -6,6 +6,5 @@ ALL_FPS:
   -
     type: evaluate_write
     address: [MAIN, 0x1EAE7E8, 0x28]
-    address_unsafe: true
     value_type: float
     value: FPS_TARGET

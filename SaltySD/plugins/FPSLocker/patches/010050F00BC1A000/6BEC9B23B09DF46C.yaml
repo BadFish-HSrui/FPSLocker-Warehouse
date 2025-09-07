@@ -11,7 +11,7 @@ DECLARATIONS:
     type: code
     name: signalCutscene
     instructions: [
-      [str, x19, [sp, -0x20], "!"],
+      [add, x29, sp, 0x10],
       [mov, w1, 1],
       [adrp, x19, $cutscene_flag],
       [str, w1, [x19, $cutscene_flag]],
@@ -30,7 +30,7 @@ MASTER_WRITE:
   # Detect prerendered cutscenes
   -
     type: asm_a64
-    main_offset: 0xB1A810
+    main_offset: 0xB1A818
     instructions: [
       [bl, _signalCutscene()]
     ]

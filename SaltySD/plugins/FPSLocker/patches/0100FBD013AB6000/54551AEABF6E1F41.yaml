@@ -2,8 +2,6 @@
 # BID: 54551AEABF6E1F41
 # Just search for 0x42055555
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -20,4 +18,3 @@ MASTER_WRITE:
       [adrp, x10, $dr_target],
       [ldr, s2, [x10, $dr_target]]
     ]
-

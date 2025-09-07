@@ -9,4 +9,3 @@ ALL_FPS:
     address_unsafe: true
     value_type: double
     value: ["0.96 * FRAMETIME_TARGET", "(0.96 * FRAMETIME_TARGET) - 0.75"]
-

@@ -8,7 +8,7 @@ DECLARATIONS:
     instructions: [
       [mov, w22, 3],
       [str, w22, [x1, 8]],
-      [ret]
+      [b, 0xa305c0]
     ]    
 MASTER_WRITE:
   # Remove double buffer
@@ -18,3 +18,4 @@ MASTER_WRITE:
     instructions: [
       [bl, _tripleBuffer()]
     ]
+

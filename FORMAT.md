@@ -93,7 +93,7 @@ Define 64-bit integer value that will be referenced directly in assembly when ge
 > type: variable
 
 Defines value that will be put into Core's RW- buffer. Variables addresses are size-aligned.
-- `name` - label used to reference value. To reference it in assembly, you must use `$` in combination with its name. In `ALL_FPS` section, referencing its address use raw name.
+- `name` - label used to reference value. To reference it in assembly, you must use `$` in combination with its name. In `ALL_FPS` section,to reference its address use raw name.
 - `value_type` - check "Supported types".
 - `default_value` - value that will be used to initialize new variable. Remember that if `value_type` is set to any integer, don't use decimals.
 - `evaluate` - math formula that will refresh variable in regular interval if Custom FPS Target is set. It's not obligatory to use it.
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

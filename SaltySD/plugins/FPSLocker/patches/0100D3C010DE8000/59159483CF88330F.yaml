@@ -8,7 +8,7 @@ DECLARATIONS:
     name: fps_lock
     value_type: uint32
     default_value: 33333333
-    evaluate: "FRAMETIME_TARGET * 93000"
+    evaluate: "FRAMETIME_TARGET * 930000"
   -
     type: variable
     name: frame_time
@@ -48,3 +48,4 @@ MASTER_WRITE:
       [fminnm, s0, s0, s2],
       [ldr, s2, [x8, $frame_time]]
     ]
+

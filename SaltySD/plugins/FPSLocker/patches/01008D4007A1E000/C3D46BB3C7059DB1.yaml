@@ -1,8 +1,6 @@
 # Outlast 1.0.1
 # BID: C3D46BB3C7059DB1
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Remove double buffer
   -

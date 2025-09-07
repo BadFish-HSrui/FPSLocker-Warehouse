@@ -9,7 +9,7 @@ ALL_FPS:
     type: evaluate_write
     address: [MAIN, 0x520BBE0, 0x40]
     value_type: float
-    value: ["(1 / FPS_TARGET) * 0.95", "(1 / FPS_TARGET) * 0.9"]
+    value: ["0.95 / FPS_TARGET", "0.9 / FPS_TARGET"]
   # t.MaxFPS
   -
     type: evaluate_write

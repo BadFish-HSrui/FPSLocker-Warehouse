@@ -49,12 +49,12 @@ It's the same as `write` with one big difference - it is used to write expressio
 
 Compare the value from provided `compare_address` with a static `compare_value` and if it's correct, it writes the static `value` to provided `address`
 - `compare_address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE` (64-bit games only). Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A65958` to `MAIN` address to get a final address. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
-- `compare_address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
+- `compare_address_unsafe` - flag if that compare_address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
 - `compare_type` - check [Supported types](#supported-types). `compare_value` is the right operand. Write them always with quotes to not trigger yaml formatting exception.
 - `compare_value_type` - check [Supported types](#supported-types).
 - `compare_value` - what value will be compared with the value from `compare_address`. Remember that if `value_type` is set to any integer, don't use decimals.
-- `address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
 - `address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE` (64-bit games only). Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A08F98` to `MAIN` address and this is the final address. This is not required if `value_type` is `refresh_rate`. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
+- `address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
 - `value_type` - check [Supported types](#supported-types).
 - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
 
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

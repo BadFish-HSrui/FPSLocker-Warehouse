@@ -67,6 +67,7 @@ ALL_FPS:
     compare_value_type: int8
     compare_value: 0
     address: [MAIN, 0x1BA1A90, 128]
+    address_unsafe: true
     value_type: float
     value: 0.0333333333
   -

@@ -1,8 +1,6 @@
 # Sherlock Holmes: Crimes and Punishments 1.0.0
 # BID: 789C2939A757C0CD
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

@@ -35,7 +35,7 @@ DECLARATIONS:
       [mov, w2, 1],
       [adrp, x3, $cutscene_flag],
       [strb, w2, [x3, $cutscene_flag]],
-      [bl, 0x5f888], # Jump to original BL as B
+      [bl, 0x5f888], #Jump to original BL
       [ldp, x29, x30, [sp], 16],
       [ret]
     ]
@@ -174,4 +174,5 @@ ALL_FPS:
     compare_type: "=="
     value_type: refresh_rate
     value: 30
+
 

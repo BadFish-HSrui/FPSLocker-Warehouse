@@ -1,8 +1,6 @@
 # Fate/EXTELLA LINK 1.0.2
 # BID: 97FC79E063E26C9B
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Remove double buffer
   -

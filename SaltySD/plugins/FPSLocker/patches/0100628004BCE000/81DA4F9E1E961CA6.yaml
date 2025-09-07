@@ -1,8 +1,6 @@
 # Nights Of Azure 2: Bride of the New Moon 1.0.1
 # BID: 81DA4F9E1E961CA6
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: code

@@ -1,8 +1,6 @@
 # No Man's Sky 5.7.5
 # BID: D5C5F47DFABD0812
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

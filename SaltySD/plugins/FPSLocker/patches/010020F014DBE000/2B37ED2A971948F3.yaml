@@ -1,8 +1,6 @@
 # Sherlock Holmes: The Devil's Daughter 1.0.0
 # BID: 2B37ED2A971948F3
 
-unsafeCheck: true
-
 DECLARATIONS:
   - 
     type: variable

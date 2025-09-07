@@ -35,6 +35,7 @@ MASTER_WRITE:
     ]
 ALL_FPS:
   # g_video_swap_mode
+  ## Setting it to 1 to enable 120 FPS results in resolution range being always forced to docked mode
   -
     type: write
     address: [MAIN, 0xAA62FF0]

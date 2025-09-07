@@ -45,6 +45,7 @@ ALL_FPS:
   -
     type: evaluate_write
     address: [MAIN, 0x1EC6CF0, 0x4C]
+    address_unsafe: true
     value_type: float
     value: "FPS_LOCK_TARGET"
   -

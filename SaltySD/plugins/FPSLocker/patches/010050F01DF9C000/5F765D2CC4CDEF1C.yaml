@@ -34,4 +34,3 @@ MASTER_WRITE:
     instructions: [
       [ldr, d1, [x20, $dr_target2]]
     ]
-

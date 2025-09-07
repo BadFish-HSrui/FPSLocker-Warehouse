@@ -1,8 +1,6 @@
 # Neptunia Game Maker R:Evolution 1.00
 # BID: FCA830BAE649B898
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

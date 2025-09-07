@@ -1,8 +1,6 @@
 # resident evil 0 1.0.0
 # BID: FB4239AA962B429B
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -56,4 +54,3 @@ ALL_FPS:
     compare_address: [VARIABLE, cutscene_flag]
     value_type: refresh_rate
     value: 30
-

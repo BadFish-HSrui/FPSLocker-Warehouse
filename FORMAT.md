@@ -55,7 +55,7 @@ Compare the value from provided `compare_address` with a static `compare_value` 
 - `compare_value` - what value will be compared with the value from `compare_address`. Remember that if `value_type` is set to any integer, don't use decimals.
 - `address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
 - `address` - always starts with one of the regions: `MAIN`, `HEAP`, `ALIAS` or `VARIABLE` (64-bit games only). Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided second example we add `0x1A08F98` to `MAIN` address and this is the final address. This is not required if `value_type` is `refresh_rate`. For `VARIABLE` you must use name of variable declared in `DECLARATIONS` section instead of offset.
-- `value_type` - check "Supported types".
+- `value_type` - check [Supported types](#supported-types).
 - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
 
 > type: evaluate_compare
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

@@ -1,6 +1,6 @@
 # SnowRunner 1.0.40
 # BID: 54551AEABF6E1F41
-# Just search for 0x42055555
+# Just search for 0x42055555 in case of REF not working
 
 DECLARATIONS:
   -
@@ -11,6 +11,7 @@ DECLARATIONS:
     evaluate: FRAMETIME_TARGET
 MASTER_WRITE:
 # Redirect DR frametime target
+## REF: 01 04 0C 5E 00 10 2E 1E
   -
     type: asm_a64
     main_offset: 0x193CEA8

@@ -129,7 +129,7 @@ ALL_FPS:
     compare_value: 1
     compare_address: [MAIN, 0xBD7F40]
     value_type: refresh_rate
-    value: 30
+    value: 60
   -
     type: compare
     compare_type: "=="
@@ -163,4 +163,3 @@ ALL_FPS:
     compare_address: [MAIN, 0xBD7F40]
     address: [VARIABLE, dr_target]
     value: 0.0166666666
-

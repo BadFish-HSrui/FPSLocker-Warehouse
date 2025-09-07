@@ -18,4 +18,3 @@ MASTER_WRITE:
     instructions: [
       [bl, _tripleBuffer()]
     ]
-

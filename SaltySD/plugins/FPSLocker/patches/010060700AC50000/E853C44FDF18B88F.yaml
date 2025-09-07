@@ -19,7 +19,7 @@ MASTER_WRITE:
       [ldr, s2, [x9, $dr_target]]
     ]
 ALL_FPS:
-  # Internal Vsync (default value)
+  # Internal Vsync
   -
     type: evaluate_write
     address: [MAIN, 0x45A7410]
@@ -31,4 +31,3 @@ ALL_FPS:
     address: [MAIN, 0x45A71F0]
     value_type: float
     value: FPS_TARGET
-

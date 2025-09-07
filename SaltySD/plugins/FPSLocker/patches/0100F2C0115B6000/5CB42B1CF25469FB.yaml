@@ -131,7 +131,7 @@ MASTER_WRITE:
     instructions: [
       [nop]
     ]
-  # When prerendered cutscene is active write flag to MAIN + 0x3ACCFFB
+  # When prerendered cutscene is active write flag to cutscene_flag
   ## REF: 68 52 40 79 08 01 19 32 68 52 00 79
   ## BL to Code Cave 1
   -
@@ -148,7 +148,7 @@ MASTER_WRITE:
     instructions: [
       [b, _cutscene_2()]
     ]
-  # Adjust DR timing to factor from MAIN + 0x3ACCFF4
+  # Adjust DR timing to factor from dr_factor
   # REF: 88 02 15 CB 00 01 23 9E
   -
     type: asm_a64
@@ -174,5 +174,6 @@ ALL_FPS:
     compare_type: "=="
     value_type: refresh_rate
     value: 30
+
 
 

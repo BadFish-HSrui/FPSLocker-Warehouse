@@ -147,10 +147,19 @@ ALL_FPS:
     address: [VARIABLE, max_delta]
     value: 30
   -
-    type: evaluate_compare
+    type: compare
+    compare_type: "=="
+    compare_value_type: uint8
+    compare_value: 1
+    compare_address: [MAIN, 0xBD7F40]
+    address: [MAIN, 0xB74BC0]
+    value_type: uint32
+    value: [2, 2]
+  -
+    type: compare
     compare_type: "=="
     compare_value_type: uint8
     compare_value: 1
     compare_address: [MAIN, 0xBD7F40]
     address: [VARIABLE, dr_target]
-    value: "0.0333333333 / VSYNC_TARGET"
+    value: 0.0166666666

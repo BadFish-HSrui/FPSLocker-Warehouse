@@ -1,8 +1,6 @@
 # The Legend of Zelda: Breath of the Wild 1.8.2
 # BID: DE0B6AC4EFC1DDA7
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

@@ -2,8 +2,6 @@
 # BID: 59159483CF88330F
 # Button polling is 2x more sensitive to holding any button
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -50,4 +48,3 @@ MASTER_WRITE:
       [fminnm, s0, s0, s2],
       [ldr, s2, [x8, $frame_time]]
     ]
-

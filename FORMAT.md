@@ -131,7 +131,7 @@ Defines assembly instructions that will be put into Core's R-X section, which me
 
 # Expressions
 
-For expressions evaluation is used TinyExpr library. It supports various math C functions with addition to FPSLocker that includes globals and one additional function.
+TinyExpr library is used for expressions evaluation. It supports various math C functions, additionally FPSLocker includes globals and one more function.
 
 Additional function:
 - `TruncDec([Value], [Dec])` - This function removes decimals from "Value". With "Dec" we can control how many decimals we will leave. For example if we write `TruncDec(FRAMETIME_TARGET, 2)` it will result in `33.33` when 30 FPS is chosen.
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

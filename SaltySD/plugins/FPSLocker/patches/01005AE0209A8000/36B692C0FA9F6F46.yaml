@@ -1,8 +1,6 @@
 # WARRIORS: Abyss 1.4.0
 # BID: 36B692C0FA9F6F46
 
-unsafeCheck: true
-
 DECLARATIONS:
   - 
     type: variable

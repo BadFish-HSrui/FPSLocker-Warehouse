@@ -2,8 +2,6 @@
 # BID: 1A971CC40B6D5B3F
 # Cursor speed is tied to framerate, main menu animations speed is not adjusted properly in range from 35 to 55 FPS
 
-unsafeCheck: true
-
 DECLARATIONS:
   # DON'T PUT ANYTHING BETWEEN - START
   -

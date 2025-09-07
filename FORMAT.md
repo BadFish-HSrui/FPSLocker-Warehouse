@@ -4,7 +4,7 @@ Patches are converted from YAML files that are tied to the buildid of games, so 
 YAML files must be encoded in UTF-8 without BOM.
 
 YAML file consists of keys:
-- `unsafeCheck` - setting it to `true` results in the plugin not checking if an address is valid. It is recommended to leave it at `false` if you use HEAP related address. By default it's `true`. This key is not obligatory to have.
+- `unsafeCheck` - setting it to `true` results in the plugin not checking if an address is valid. It is recommended to leave it at `false` if you use HEAP related address. By default it's `true`. This key is not obligatory to have and is deprecated in the favour of `address_unsafe`/`compare_address_unsafe` keys.
 - `ALL_FPS` - When Custom FPS Target is set, this part is updating provided addresses regularly. It supports only RW- sections.This section is not obligatory if you use `MASTER_WRITE`.
 - `MASTER_WRITE` - This applies data before game starts initialization to any section that can be read, which means R-X, RW- and R--. This section is not obligatory.
 - `DECLARATIONS` - It puts data into Core internal buffers, you can reference them with labels in sections above. This section is not obligatory. Compatible only with 64-bit games.
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

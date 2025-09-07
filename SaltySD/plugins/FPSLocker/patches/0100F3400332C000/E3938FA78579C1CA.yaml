@@ -1,8 +1,6 @@
 # Xenoblade2 2.0.2
 # BID: E3938FA78579C1CA
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

@@ -46,7 +46,7 @@ DECLARATIONS:
       [ucvtf, s3, x10],
       [mov, w9, $tick_frequency],
       [movk, w9, $tick_frequency, 16],
-      [fmov, s4, w9],
+      [ucvtf, s4, w9],
       [fdiv, s4, s3, s4],
       [adrp, x9, $actual_frametime],
       [fcmp, s4, s1],
@@ -97,4 +97,5 @@ MASTER_WRITE:
       [adrp, x11, $actual_frametime],
       [ldr, w11, [x11, $actual_frametime]]
     ]
+
 

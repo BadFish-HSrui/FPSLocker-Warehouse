@@ -40,4 +40,3 @@ ALL_FPS:
     address: [MAIN, 0xAA62FF0]
     value_type: int32
     value: 2
-

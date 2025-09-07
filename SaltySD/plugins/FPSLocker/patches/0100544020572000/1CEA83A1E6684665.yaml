@@ -29,5 +29,3 @@ ALL_FPS:
     address_unsafe: true
     value_type: uint8
     value: 0
-
-

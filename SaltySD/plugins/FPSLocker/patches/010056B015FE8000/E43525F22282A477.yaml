@@ -21,7 +21,7 @@ DECLARATIONS:
     default_value: 30
     evaluate: "0.9 * FRAMETIME_TARGET"
 MASTER_WRITE:
-  # Redirect DR timings to MAIN + 0x2BE6F00, [Bad, Optimal, Good]
+  # Redirect DR timings
   -
     type: asm_a64
     main_offset: 0x9BF3E4
@@ -51,3 +51,4 @@ MASTER_WRITE:
     instructions: [
       [ldr, s0, [x12, $dr_target_good]]
     ]
+

@@ -2,8 +2,6 @@
 # BID: 283095029A5AB467
 # Double buffer is reserved line by line inside class array, so requires ton of patching
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -11,7 +9,6 @@ DECLARATIONS:
     value_type: float
     default_value: 33.333333
     evaluate: FRAMETIME_TARGET
-
 MASTER_WRITE:
   # Force game to use dynamic speed instead of fixed speed
   -

@@ -2,8 +2,6 @@
 # BID: 7A450848CFDEC18E
 # Some prerendered cutscenes are still pushed at 30 FPS
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Block updating DR timings, REF: 00 01 27 1E 48 40 A8 52
   -
@@ -53,5 +51,3 @@ ALL_FPS:
   -
     type: block
     what: timing
-
-

@@ -9,8 +9,8 @@ DECLARATIONS:
     value: 19200000
   -
     type: const
-    name: max_delta
-    value: 0x3d888889
+    name: max_delta_fps
+    value: 15
   -
     type: variable
     name: last_tick
@@ -33,9 +33,9 @@ DECLARATIONS:
     instructions: [
       [adrp, x9, $min_delta],
       [ldr, s1, [x9, $min_delta]],
-      [mov, w9, $max_delta],
-      [movk, w9, $max_delta, 16],
-      [fmov, s2, w9],
+      [fmov, s3, 1.0],
+      [fmov, s2, 15.0],
+      [fdiv, s2, s3, s2],
       [mrs, x8, cntpct_el0],
       [adrp, x9, $last_tick],
       [ldr, x10, [x9, $last_tick]],
@@ -97,3 +97,4 @@ MASTER_WRITE:
       [adrp, x11, $actual_frametime],
       [ldr, w11, [x11, $actual_frametime]]
     ]
+

@@ -4,8 +4,6 @@
 Addons:
   - atmosphere/contents/0100F2C0115B6000/exefs/main.npdm
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Remove double buffer
   -

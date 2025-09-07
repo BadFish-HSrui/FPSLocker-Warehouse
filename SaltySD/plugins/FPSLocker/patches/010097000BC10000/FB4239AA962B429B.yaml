@@ -54,4 +54,3 @@ ALL_FPS:
     compare_address: [VARIABLE, cutscene_flag]
     value_type: refresh_rate
     value: 30
-

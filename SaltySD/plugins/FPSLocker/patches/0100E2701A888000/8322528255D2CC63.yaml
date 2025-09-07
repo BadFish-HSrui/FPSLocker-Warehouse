@@ -2,8 +2,6 @@
 # BID: 8322528255D2CC63
 # To update dynamic resolution offsets look at fb::renderer::ResolutionScaler::update
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -55,3 +53,4 @@ MASTER_WRITE:
     instructions: [
       [ldr, d6, [x10, $dr_target_min]]
     ]
+

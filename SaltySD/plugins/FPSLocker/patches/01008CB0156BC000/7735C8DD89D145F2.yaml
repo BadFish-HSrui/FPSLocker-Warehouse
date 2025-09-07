@@ -2,8 +2,6 @@
 # BID: 7735C8DD89D145F2
 # "Beyond the Reverie" dream has broken text fade effects above 30 FPS. 
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: const
@@ -99,4 +97,3 @@ MASTER_WRITE:
       [adrp, x11, $actual_frametime],
       [ldr, w11, [x11, $actual_frametime]]
     ]
-

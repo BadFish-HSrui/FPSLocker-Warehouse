@@ -1,8 +1,6 @@
 # Resident Evil 1.0.0
 # BID: 6BEC9B23B09DF46C
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

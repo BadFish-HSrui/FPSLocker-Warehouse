@@ -1,8 +1,6 @@
 # NieR:Automata The End of YoRHa Edition US/EU 1.0.2
 # BID: E43525F22282A477
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

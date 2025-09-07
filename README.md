@@ -174,7 +174,7 @@ PATCH AVAILABILITY<br>
 | Cars 3: Driven to Win | `0100744001588000` | `6E191829548C2A41` (❌, v2, 1.0.2) | ⚔️ |
 | Cassette Beasts | `010066F01A0E0000` | `65688736640651F6` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/58C1B2EA8257D5F1.yaml), v9, 1.6.3) <br> `2C58E765387F9DDA` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/2C58E765387F9DDA.yaml), v10, 1.6.4) <br> `F09EAE79357E3032` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/F09EAE79357E3032.yaml), v12, 1.7.1) <br> `153D5A2ABB9C0BA6` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/153D5A2ABB9C0BA6.yaml), v13, 1.7.2) <br> `B5DCAAA828DA5034` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/B5DCAAA828DA5034.yaml), v14, 1.8.0) <br> `768428355C994280` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/768428355C994280.yaml), v15, 1.8.2) | ~~🔐🏃~~ |
 | Castle Renovator | `010013801A0E4000` | `34E094252A069FE9` (◯, v0, 1.0.0) | 🟢 |
-| Cat Quest III | `010088501B8F2000` | `754EB9D18EEDEDEC` (◯, v14, 1.4.3) | 🟢 |
+| Cat Quest III | `010088501B8F2000` | `A51ED5E6540C4921` (◯, v15, 1.4.7) | 🟢 |
 | Catherine: Full Body | `0100BF00112C0000` | `93A79C77DA81F7F1` (❌, v2, 1.0.1a) | ⏱️🖥️ |
 | Cel Damage HD | `010019B00BE72000` | `03B058B1F6BE7195` ([✅](SaltySD/plugins/FPSLocker/patches/010019B00BE72000/03B058B1F6BE7195.yaml), v0, 1.0.0) | ~~🔐~~🌤️ |
 | Chants of Sennaar | `0100543019CB0000` | `4965231C2C9FA6D3` (◯, v3, 1.0.3) | 🟢 |

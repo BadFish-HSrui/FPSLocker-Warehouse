@@ -15,7 +15,7 @@ DECLARATIONS:
     default_value: 29
     evaluate: "(0.93 * FRAMETIME_TARGET) - 2"
 MASTER_WRITE:
-  # Redirect reading DR timing in DynamicResolution::LowerResSW() to MAIN + 0x7C22F00
+  # Redirect reading DR timing in DynamicResolution::LowerResSW()
   # REF: 01 f0 67 1e
   -
     type: asm_a64
@@ -34,3 +34,4 @@ MASTER_WRITE:
     instructions: [
       [ldr, d1, [x20, $dr_target2]]
     ]
+

@@ -4,8 +4,6 @@
 # Fishing timer is decreasing 2x faster at 60 FPS
 # Bike is turning 2x faster at 60 FPS
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

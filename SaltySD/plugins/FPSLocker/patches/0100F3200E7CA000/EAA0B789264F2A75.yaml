@@ -1,8 +1,6 @@
 # The Settlers: New Allies 1.0.7
 # BID: EAA0B789264F2A75
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

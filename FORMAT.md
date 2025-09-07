@@ -77,7 +77,7 @@ This is used to write data into main executable, it can write to any part of exe
 
 This is used to write assembly instructions instead of integers for better maintenance. FPSLocker automatically calculates offsets based of main_offset value.
 - `main_offset` - where value should be written relative to `main` executable start in RAM.
-- `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
+- `instructions` - it's always a list, it stores instructions in list format. Read about instructions [HERE](#asm-instructions).
 
 # List of types accepted by `DECLARATIONS`
 > [!IMPORTANT]
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

@@ -1,8 +1,6 @@
 # Tiebreak+: Official Game of the ATP and WTA 1.3.0
 # BID: 88CC45A195E0BDA8
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

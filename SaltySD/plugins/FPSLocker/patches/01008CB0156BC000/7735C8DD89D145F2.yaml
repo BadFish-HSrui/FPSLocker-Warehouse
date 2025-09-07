@@ -8,10 +8,6 @@ DECLARATIONS:
     name: tick_frequency
     value: 19200000
   -
-    type: const
-    name: max_delta_fps
-    value: 15
-  -
     type: variable
     name: last_tick
     value_type: uint64
@@ -97,5 +93,6 @@ MASTER_WRITE:
       [adrp, x11, $actual_frametime],
       [ldr, w11, [x11, $actual_frametime]]
     ]
+
 
 

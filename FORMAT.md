@@ -38,7 +38,7 @@ ALL_FPS:
 Write a static value to provided `address`
 - `address` - always starts with one of the regions: `MAIN`, `HEAP`, or `ALIAS`. Next, we have offsets. If the offset is not the last one, it is treated as a pointer address. In provided first example we read the pointer from `MAIN + 0x12257C30` and add to it `0x434` to get a final address.
 - `address_unsafe` - flag if that address doesn't store correct pointer before first frame is pushed, it will go through address validation in Core before use. It's not obligatory to use, by default it's false if `unsafeCheck` is true.
-- `value_type` - check "Supported types".
+- `value_type` - check [Supported types](#supported-types).
 - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
 
 > type: evaluate_write
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

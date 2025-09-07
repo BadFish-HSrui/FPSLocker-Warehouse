@@ -101,7 +101,7 @@ Defines value that will be put into Core's RW- buffer. Variables addresses are s
 
 Defines assembly instructions that will be put into Core's R-X section, which means they can be executed.
 - `name` - label used to reference start of code. To reference it in assembly, you must use `_` before provided name and `()` after provided name.
-- `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
+- `instructions` - it's always a list, it stores instructions in list format. Read about instructions [HERE](#asm-instructions).
 ---
 
 # Supported types
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

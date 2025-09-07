@@ -1,8 +1,6 @@
 # Neptunia: Sisters VS Sisters 1.0.0
 # BID: 3565E26E8827C846
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -17,7 +15,7 @@ DECLARATIONS:
     default_value: 28.57
     evaluate: "TruncDec(1000 / (FPS_TARGET + 5), 2)"
 MASTER_WRITE:
-  # Redirect DR timing range to MAIN + 0x86B9F00
+  # Redirect DR timing range
   -
     type: asm_a64
     main_offset: 0x3DC5E90
@@ -32,3 +30,4 @@ MASTER_WRITE:
       [adrp, x8, $dr_target2],
       [ldr, w8, [x8, $dr_target2]]
     ]
+

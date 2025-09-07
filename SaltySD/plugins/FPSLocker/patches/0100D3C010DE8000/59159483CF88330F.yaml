@@ -18,7 +18,7 @@ DECLARATIONS:
     type: code
     name: dynamicSpeed
     instructions: [
-      [str, d0, [x19, 8]],
+      [str, x0, [x19, 8]],
       [fcvt, s4, d0],
       [adrp, x8, $frame_time],
       [str, s4, [x8, $frame_time]],
@@ -48,4 +48,5 @@ MASTER_WRITE:
       [fminnm, s0, s0, s2],
       [ldr, s2, [x8, $frame_time]]
     ]
+
 

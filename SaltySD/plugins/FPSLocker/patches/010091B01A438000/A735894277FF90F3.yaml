@@ -1,8 +1,6 @@
 # 零 ～月蝕的假面～ 1.0.3
 # BID: A735894277FF90F3
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -41,4 +39,3 @@ ALL_FPS:
   -
     type: block
     what: timing
-

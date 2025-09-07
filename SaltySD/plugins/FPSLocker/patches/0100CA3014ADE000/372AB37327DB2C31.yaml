@@ -1,8 +1,6 @@
 # Umurangi Generation 1.6.6.0
 # BID: 372AB37327DB2C31
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable

@@ -2,8 +2,6 @@
 # BID: E853C44FDF18B88F
 # Credits to Hazerou for finding offsets for FPS lock and speed
 
-unsafeCheck: true
-
 DECLARATIONS:
   -
     type: variable
@@ -33,3 +31,4 @@ ALL_FPS:
     address: [MAIN, 0x45A71F0]
     value_type: float
     value: FPS_TARGET
+

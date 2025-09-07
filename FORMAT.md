@@ -43,7 +43,7 @@ Write a static value to provided `address`
 
 > type: evaluate_write
 
-It's the same as `write` with one big difference - it is used to write expressions in `value`. More about expressions at `Expressions` section.
+It's the same as `write` with one big difference - it is used to write expressions in `value`. More about expressions [HERE](#expressions).
 
 > type: compare
 
@@ -60,7 +60,7 @@ Compare the value from provided `compare_address` with a static `compare_value` 
 
 > type: evaluate_compare
 
-It's the same as `compare` with one big difference - it is used to write expressions in `value`. More about expressions at the bottom of file.
+It's the same as `compare` with one big difference - it is used to write expressions in `value`. More about expressions [HERE](#expressions).
 
 > type: block<br>
 - `what` - supported commands:
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

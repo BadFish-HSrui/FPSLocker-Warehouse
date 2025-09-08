@@ -22,5 +22,4 @@ ALL_FPS:
     value: [FPS_LOCK_TARGET, FPS_LOCK_TARGET]
   -
     type: block
-
     what: timing

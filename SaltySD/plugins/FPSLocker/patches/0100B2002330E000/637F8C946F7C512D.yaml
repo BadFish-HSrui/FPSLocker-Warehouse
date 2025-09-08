@@ -1,4 +1,4 @@
-# Mandragora: Whispers of the Witch Tree 1.5.3.135819
+# Mandragora: Whispers of the Witch Tree JPN 1.5.3.135819
 # BID: 637F8C946F7C512D
 
 ALL_FPS:
@@ -22,4 +22,5 @@ ALL_FPS:
     value: [FPS_LOCK_TARGET, FPS_LOCK_TARGET]
   -
     type: block
+
     what: timing

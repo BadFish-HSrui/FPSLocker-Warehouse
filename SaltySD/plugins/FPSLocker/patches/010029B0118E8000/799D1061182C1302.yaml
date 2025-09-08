@@ -2,8 +2,6 @@
 # BID: 799D1061182C1302
 # Thanks to theboy181 for finding instruction responsible for calculating frame time which I used to find where is FPS target stored
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Remove FPS Lock
   -
@@ -42,4 +40,3 @@ ALL_FPS:
     address: [MAIN, 0xEFFC60, 0x50]
     value_type: float
     value: "1 / FPS_TARGET"
-

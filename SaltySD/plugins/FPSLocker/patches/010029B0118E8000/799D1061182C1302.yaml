@@ -21,11 +21,13 @@ ALL_FPS:
   -
     type: evaluate_write
     address: [MAIN, 0xED96A8, 0x30]
+    address_unsafe: true
     value_type: uint32
     value: "19200000 / FPS_TARGET"
   -
     type: evaluate_write
     address: [MAIN, 0xED96A8, 0x28]
+    address_unsafe: true
     value_type: uint32
     value: "1920000 / FPS_TARGET"
   # FPS 2D Game Speed Target

@@ -8,7 +8,7 @@ Currently this repository is dedicated only to FPSLocker 3.0.0 or newer
 
 ### Some 30 FPS game is not on the list? Write about it [HERE](issues/895).
 
-### Some game not on the list is not up to date? Write about it [HERE](issues/894).
+### Some game on the list is not up to date? Write about it [HERE](issues/894).
 
 ---
 

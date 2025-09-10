@@ -181,5 +181,3 @@ ALL_FPS:
     compare_type: "=="
     value_type: refresh_rate
     value: 30
-
-

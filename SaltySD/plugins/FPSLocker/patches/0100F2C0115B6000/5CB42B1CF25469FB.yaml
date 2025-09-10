@@ -94,8 +94,8 @@ MASTER_WRITE:
       [bl, _convertTickToTimeSpan()],
       [mov, w2, $nanoseconds_in_s],
       [movk, w2, $nanoseconds_in_s, 16],
-      [scvtf, s2, w2],
-      [scvtf, s1, x0],
+      [ucvtf, s2, w2],
+      [ucvtf, s1, x0],
       [fdiv, s1, s2, s1],
       [fcmp, s1, s9],
       [fcsel, s1, s9, s1, gt],
@@ -181,4 +181,5 @@ ALL_FPS:
     compare_type: "=="
     value_type: refresh_rate
     value: 30
+
 

@@ -6,6 +6,9 @@ Remember that NX-FPS is limited by SaltyNX capabilities.
 Read SaltyNX readme to check which games are not compatible.<br>
 Currently this repository is dedicated only to FPSLocker 3.0.0 or newer
 
+###Some 30 FPS game is not on the list? Write about it [HERE](issues/895).
+###Some game not on the list is not up to date? Write about it [HERE](issues/894).
+
 ---
 
 > IT IS RECOMMENDED TO USE OVERLAY'S BUILTIN OPTION TO DOWNLOAD CONFIG! Some games may require additional files to fix certain issues (f.e. compatibility with romfs mods in Tears of The Kingdom), using builtin option is a sure way to download all needed files at once!

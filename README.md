@@ -583,7 +583,7 @@ PATCH AVAILABILITY<br>
 | RiME | `0100A62002042000` | `B426F56F027E8231` (◯, v2, 1.0.2) | [🟢](#🟢) |
 | Road 96 | `010031B0145B4000` | `EAF3511193618B2A` (◯, v5, 1.05) | [🟢](#🟢) |
 | Road 96: Mile 0 | `01008600180CE000` | `DF1EBBA8DE722A3B` (◯, v0, 1.00) | [🟢](#🟢) |
-| ROBOBEAT | `01009AC01F8E4000` | `85237833F64043B4` (◯, v1, 1.0.25) | [🟢](#🟢) |
+| ROBOBEAT | `01009AC01F8E4000` | `D94E7982DF38E96C` (◯, v2, 1.1.4) | [🟢](#🟢) |
 | ROMANCE OF THE THREE KINGDOMS 8 | `0100C2A01A730000` | `732D8DFF2252DDC8` (❌, v7, 1.0.7) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | ROMANCE OF THE THREE KINGDOMS XIV | `0100ED7012DB2000` | `1A971CC40B6D5B3F` ([✅](SaltySD/plugins/FPSLocker/patches/0100ED7012DB2000/1A971CC40B6D5B3F.yaml), v7, 1.0.10) | ~~[🔐](#🔐)[⏱️](#⏱️)~~[🖥️](#🖥️) |
 | 三國志14 with 威力加強版 | `0100CD4012DCA000` | `B067B077906C6208` ([✅](SaltySD/plugins/FPSLocker/patches/0100CD4012DCA000/B067B077906C6208.yaml), v10, 1.0.10) | ~~[🔐](#🔐)[⏱️](#⏱️)~~[🖥️](#🖥️) |

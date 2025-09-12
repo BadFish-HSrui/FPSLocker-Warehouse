@@ -6,9 +6,7 @@ Remember that NX-FPS is limited by SaltyNX capabilities.
 Read SaltyNX readme to check which games are not compatible.<br>
 Currently this repository is dedicated only to FPSLocker 3.0.0 or newer
 
-### Some 30 FPS game is not on the list? Write about it [HERE](https://github.com/masagrator/FPSLocker-Warehouse/issues/895).
-
-### Some game on the list is not up to date? Write about it [HERE](https://github.com/masagrator/FPSLocker-Warehouse/issues/894).
+### Some 30 FPS game is not on the list some game cannot go past 60 FPS? Write about it [HERE](https://github.com/masagrator/FPSLocker-Warehouse/issues/895).
 
 ---
 

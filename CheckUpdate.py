@@ -31,7 +31,22 @@ def DownloadDatabase():
         if (array[2] == ""):
             continue
         DATA.database[array[0]] = int(int(array[2]) / 65536)
-        
+    site = "https://raw.githubusercontent.com/masagrator/version_dump/refs/heads/main/version_dump.txt"
+    request_site = Request(site, headers={"User-Agent": "Mozilla/5.0"})
+    text = urlopen(request_site).read().decode("ascii").split("\n")
+    for line in text:
+        if (line.find("id") != -1):
+            continue
+        array = line.rstrip("\n").rstrip("\r").split("|")
+        if (len(array) < 3):
+            continue
+        if (array[2] == ""):
+            continue
+        version_value = int(int(array[2]) / 65536)
+        if (array[0] not in DATA.database):
+            DATA.database[array[0]] = version_value
+        elif DATA.database[array[0]] < version_value:
+            DATA.database[array[0]] = version_value
 
 print("Downloading database...")
 DownloadDatabase()

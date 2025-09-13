@@ -63,11 +63,11 @@ for line in file:
     versionColumn = line.split("|")[3]
     pos = versionColumn.find(", v") + 3
     if (versionColumn.find("<br>") == -1):
-        version = int(re.sub("\D", "", versionColumn[pos:pos+2]))
+        version = int(re.sub(r"\D", "", versionColumn[pos:pos+2]))
     else:
         pos = versionColumn.rfind("<br>")
         pos = versionColumn.find(", v", pos) + 3
-        version = int(re.sub("\D", "", versionColumn[pos:pos+2]))
+        version = int(re.sub(r"\D", "", versionColumn[pos:pos+2]))
     try:
         latestUpdate = DATA.database[titleid[:13] + "800"]
     except:

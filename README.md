@@ -16,7 +16,7 @@ Currently this repository is dedicated only to FPSLocker 3.0.0 or newer
 
 ---
 
-Column `ISSUES` represents what issues you can expect from game when trying to go above default FPS target without using patch. It is valid only for the game's latest version listed here. In older versions it may be different (Example: Horizon Chase 2 1.6.6 uses internal FPS lock, but 1.6.3 doesn't).<br>
+Column `ISSUES` represents what issues you can expect from game when trying to go above default FPS target without using patch. It is valid only for the game's latest version listed here and only up to 60 FPS, above 60 FPS you may have different experience. In older versions it may be different (Example: Horizon Chase 2 1.6.6 uses internal FPS lock, but 1.6.3 doesn't).<br>
 Patches status concern only FPSLocker "LOCK" patch format. There may exist cheat/IPS patch/mod that unlocks 60 FPS already.<br>
 As the list is filled by community, it may not be up to date.
 

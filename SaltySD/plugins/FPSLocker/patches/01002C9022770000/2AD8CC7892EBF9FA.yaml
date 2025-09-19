@@ -33,7 +33,7 @@ ALL_FPS:
     address: [MAIN, 0x65F850, 0x2C]
     value_type: uint32
     value: FPS_TARGET
-  # Dynamic Resolution
+  # Dynamic Resolution and Min Delta multiplier (some UI elements are not adjusted by it, that's why I'm using both values)
   ## REF: First function in .init_array section, ADRP + ADD + 0x220 (default float: 2)
   ## Adding there 0.95 by myself because game seems to have issues with reaching 60 FPS with 1.0
   -

@@ -40,5 +40,4 @@ ALL_FPS:
     type: evaluate_write
     address: [MAIN, 0x65F368]
     value_type: float
-
     value: "(60 / FPS_TARGET) * 0.95"

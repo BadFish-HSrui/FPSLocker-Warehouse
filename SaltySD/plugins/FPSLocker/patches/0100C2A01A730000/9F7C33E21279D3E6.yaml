@@ -55,5 +55,4 @@ MASTER_WRITE:
 ALL_FPS:
   -
     type: block
-
     what: timing

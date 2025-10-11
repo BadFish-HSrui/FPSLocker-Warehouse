@@ -1,6 +1,6 @@
 # ROMANCE OF THE THREE KINGDOMS 8 REMAKE 1.0.8
 # BID: 9F7C33E21279D3E6
-# Cursor speed is tied to framerate, main menu animations speed is not adjusted properly in range from 35 to 55 FPS
+# Cursor speed is tied to framerate
 
 DECLARATIONS:
   # DON'T PUT ANYTHING BETWEEN - START
@@ -55,4 +55,5 @@ MASTER_WRITE:
 ALL_FPS:
   -
     type: block
+
     what: timing

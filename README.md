@@ -50,6 +50,8 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 
 > <a id="🔧"></a>🔧 - *Hindered performance* - something in game is causing performance issues at higher FPS, either on its own (`r.VSync` setting in UE4/UE5 games) or when something from the above is adjusted, example: `Outer Wilds`
 
+> <a id="📷"></a>📷 - *Camera* - It must be fixed to work correctly at higher FPS, example: `妖怪ウォッチ`
+
 PATCH AVAILABILITY<br>
 ✝️ - patch is not possible to create<br>
 ❌ - patch not available (either because it's hard to do or nobody asked for it)<br>
@@ -830,7 +832,7 @@ PATCH AVAILABILITY<br>
 | Zombie Army Trilogy | `0100C7300EEE4000` | `54211726D36A8D9C` ([✅](SaltySD/plugins/FPSLocker/patches/0100C7300EEE4000/54211726D36A8D9C.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | Zombie Army 4: Dead War | `01000BF0152FA000` | `12024D08CCFD25EB` ([✅](SaltySD/plugins/FPSLocker/patches/01000BF0152FA000/12024D08CCFD25EB.yaml), v2, 1.1.1) | ~~[📏](#📏)~~ | 
 | Zomborg | `01006401D48A000` | `A371513D3E16409B` (◯, v0, 1.0.0) |  |
-| 妖怪ウォッチ | `0100C0000CEEA000` | `B6E172353E696E65` ([✅](SaltySD/plugins/FPSLocker/patches/0100C0000CEEA000/B6E172353E696E65.yaml), v3, 1.3.0) | ~~[🔐](#🔐)[🏃](#🏃)~~ |
+| 妖怪ウォッチ | `0100C0000CEEA000` | `7F35BDFC5DE46CF1` (❌, v4, 1.4.0) | [🔐](#🔐)[📷](#📷) |
 | 妖怪ウォッチ4++ | `010086C00AF7C000` | `C7DAB27F22ACD2ED` ([✅](SaltySD/plugins/FPSLocker/patches/010086C00AF7C000/C7DAB27F22ACD2ED.yaml), v14, 2.2.0) | ~~[🔐](#🔐)~~[⚔️](#⚔️) |
 | 妖怪学園Y ～ワイワイ学園生活～ | `010051D010FC2000` | `1DF8D13059E84915` (❌, v10, 4.0.0) | [🔐](#🔐)[⚔️](#⚔️) |
 | 英雄伝説 閃の軌跡I<br>改 -Thors Military Academy 1204- | `0100AD0014AB4000` | `AC8C8EC9DB1A8EF4` ([✅](SaltySD/plugins/FPSLocker/patches/0100AD0014AB4000/AC8C8EC9DB1A8EF4.yaml), v3, 1.0.3) | ~~[🔐](#🔐)~~ |

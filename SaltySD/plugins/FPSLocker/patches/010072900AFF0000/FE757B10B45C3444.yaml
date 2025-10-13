@@ -18,8 +18,9 @@ DECLARATIONS:
     type: code
     name: getVsyncTarget
     instructions: [
-      [adrp, x19, $vsync_target],
-      [ldr, w19, [x19, $vsync_target]],
+      [adrp, x0, $vsync_target],
+      [ldr, w0, [x0, $vsync_target]],
+      [mov, w19, w0],
       [ret]
     ]
   -
@@ -71,4 +72,5 @@ MASTER_WRITE:
     instructions: [
       [bl, _getDrTarget()]
     ]
+
 

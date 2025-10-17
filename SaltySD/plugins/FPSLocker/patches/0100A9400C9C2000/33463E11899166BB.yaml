@@ -65,6 +65,7 @@ MASTER_WRITE:
       - 0xE0800006
       - 0xED901A00
       - 0xEAF46ECE
+  -
     type: bytes
     main_offset: 0x1B1CF00
     value_type: float
@@ -75,3 +76,4 @@ ALL_FPS:
     address: [MAIN, 0x1B1CF00]
     value_type: float
     value: 1 / FPS_TARGET
+

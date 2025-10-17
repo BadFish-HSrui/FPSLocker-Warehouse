@@ -395,7 +395,6 @@ PATCH AVAILABILITY<br>
 | Infinity Strash: DRAGON QUEST The Adventure of Dai | `01006FA018D40000` | `DB7E474BEFABB6A0` (❌, v2, 1.0.2) | [📏](#📏)[🔧](#🔧) |
 | INMOST | `0100F1401161E000` | `16CEFEA33FE6E24F` (❌, v6, 1.0.4.3) | [📏](#📏) |
 | Insomnis | `01001CF0190C2000` | `4C6727375D877B90` ([✅](SaltySD/plugins/FPSLocker/patches/01001CF0190C2000/4C6727375D877B90.yaml), v1, 1.01) | ~~[📏](#📏)~~ |
-| Ion Fury | `010041C00D086000` | `9D2EFCF198F2247F` (◯, v4, 1.07.1) | ~~[🔐](#🔐)~~ |
 | Ironsmith: Medieval Simulator | `010025A01CD86000` | `D2A5A1FC6EEADF31` ([✅](SaltySD/plugins/FPSLocker/patches/010025A01CD86000/D2A5A1FC6EEADF31.yaml), v1, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | It Takes Two | `010092A0172E4000` | `C4067E8CB3258656` ([✅](SaltySD/plugins/FPSLocker/patches/010092A0172E4000/C4067E8CB3258656.yaml), v2, 1.0.2) | ~~[📏](#📏)[⚔️](#⚔️)~~ |
 | Jojo's Bizarre Adventure: All-Star Battle R | `010017A0128C4000` | `3D4E3A9252AA6C63` ([✅](SaltySD/plugins/FPSLocker/patches/010017A0128C4000/3D4E3A9252AA6C63.yaml), v16, 2.3.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |

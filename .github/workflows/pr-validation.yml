@@ -3,7 +3,7 @@ name: PR Validation - FPSLocker Patches
 on:
   pull_request:
     branches:
-      - main
+      - v4
 
 jobs:
   validate-patches:

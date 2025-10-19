@@ -534,6 +534,7 @@ PATCH AVAILABILITY<br>
 | Outlast | `01008D4007A1E000` | `C3D46BB3C7059DB1` ([✅](SaltySD/plugins/FPSLocker/patches/01008D4007A1E000/C3D46BB3C7059DB1.yaml), v1, 1.0.1) | ~~[⚔️](#⚔️)~~ |
 | Outlast 2 | `0100DE70085E8000` | `F18ACDA7A71CB287` ([✅](SaltySD/plugins/FPSLocker/patches/0100DE70085E8000/F18ACDA7A11CB287.yaml), v0, 1.0.0) | ~~[⚔️](#⚔️)~~ |
 | Outward: Definitive Edition | `0100AFB01AAF0000` | `49F913818D086058` (◯, v2, 1.0.2) |  |
+| Overcooked! All You Can Eat | `0100F28011892000` | `2854968F71A67B45` (◯, v11, 1.0.11) |  |
 | Overcooked! Special Edition | `01009B900401E000` | `41D554623A3F4341` (◯, v4, 1.1.1) |  |
 | Overcooked! 2 | `01006FD0080B2000` | `111D4AD7FE0C2F45` (❌, v17, 1.0.17) | [⚔️](#⚔️) |
 | Oxenfree II: Lost Signals | `010061F0176F6000` | `F722A80C29EF4275` (◯, v4, 1.4.8) |  |

@@ -24,11 +24,13 @@ DECLARATIONS:
     default_value: 30
     evaluate: FPS_TARGET
   -
-    type: variable
-    name: ladder_delta
-    value_type: uint64
-    default_value: 33333334
-    evaluate: "VSYNC_TARGET * 16666667"
+    type: const
+    name: 60FPSInNanoseconds
+    value: 16666667
+  -
+    type: const
+    name: 30FPSInNanoseconds
+    value: 33333334
   -
     type: variable
     name: frametime
@@ -72,15 +74,15 @@ DECLARATIONS:
       [csel, x2, x10, x11, gt],
       [adrp, x10, $frametime],
       [str, x2, [x10, $frametime]],
-      [mov, x13, 2],
-      [udiv, x12, x12, x13],
-      [mov, w13, 0],
+      [mov, x12, $30FPSInNanoseconds],
+      [movk, x12, $30FPSInNanoseconds, 16],
+      [mov, w13, 0x100],
       [cmp, x2, x12],
-      [b.le, :goto1],
-      [mov, w13, 1],
+      [b.lt, :goto1],
+      [mov, w13, 0x101],
       :goto1, [adrp, x10, $interval_pointer],
       [ldr, x10, [x10, $interval_pointer]],
-      [strb, w13, [x10]],
+      [strh, w13, [x10]],
       [adrp, x10, $roll_flag],
       [ldr, w11, [x10, $roll_flag]],
       [cmp, w11, 0],
@@ -95,28 +97,26 @@ DECLARATIONS:
     name: readDynamicFPS
     instructions: [
       [adrp, x10, $frametime],
-      [ldr, x10, [x10, $frametime]],
-      [cmp, x10, 0],
-      [csel, x2, x2, x10, eq],
+      [ldr, x11, [x10, $frametime]],
+      [cmp, x11, 0],
+      [csel, x2, x2, x11, eq],
       [adrp, x10, $roll_flag],
       [ldr, w10, [x10, $roll_flag]],
       [cmp, w10, 0],
       [adrp, x10, $min_delta],
       [ldr, x10, [x10, $min_delta]],
       [csel, x2, x2, x10, eq],
-      [adrp, x10, $fps_target],
-      [ldr, w10, [x10, $fps_target]],
-      [cmp, w10, 60],
-      [adrp, x10, $min_delta],
-      [ldr, x10, [x10, $min_delta]],
-      [csel, x2, x2, x10, ne],
       [adrp, x10, 0x5F0C000],
       [add, x10, x10, 0x600], # Offset where is written flag when ladder is in use
       [ldrb, w10, [x10]],
+      [mov, x12, $60FPSInNanoseconds],
+      [movk, x12, $60FPSInNanoseconds, 16], # Climbing animation expects from us animation to be multiplication of 1/60s, otherwise climbing speed is uneven and eventually we fall
+      [mov, x13, $30FPSInNanoseconds],
+      [movk, x13, $30FPSInNanoseconds, 16],
+      [cmp, x11, x13],
+      [csel, x11, x12, x13, lt],
       [cmp, w10, 0],
-      [adrp, x10, $ladder_delta],
-      [ldr, x10, [x10, $ladder_delta]], # Climbing animation expects from us animation to be multiplication of 1/60s, otherwise climbing speed is uneven and eventually we fall
-      [csel, x2, x2, x10, eq],
+      [csel, x2, x2, x11, eq],
       [br, x3]
     ]
   -
@@ -127,19 +127,15 @@ DECLARATIONS:
       [add, x0, x0, 0x20],
       [adrp, x8, $interval_pointer],
       [str, x0, [x8, $interval_pointer]],
-      [mov, w8, 0x100],
+      [mov, w8, 0x101],
       [strh, w8, [x0]],
       [sub, x0, x0, 0x20],
       [ret]
     ]
   -
-    type: code
-    name: setTo60FPSMode2
-    instructions: [
-      [mov, w9, 0x100],
-      [strh, w9, [x8, 0x20]],
-      [ret]
-    ]
+    type: const
+    name: rollFixTiming
+    value: 20000001
   -
     type: code
     name: rollFix
@@ -147,11 +143,15 @@ DECLARATIONS:
       [ldr, x8, [x0, 0x120]],
       [tbnz, x8, 1, +8], # Bit 1 = ladder/rolling
       [b, :goto1],
+      [adrp, x22, $frametime],
+      [ldr, x22, [x22, $frametime]],
+      [mov, x21, $rollFixTiming],
+      [movk, x21, $rollFixTiming, 16],      
+      [cmp, x22, x21],
+      [b.gt, :goto1], # If our FPS target is not above 50, don't do anything
+      [mov, w21, 3],
       [adrp, x22, $fps_target],
       [ldr, w22, [x22, $fps_target]],
-      [cmp, w22, 55],
-      [b.le, :goto1], # If our FPS target is not above 55, don't do anything
-      [mov, w21, 3],
       [udiv, w22, w22, w21], # Divide FPS target by 3 to get amount of frames necessary for rolling animation to not stuck our character
       [adrp, x19, $roll_flag],
       [str, w22, [x19, $roll_flag]],
@@ -204,11 +204,4 @@ MASTER_WRITE:
     main_offset: 0x19DD334
     instructions: [
       [bl, _setTo60FPSMode()]
-    ]
-  ## REF: D4 C2 94 1A 08 85 40 39
-  -
-    type: asm_a64
-    main_offset: 0x19E37D4
-    instructions: [
-      [bl, _setTo60FPSMode2()]
     ]

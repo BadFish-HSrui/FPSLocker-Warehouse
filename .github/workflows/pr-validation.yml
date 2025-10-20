@@ -1,4 +1,4 @@
-name: PR Validation - FPSLocker Patches
+name: PR/Commit validation of FPSLocker Patches
 
 on:
   pull_request:

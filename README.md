@@ -668,7 +668,7 @@ PATCH AVAILABILITY<br>
 | Sonic Frontiers | `01004AD014BF0000` | `D7A05D106FF46FC0` ([✅](SaltySD/plugins/FPSLocker/patches/01004AD014BF0000/D7A05D106FF46FC0.yaml), v7, 1.4.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | SONIC GENERATIONS | `01005EA01C0FC001` | `D91C67509C6AED8D` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC001/D91C67509C6AED8D.yaml), v2, 1.1.0) | ~~[🔐](#🔐)~~ |
 | Solar Ash | `010083501AB36000` | `0959D87753F9FED4` ([✅](SaltySD/plugins/FPSLocker/patches/010083501AB36000/0959D87753F9FED4.yaml), v1, 1.06.0) | ~~[📏](#📏)~~ |
-| SOMA | `0100927023A34000` | `D7F528DCEC83E0D6` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🏃](#🏃) |
+| SOMA | `0100927023A34000` | `9BD1FF915EE92EAA` (❌, v4, 1.4.0) | [🔐](#🔐)[⏱️](#⏱️)[🏃](#🏃) |
 | Sonic Racing: CrossWorlds | `01006E001823C000` | `CF82524FEAE270B6` (❌, v2, 1.12) | [🔐](#🔐)[⏱️](#⏱️)[🏃](#🏃) |
 | Soundfall | `0100B7A01386E000` | `39F1BCCB912A12DF` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7A01386E000/39F1BCCB912A12DF.yaml), v3, 1.3.17957) <br> `3AEEE2266CD84B1E` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7A01386E000/3AEEE2266CD84B1E.yaml), v4, 1.5.18245) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | South of the Circle | `0100E97016F60000` | `4FB83BAB154A2B56` (◯, v3, 1.0.3) |  |

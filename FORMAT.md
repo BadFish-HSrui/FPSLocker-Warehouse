@@ -139,7 +139,7 @@ Additional function:
 Globals (all are stored as double and converted to chosen value_type):
 - `FPS_TARGET` - it returns value corresponding to chosen FPS target in FPSLocker.
 - `FRAMETIME_TARGET` = `1000 / FPS_TARGET`
-- `VSYNC_TARGET` = `60 / FPS_TARGET` without decimals, never goes below 1, it has decimals removed
+- `VSYNC_TARGET` = `60 / FPS_TARGET` without decimals, never goes below 1
 - `FPS_LOCK_TARGET` - similar to FPS_TARGET with the difference that if FPS target chosen in FPSLocker matches refresh rate, it is equal to `FPS_TARGET + 2` to avoid stutterings caused by artifical FPS lock.
 
 # ASM Instructions
@@ -229,6 +229,7 @@ MASTER_WRITE:
       [bl, _overdriveFix()]
     ]
 ```
+
 
 
 

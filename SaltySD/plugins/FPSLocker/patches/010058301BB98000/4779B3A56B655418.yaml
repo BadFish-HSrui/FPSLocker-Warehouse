@@ -7,7 +7,6 @@ DECLARATIONS:
     name: patch_running
     value_type: uint8
     default_value: 0
-    evaluate_write: "1"
   -
     type: code
     name: applyCustomSpeed
@@ -66,3 +65,10 @@ ALL_FPS:
     address: [MAIN, 0x84E1EA8]
     value_type: uint32
     value: FPS_TARGET
+  -
+    type: compare
+    compare_address: [VARIABLE, patch_running]
+    compare_type: "=="
+    compare_value: 0
+    address: [VARIABLE, patch_running]
+    value: 1

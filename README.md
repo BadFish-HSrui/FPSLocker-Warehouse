@@ -285,7 +285,7 @@ PATCH AVAILABILITY<br>
 | EA SPORTS FC 26 | `01004FF021942000` | `5D738626CE19A40F` ([✅](SaltySD/plugins/FPSLocker/patches/01004FF021942000/5D738626CE19A40F.yaml), v4, 1.80.11a0) <br> `DF48D885EB914AC7` ([✅](SaltySD/plugins/FPSLocker/patches/01004FF021942000/DF48D885EB914AC7.yaml), v5, 1.80.43d0) <br> `4EAC4BED64458C8C` ([✅](SaltySD/plugins/FPSLocker/patches/01004FF021942000/4EAC4BED64458C8C.yaml), v6, 1.80.73bf) | ~~[🔐](#🔐)~~[📏](#📏) |
 | Earthfall: Alien Horde | `0100DFC00E472000` | `448C08A9533F3CAD` ([✅](SaltySD/plugins/FPSLocker/patches/0100DFC00E472000/448C08A9533F3CAD.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | EarthX | `010069001B820000` | `1F9EA163A82C7D8F` (◯, v2, 1.0.2) |  |
-| Easy Come Easy Golf | `0100ECF01800C000` | `9B8550C2D0AC7B89` (◯, v6, 1.9.9) |  |
+| Easy Come Easy Golf | `0100ECF01800C000` | `7175D9FAE2F8F48B` (◯, v7, 1.9.11) |  |
 | Echo Generation | `01007BC018C1C000` | `5C6DC047D93B270B` (◯, v1, 1.0.1) |  |
 | Eiyuden Chronicle: Rising | `010039B015CB6000` | `39DC785D9073C22B` ([✅](SaltySD/plugins/FPSLocker/patches/010039B015CB6000/39DC785D9073C22B.yaml), v2, 1.02) | ~~[📏](#📏)~~ |
 | Embr | `0100CC6013432000` | `473D222EB1BDAD47` (◯, v6, 1.0.6) |  |

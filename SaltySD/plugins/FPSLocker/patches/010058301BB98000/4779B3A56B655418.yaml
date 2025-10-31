@@ -28,13 +28,13 @@ MASTER_WRITE:
     ]
   -
     type: asm_a64
-    main_offset: 0x2B26AA4
+    main_offset: 0x28EB8FC
     instructions: [
       [bl, _applyCustomSpeed()]
     ]
   -
     type: asm_a64
-    main_offset: 0x2BEB8FC
+    main_offset: 0x2B26AA4
     instructions: [
       [bl, _applyCustomSpeed()]
     ]
@@ -72,3 +72,4 @@ ALL_FPS:
     compare_value: 0
     address: [VARIABLE, patch_running]
     value: 1
+

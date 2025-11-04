@@ -722,6 +722,9 @@ PATCH AVAILABILITY<br>
 | Tales from the Borderlands | `0100F0C011A68000` | `818C98B885460561` (◯, v0, 1.0.0) |  |
 | Tales of Graces f Remastered | `01005E701D168000` | `49700C9DA58DAD47` (◯, v3, 1.0.3) |  |
 | Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
+| Tales of Xillia Remastered | `0100F1101BB9E000` | `171806C35E4152E7` (❌, v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |
+| テイルズ オブ エクシリア リマスター | `010058301BB98000` | `4779B3A56B655418` ([✅](SaltySD/plugins/FPSLocker/patches/010058301BB98000/4779B3A56B655418.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |
+| 테일즈 오브 엑실리아 리마스터 | `01003CC01BBA0000` | `D64B8283BD5CEA63` ([✅](SaltySD/plugins/FPSLocker/patches/01003CC01BBA0000/D64B8283BD5CEA63.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |
 | Tamagotchi Plaza | `010064C01A9BA000` | `1BA8D8FD3897F22F` ([✅](SaltySD/plugins/FPSLocker/patches/010064C01A9BA000/1BA8D8FD3897F22F.yaml), v4, 1.0.4) <br> `FB852EECDE7A745D` ([✅](SaltySD/plugins/FPSLocker/patches/010064C01A9BA000/FB852EECDE7A745D.yaml), v5, 1.0.5) | ~~[🔐](#🔐)~~ |
 | たまごっちのプチプチおみせっち おまちど～さま！ | `010040601A9B8000` | `9ACE779510EC93C9` ([✅](SaltySD/plugins/FPSLocker/patches/010040601A9B8000/9ACE779510EC93C9.yaml), v2, 1.0.2) | ~~[🔐](#🔐)~~ |
 | Taxi Chaos | `0100B76011DAA000` | `C5D73D3EDAADACB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100B76011DAA000/C5D73D3EDAADACB2.yaml), v2, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
@@ -858,8 +861,6 @@ PATCH AVAILABILITY<br>
 | Zombie Army Trilogy | `0100C7300EEE4000` | `54211726D36A8D9C` ([✅](SaltySD/plugins/FPSLocker/patches/0100C7300EEE4000/54211726D36A8D9C.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | Zombie Army 4: Dead War | `01000BF0152FA000` | `12024D08CCFD25EB` ([✅](SaltySD/plugins/FPSLocker/patches/01000BF0152FA000/12024D08CCFD25EB.yaml), v2, 1.1.1) | ~~[📏](#📏)~~ | 
 | Zomborg | `01006401D48A000` | `A371513D3E16409B` (◯, v0, 1.0.0) |  |
-| テイルズ オブ エクシリア リマスター | `010058301BB98000` | `4779B3A56B655418` ([✅](SaltySD/plugins/FPSLocker/patches/010058301BB98000/4779B3A56B655418.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |
-| 테일즈 오브 엑실리아 리마스터 | `01003CC01BBA0000` | `D64B8283BD5CEA63` ([✅](SaltySD/plugins/FPSLocker/patches/01003CC01BBA0000/D64B8283BD5CEA63.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |
 | 妖怪ウォッチ | `0100C0000CEEA000` | `7F35BDFC5DE46CF1` (❌, v4, 1.4.0) | [🔐](#🔐)[📷](#📷) |
 | 妖怪ウォッチ4++ | `010086C00AF7C000` | `C7DAB27F22ACD2ED` ([✅](SaltySD/plugins/FPSLocker/patches/010086C00AF7C000/C7DAB27F22ACD2ED.yaml), v14, 2.2.0) | ~~[🔐](#🔐)~~[⚔️](#⚔️) |
 | 妖怪学園Y ～ワイワイ学園生活～ | `010051D010FC2000` | `1DF8D13059E84915` (❌, v10, 4.0.0) | [🔐](#🔐)[⚔️](#⚔️) |

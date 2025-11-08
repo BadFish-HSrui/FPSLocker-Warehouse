@@ -831,6 +831,7 @@ PATCH AVAILABILITY<br>
 | 無双OROCHI３ | `0100E8500AD58000` | `07650FD5E5E2B82C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E8500AD58000/07650FD5E5E2B82C.yaml), v13, 1.0.13) | ~~[🔐](#🔐)~~ |
 | WARRIORS OROCHI 4 | `010016A00AEC0000` | `5C9CCD358BE85FC9` ([✅](SaltySD/plugins/FPSLocker/patches/010016A00AEC0000/5C9CCD358BE85FC9.yaml), v8, 1.0.13) | ~~[🔐](#🔐)~~ |
 | We Love Katamari REROLL+ Royal Reverie | `0100E71018D1A000` | `8B1BC6D7B367605F` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
+| みんな大好き塊魂アンコール＋ 王様プチメモリー | `010089D018D18000` | `9FC7AF389B98F61A` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
 | What Remains of Edith Finch | `010038900DFE0000` | `E9578A470B175851` ([✅](SaltySD/plugins/FPSLocker/patches/010038900DFE0000/E9578A470B175851.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | While Waiting | `0100E9A021946000` | `47C0168998492210` (◯, v1, 1.1.2) |  |
 | White Day: A Labirynth Named School | `010076601839C000` | `36D6740B3873CE4A` (◯, v1, 1.0.2) |  |

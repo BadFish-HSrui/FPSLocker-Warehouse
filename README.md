@@ -62,7 +62,7 @@ PATCH AVAILABILITY<br>
 
 <details>
 <summary>List of 30 FPS locked games</summary>
-  
+
 | NAME | TITLE ID | BUILD ID (PATCH AVAILABLE, VERSION ID, VERSION) | ISSUES |
 | --- | --- | --- | --- |
 | .hack//G.U. Last Recode | `0100BA9014A02000` | `4C0ED5711263A6D9` (❌, v0, 1.0.0) | [⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
@@ -72,7 +72,7 @@ PATCH AVAILABILITY<br>
 | ABZU | `0100C1300BBC6000` | `59719CFCD1671B98` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1300BBC6000/59719CFCD1671B98.yaml), v1, 1.0.01) | ~~[🔧](#🔧)~~ |
 | ACE COMBAT™7 SKIES UNKNOWN | `0100E3401D660000` | `FDBEE885A65A2B92` ([✅](SaltySD/plugins/FPSLocker/patches/0100E3401D660000/FDBEE885A65A2B92.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Achilles Legends Untold | `01007BE01FCC2000` | `BDDD7E8FA07C8C75` ([✅](SaltySD/plugins/FPSLocker/patches/01007BE01FCC2000/BDDD7E8FA07C8C75.yaml), v2, 1.0.2) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| Advance Wars 1+2: Re-Boot Camp | `0100300012F2A000` | `320A17744AEFD67F`  ([✅](SaltySD/plugins/FPSLocker/patches/0100300012F2A000/320A17744AEFD67F.yaml), v0, 1.0.0) | ~~[🔐](#🔐)~~ |
+| Advance Wars 1+2: Re-Boot Camp | `0100300012F2A000` | `320A17744AEFD67F` ([✅](SaltySD/plugins/FPSLocker/patches/0100300012F2A000/320A17744AEFD67F.yaml), v0, 1.0.0) | ~~[🔐](#🔐)~~ |
 | Adventure Time: Pirates of the Enchiridion | `0100C4E004406000` | `550CC8AAD902C04F` (◯, v4, 1.0.4.26870) |  |
 | AEW: Fight Forever | `0100BD10190C0000` | `45C15AE4450708FD` ([✅](SaltySD/plugins/FPSLocker/patches/0100BD10190C0000/45C15AE4450708FD.yaml), v9, 1.10.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Against the Storm | `010062F01F2CC000` | `99AFEE8180CE93D8` (◯, v3, 1.18) |  |
@@ -186,7 +186,7 @@ PATCH AVAILABILITY<br>
 | Call of Juarez: Gunslinger | `0100B4700BFC6000` | `EBF7DE558D554C7E` (◯, v5, 1.0.5) |  |
 | Call of Sentinels | `0100DC2020C50000` | `4A64A3713EEA60CA` ([✅](SaltySD/plugins/FPSLocker/patches/0100DC2020C50000/4A64A3713EEA60CA.yaml), v0, 1.0.1.7) | ~~[🛑](#🛑)~~ |
 | Candleman | `010034400CB5E000` | `926DB1056F50372A` (◯, v3, 1.0.3) |  |
-| Card-en-Ciel | `0100E6B01BD3A000` | `393323C7FBCBD72D` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/393323C7FBCBD72D.yaml), v2, 1.0.4) <br> `27AB93A086868C70` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/27AB93A086868C70.yaml), v3, 1.1.0) <br> `59C5C45EF17ACADA` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/59C5C45EF17ACADA.yaml), v4, 1.2.0) <br> `6A2E388EB364D4ED` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/6A2E388EB364D4ED.yaml), v6, 1.3.1) <br> `CB3C7EF8E279A22D` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/CB3C7EF8E279A22D.yaml), v8, 1.4.1) <br> `0B00B4DFAE47EBA3` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/0B00B4DFAE47EBA3.yaml), v10, 1.5.1)  <br> `0B00B4DFAE47EBA3` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/C9D5E4BE40E7EB66.yaml), v12, 1.5.3) | ~~[🔐](#🔐)~~[⚔️](#⚔️) |
+| Card-en-Ciel | `0100E6B01BD3A000` | `393323C7FBCBD72D` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/393323C7FBCBD72D.yaml), v2, 1.0.4) <br> `27AB93A086868C70` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/27AB93A086868C70.yaml), v3, 1.1.0) <br> `59C5C45EF17ACADA` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/59C5C45EF17ACADA.yaml), v4, 1.2.0) <br> `6A2E388EB364D4ED` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/6A2E388EB364D4ED.yaml), v6, 1.3.1) <br> `CB3C7EF8E279A22D` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/CB3C7EF8E279A22D.yaml), v8, 1.4.1) <br> `0B00B4DFAE47EBA3` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/0B00B4DFAE47EBA3.yaml), v10, 1.5.1) <br> `0B00B4DFAE47EBA3` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B01BD3A000/C9D5E4BE40E7EB66.yaml), v12, 1.5.3) | ~~[🔐](#🔐)~~[⚔️](#⚔️) |
 | Cars 3: Driven to Win | `0100744001588000` | `6E191829548C2A41` (❌, v2, 1.0.2) | [⚔️](#⚔️) |
 | Cassette Beasts | `010066F01A0E0000` | `65688736640651F6` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/58C1B2EA8257D5F1.yaml), v9, 1.6.3) <br> `2C58E765387F9DDA` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/2C58E765387F9DDA.yaml), v10, 1.6.4) <br> `F09EAE79357E3032` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/F09EAE79357E3032.yaml), v12, 1.7.1) <br> `153D5A2ABB9C0BA6` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/153D5A2ABB9C0BA6.yaml), v13, 1.7.2) <br> `B5DCAAA828DA5034` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/B5DCAAA828DA5034.yaml), v14, 1.8.0) <br> `768428355C994280` ([✅](SaltySD/plugins/FPSLocker/patches/010066F01A0E0000/768428355C994280.yaml), v15, 1.8.2) | ~~[🔐](#🔐)[🏃](#🏃)~~ |
 | Castle Renovator | `010013801A0E4000` | `34E094252A069FE9` (◯, v0, 1.0.0) |  |
@@ -390,7 +390,7 @@ PATCH AVAILABILITY<br>
 | Hot Lap Racing | `010059301E612000` | `8E8C96D9B3FD9D83` (◯, v6, 1.1.3) |  |
 | Hot Wheels Monster Trucks: Stunt Mayhem | `010055D01C8D4000` | `444303671674DD91` ([✅](SaltySD/plugins/FPSLocker/patches/010055D01C8D4000/444303671674DD91.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | HOT WHEELS UNLEASHED | `0100AA60136D2000` | `F73C6504D378C38B` ([✅](SaltySD/plugins/FPSLocker/patches/0100AA60136D2000/F73C6504D378C38B.yaml), v13, 1.0.13) <br> `A7F32A28D882D046` ([✅](SaltySD/plugins/FPSLocker/patches/0100AA60136D2000/A7F32A28D882D046.yaml), v14, 1.0.14) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| HOT WHEELS UNLEASHED 2 | `01001BE01908C000` | `C95F34910CE1CDC0`  ([✅](SaltySD/plugins/FPSLocker/patches/01001BE01908C000/C95F34910CE1CDC0.yaml), v9, 1.0.9) <br> `E1F81DC590FDE0B5` ([✅](SaltySD/plugins/FPSLocker/patches/01001BE01908C000/E1F81DC590FDE0B5.yaml), v10, 1.0.10) <br> `FE78C7B94C4E791A` ([✅](SaltySD/plugins/FPSLocker/patches/01001BE01908C000/FE78C7B94C4E791A.yaml), v11, 1.0.11) | ~~[📏](#📏)[🔧](#🔧)~~ |
+| HOT WHEELS UNLEASHED 2 | `01001BE01908C000` | `C95F34910CE1CDC0` ([✅](SaltySD/plugins/FPSLocker/patches/01001BE01908C000/C95F34910CE1CDC0.yaml), v9, 1.0.9) <br> `E1F81DC590FDE0B5` ([✅](SaltySD/plugins/FPSLocker/patches/01001BE01908C000/E1F81DC590FDE0B5.yaml), v10, 1.0.10) <br> `FE78C7B94C4E791A` ([✅](SaltySD/plugins/FPSLocker/patches/01001BE01908C000/FE78C7B94C4E791A.yaml), v11, 1.0.11) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | House Flipper | `0100CAE00EB02000` | `0764284443A86245` (◯, v11, 1.11.0) |  |
 | HYKE:Northern Light(s) | `0100EF401D9B2000` | `35FAA72E03DDE0D1` ([✅](SaltySD/plugins/FPSLocker/patches/0100EF401D9B2000/35FAA72E03DDE0D1.yaml), v0, 1.0.0) <br> `2F723E9FD78D184B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EF401D9B2000/2F723E9FD78D184B.yaml), v1, 1.0.1) <br> `F9248820D4E4406B` ([✅](SaltySD/plugins/FPSLocker/patches/0100EF401D9B2000/F9248820D4E4406B.yaml), v2, 1.0.2) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | HYPERCHARGE: Unboxed | `0100A8B00F0B4000` | `92511355705EA8C5` ([✅](SaltySD/plugins/FPSLocker/patches/0100A8B00F0B4000/92511355705EA8C5.yaml), v5, 0.1.2341.233) | ~~[📏](#📏)~~ |
@@ -422,7 +422,7 @@ PATCH AVAILABILITY<br>
 | Kingdom Come: Deliverance `JPN` | `010021601C496000` | `7A450848CFDEC18E` ([✅](SaltySD/plugins/FPSLocker/patches/010021601C496000/7A450848CFDEC18E.yaml), v2, 1.9.6H) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Kingdoms of Amalur: Re-Reckoning | `0100EF50132BE000` | `FA48B344ED72F24D` (◯, v7, 1.0.7) |  |
 | Kirby and the Forgotten Land | `01004D300C5AE000` | `D9BA7DB72FFAFECD` ([✅](SaltySD/plugins/FPSLocker/patches/01004D300C5AE000/D9BA7DB72FFAFECD.yaml), v0, 1.0.0) <br> `A6CE40DC3AEDB1BE` ([✅](SaltySD/plugins/FPSLocker/patches/01004D300C5AE000/A6CE40DC3AEDB1BE.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~[⚔️](#⚔️) |
-| Kirby Star Allies | `01007E3006DDA000` | `D55608916FA56C18`  ([✅](SaltySD/plugins/FPSLocker/patches/01007E3006DDA000/D55608916FA56C18.yaml), v6, 4.0.0a) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
+| Kirby Star Allies | `01007E3006DDA000` | `D55608916FA56C18` ([✅](SaltySD/plugins/FPSLocker/patches/01007E3006DDA000/D55608916FA56C18.yaml), v6, 4.0.0a) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
 | Kirby's Dream Buffet | `0100A8E016236000` | `82AF4E16BBC0BEC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A8E016236000/82AF4E16BBC0BEC8.yaml), v1, 1.0.0a) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
 | L.A. Noire | `0100830004FB6000` | `40F973CE3B5EC8D7` ([✅](SaltySD/plugins/FPSLocker/patches/0100830004FB6000/40F973CE3B5EC8D7.yaml), v2, 1.2) | ~~[⏱️](#⏱️)[🖥️](#🖥️)[🏃](#🏃)~~ |
 | Labirynth Of The Demon King | `010071F0228CA000` | `DE26B43C3D21B3A3` ([✅](SaltySD/plugins/FPSLocker/patches/010071F0228CA000/DE26B43C3D21B3A3.yaml), v1, 1.81.) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
@@ -439,7 +439,7 @@ PATCH AVAILABILITY<br>
 | LEGO The Incredibles | `0100F19006E04000` | `414D247F3FD8084E` (◯, v2, 1.0.2) |  |
 | LEGO Worlds | `0100838002AEA000` | `8174C89125B5404E` (◯, v10, 1.3.2) |  |
 | Life is Strange | `0100DC301186A000` | `EE295EAAEA7D31E4` ([✅](SaltySD/plugins/FPSLocker/patches/0100DC301186A000/EE295EAAEA7D31E4.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
-| Life is Strange 2 | `0100FD101186C000` | `BF0088C59D7E97C0`  ([✅](SaltySD/plugins/FPSLocker/patches/0100FD101186C000/BF0088C59D7E97C0.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
+| Life is Strange 2 | `0100FD101186C000` | `BF0088C59D7E97C0` ([✅](SaltySD/plugins/FPSLocker/patches/0100FD101186C000/BF0088C59D7E97C0.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Life is Strange: Double Exposure | `0100B2301F4A8000` | `C4DD7E5256163FF1` ([✅](SaltySD/plugins/FPSLocker/patches/0100B2301F4A8000/C4DD7E5256163FF1.yaml), v1, 1.0.1) <br> `FF8EFD0E0E71BB03` ([✅](SaltySD/plugins/FPSLocker/patches/0100B2301F4A8000/FF8EFD0E0E71BB03.yaml), v2, 1.0.2) <br> `BBEA8745A7893750` ([✅](SaltySD/plugins/FPSLocker/patches/0100B2301F4A8000/BBEA8745A7893750.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
 | Life is Strange: True Colors | `0100500012AB4000` | `118AA7B71E824B3B` ([✅](SaltySD/plugins/FPSLocker/patches/0100500012AB4000/118AA7B71E824B3B.yaml), v4, 1.0.4) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Little Kitty, Big City | `01000A4019FA2000` | `D3276F6AA64F6DE0` (◯, v16, 1.25.10.07_5538) |  |
@@ -689,7 +689,7 @@ PATCH AVAILABILITY<br>
 | South Park: The Stick Of Truth `US` | `010095300B6A4000` | `BB789D7392B165F5` (❌📌, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
 | South Park: The Stick Of Truth `EUR` | `010043600B6A6000` | `5BEA90B5335C9B60` (❌📌, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
 | Space Tail: Every Journey Leads Home | `0100C37019BC2000` | `0CD7D5F5600CB448` (◯, v1, 1.0.1) |  |
-| Spark The Electric Jester 3 | `0100D9901DD98000` | `BACDD75FE7F8882F` (◯, v1, 1.1) |  |  
+| Spark The Electric Jester 3 | `0100D9901DD98000` | `BACDD75FE7F8882F` (◯, v1, 1.1) |  |
 | Speed Crew | `0100C1201A558000` | `998838513F72152F` (◯, v6, 1.2.0) |  |
 | Spiritfarer | `0100BD400DC52000` | `482B575F4CCE512B` (◯, v15, 1.15) |  |
 | Split | `010071801AB2A000` | `D008ADF7F5DA3315` (◯, v1, 1.1.0) |  |
@@ -709,7 +709,7 @@ PATCH AVAILABILITY<br>
 | Subnautica Below Zero | `010014C011146000` | `5B050C55B8264040` (◯, v8, 1.21.49397) |  |
 | Suikoden I&II HD Remaster | `01004BD017080000` | `A481E5E6A88FDFB7` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
 | Super Crazy Rhythm Castle | `01005B7017828000` | `90B9B162B022DCBF` (◯, v0, 1.0.0.0) |  |
-| Super Kirby Clash | `01003FB00C5A8000` | `DCDFA5A4AD9A175D`  ([✅](SaltySD/plugins/FPSLocker/patches/01003FB00C5A8000/DCDFA5A4AD9A175D.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
+| Super Kirby Clash | `01003FB00C5A8000` | `DCDFA5A4AD9A175D` ([✅](SaltySD/plugins/FPSLocker/patches/01003FB00C5A8000/DCDFA5A4AD9A175D.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
 | Super Neptunia RPG | `01001CE00D7B6000` | `CE5C50E07FBF1E42` (◯, v2, 1.02) |  |
 | SWORD ART ONLINE Alicization Lycoris | `010034501225C000` | `B6AF2C0FA614CC87` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
 | ソードアート・オンライン アリシゼーション リコリス | `0100C6C01225A000` | `6177B5F818BF234D` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
@@ -863,7 +863,7 @@ PATCH AVAILABILITY<br>
 | Yakuza Kiwami | `0100C9801FEE6000` | `53F407A2CFBF5202` ([✅](SaltySD/plugins/FPSLocker/patches/0100C9801FEE6000/53F407A2CFBF5202.yaml), v0, 1.00) <br> `AE90FD64E7B2FE1E` ([✅](SaltySD/plugins/FPSLocker/patches/0100C9801FEE6000/AE90FD64E7B2FE1E.yaml), v1, 1.01) | ~~[📺](#📺)~~ |
 | Yooka-Laylee | `0100F110029C8000` | `6352FCBB7C75E478` (◯, v2, 1.2.0) |  |
 | Young Souls | `010097900F550000` | `E43952D95F17FA48` (◯, v3, 1.0.3) |  |
-| Ys VIII: Lacrimosa of DANA | `01007F200B0C0000` | `F7C4835FD8AE9D10`  (◯, v5, 1.05) |  |
+| Ys VIII: Lacrimosa of DANA | `01007F200B0C0000` | `F7C4835FD8AE9D10` (◯, v5, 1.05) |  |
 | Ys IX: Monstrum Nox | `0100E390124D8000` | `4D33981B6DB6125A` (◯, v3, 1.0.3) |  |
 | Ys X: Nordics | `0100BAC01E57E000` | `E5816E16CC5D72A5` ([✅](SaltySD/plugins/FPSLocker/patches/0100BAC01E57E000/E5816E16CC5D72A5.yaml), v2, 1.0.2) <br> `C55F6B8AEFA54324` ([✅](SaltySD/plugins/FPSLocker/patches/0100BAC01E57E000/C55F6B8AEFA54324.yaml), v3, 1.0.3) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | 伊蘇X -北境歷險- | `0100A0C01BED8000` | `7E06539B5874B9C4` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0C01BED8000/7E06539B5874B9C4.yaml), v5, 1.0.5) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |

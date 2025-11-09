@@ -320,7 +320,7 @@ PATCH AVAILABILITY<br>
 | FINAL FANTASY XII THE ZODIAC AGE | `0100EB100AB42000` | `C2932C4D1C84ED7D` (❌, v1, 1.1.0) | [⏱️](#⏱️)[🖥️](#🖥️)[🛑](#🛑) |
 | Fire Emblem Engage | `0100A6301214E000` | `8C08B9719E085F91` ([✅](SaltySD/plugins/FPSLocker/patches/0100A6301214E000/8C08B9719E085F91.yaml), v5, 2.0.0) | ~~[⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️)~~ |
 | Fire Emblem: Three Houses | `010055D009F78000` | `89048449BA238C8C` ([✅](SaltySD/plugins/FPSLocker/patches/010055D009F78000/89048449BA238C8C.yaml), v5, 1.2.0) | ~~[📏](#📏)~~ |
-| Fire Emblem Warriors | `0100F15003E64000` | `1953770037ACC52A` (❌📌, v5, 1.5.0) | ~~[📏](#📏)~~ |
+| Fire Emblem Warriors | `0100F15003E64000` | `1953770037ACC52A` (❌📌, v5, 1.5.0) | [📏](#📏) |
 | Fishing: North Atlantic | `0100A55019C38000` | `B9DB6040F70BE58F` ([✅](SaltySD/plugins/FPSLocker/patches/0100A55019C38000/B9DB6040F70BE58F.yaml), v1, 1.1) | ~~[📏](#📏)~~ |
 | Flooded | `010022201D254000` | `AF274CB758733A56` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Forgive Me Father | `0100A2A01A026000` | `008F995D1A63B383` ([✅](SaltySD/plugins/FPSLocker/patches/0100A2A01A026000/008F995D1A63B383.yaml), v2, 1.5.4.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
@@ -714,9 +714,9 @@ PATCH AVAILABILITY<br>
 | SWORD ART ONLINE Alicization Lycoris | `010034501225C000` | `B6AF2C0FA614CC87` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
 | ソードアート・オンライン アリシゼーション リコリス | `0100C6C01225A000` | `6177B5F818BF234D` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
 | SWORD ART ONLINE: FATAL BULLET | `01005DF00DC26000` | `029C2837B0EEE8A9` ([✅](SaltySD/plugins/FPSLocker/patches/01005DF00DC26000/029C2837B0EEE8A9.yaml), v2, 1.2.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| ソードアート・オンライン フェイタル・バレット | `0100E4700C648000` | `171EC82D8156810B` (❌📌, v2, 1.2.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| SWORD ART ONLINE Fractured Daydream `EUR` | `0100727018A10000` | `2EEE840599DC7021` (❌📌, v14, 1.5.2.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
-| SWORD ART ONLINE Fractured Daydream `US` | `0100478018A0E000` | `2EEE840599DC7021` (❌📌, v14, 1.5.2.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
+| ソードアート・オンライン フェイタル・バレット | `0100E4700C648000` | `171EC82D8156810B` (❌📌, v2, 1.2.0) | [🔐](#🔐)[📏](#📏) |
+| SWORD ART ONLINE Fractured Daydream `EUR` | `0100727018A10000` | `2EEE840599DC7021` (❌📌, v14, 1.5.2.0) | [🔐](#🔐)[📏](#📏)[🔧](#🔧) |
+| SWORD ART ONLINE Fractured Daydream `US` | `0100478018A0E000` | `2EEE840599DC7021` (❌📌, v14, 1.5.2.0) | [🔐](#🔐)[📏](#📏)[🔧](#🔧) |
 | ソードアート・オンライン フラクチュアード デイドリーム | `010009D018A06000` | `3AAA28C9CB8367B9` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/3AAA28C9CB8367B9.yaml), v2, 1.1.1) <br> `520620FBA0B196A3` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/520620FBA0B196A3.yaml), v3, 1.1.2) <br> `3889588A60E1F399` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/3889588A60E1F399.yaml), v4, 1.1.3) <br> `46094C03E2EC668B` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/46094C03E2EC668B.yaml), v5, 1.2.0) <br> `26C1E658E9B5B612` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/26C1E658E9B5B612.yaml), v6, 1.2.1) <br> `012A8C2C413E79B8` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/012A8C2C413E79B8.yaml), v7, 1.2.2) <br> `C2F2C4B700B30598` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/C2F2C4B700B30598.yaml), v8, 1.3.0) <br> `33614E4F6B3267B3` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/33614E4F6B3267B3.yaml), v12, 1.4.1.1) <br> `CA61076D0CE6670D` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/CA61076D0CE6670D.yaml), v13, 1.5.0.0) <br> `2EEE840599DC7021` ([✅](SaltySD/plugins/FPSLocker/patches/010009D018A06000/2EEE840599DC7021.yaml), v14, 1.5.2.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | SWORD ART ONLINE: Hollow Realization `EUR` | `01001B600D1D6000` | `0C356A98BCF20184` (❌, v2, 1.0.2) | [⚔️](#⚔️) |
 | SWORD ART ONLINE: Hollow Realization `US` | `0100EC400D54E000` | `03012E346B96E992` (❌, v1, 1.0.1) | [⚔️](#⚔️) |

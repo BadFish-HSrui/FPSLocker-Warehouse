@@ -54,7 +54,7 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 
 PATCH AVAILABILITY<br>
 ✝️ - patch is not possible to create<br>
-❌ - patch not available (either because it's hard to do or nobody asked for it)<br>
+❌ - patch not available (ℹ️ means that nobody asked for it, if there is no such icon it means that it was already looked at and deemed too hard to do to fix all issues to acceptable level)
 ✅ - patch available (click on it for config file that can be converted to patch, config file may require additional files that are listed in "addons" entry inside config).<br>
 ◯ - this version doesn't need a patch
 
@@ -148,7 +148,7 @@ PATCH AVAILABILITY<br>
 | Batora: Lost Haven | `0100A93016BF4000` | `770A07C35E631CB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100A93016BF4000/770A07C35E631CB2.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Bayonetta Origins: Cereza and the Lost Demon | `0100CF5010FEC000` | `A1CE2940D813ACAB` ([✅](SaltySD/plugins/FPSLocker/patches/0100CF5010FEC000/A1CE2940D813ACAB.yaml), v0, 1.0.0) | ~~[⏱️](#⏱️)~~ |
 | Bendy: Lone Wolf | `010071B022A36000` | `E301AFDBCDF9F9AD` (◯, v3, 2.0.5) |  |
-| Bendy and the Dark Revival | `0100207021C3C000` | `2C2D599E55912C6C` (❌, v1, 1.6.9s) | [📏](#📏)[🛑](#🛑) |
+| Bendy and the Dark Revival | `0100207021C3C000` | `2C2D599E55912C6C` (❌ℹ️, v1, 1.6.9s) | [📏](#📏)[🛑](#🛑) |
 | Bendy and the Ink Machine | `0100D4C00C6C0000` | `91B6BD011F0C2C46` (◯, v2, 1.6.0.0) |  |
 | Beyond Galaxyland | `01006E101DBA0000` | `3B3ACCF3458CE10D` (◯, v3, 1.0.4) |  |
 | Beyond Good & Evil | `0100E0A01DD20000` | `AC7FD7804398393D` (❌, v1, 1.0.1) | [⚔️](#⚔️) |
@@ -167,7 +167,7 @@ PATCH AVAILABILITY<br>
 | Boomerang X | `0100C09014530000` | `D92F465FE9920BB6` ([✅](SaltySD/plugins/FPSLocker/patches/0100C09014530000/D92F465FE9920BB6.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | Borderlands | `010064800F66A000` | `1C37C3673E0E4E7A` (◯, v2, 1.0.2) |  |
 | Borderlands 2 | `010096F00FF22000` | `F7C233469F20EE3F` (◯, v2, 1.0.2) |  |
-| Borderlands: The Pre-Sequel | `010007400FF24000` | `090B1F7F7AF35D00` (❌, v1, 1.0.1) | [📏](#📏) |
+| Borderlands: The Pre-Sequel | `010007400FF24000` | `090B1F7F7AF35D00` (❌ℹ️, v1, 1.0.1) | [📏](#📏) |
 | Boti: Byteland Overclocked | `0100B7C01D480000` | `CCBDDB69038F76FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/CCBDDB69038F76FC.yaml), v0, 1.0.0) <br> `E8EA74BE6221F2E4` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/E8EA74BE6221F2E4.yaml), v1, 1.0.1) <br> `567A8410AE613885` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/567A8410AE613885.yaml), v2, 1.0.2) <br> `8A942A9E838E5083` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/8A942A9E838E5083.yaml), v3, 1.0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | BPM: Bullets Per Minute | `0100040016EE2000` | `331E3DFBDF650226` ([✅](SaltySD/plugins/FPSLocker/patches/0100040016EE2000/331E3DFBDF650226.yaml), v1, 0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Bramble The Mountain King | `0100E87017D0E000` | `ACF3FF125C2A3E68` ([✅](SaltySD/plugins/FPSLocker/patches/0100E87017D0E000/ACF3FF125C2A3E68.yaml), v5, 1.0.7) | ~~[📏](#📏)~~ |
@@ -320,7 +320,7 @@ PATCH AVAILABILITY<br>
 | FINAL FANTASY XII THE ZODIAC AGE | `0100EB100AB42000` | `C2932C4D1C84ED7D` (❌, v1, 1.1.0) | [⏱️](#⏱️)[🖥️](#🖥️)[🛑](#🛑) |
 | Fire Emblem Engage | `0100A6301214E000` | `8C08B9719E085F91` ([✅](SaltySD/plugins/FPSLocker/patches/0100A6301214E000/8C08B9719E085F91.yaml), v5, 2.0.0) | ~~[⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️)~~ |
 | Fire Emblem: Three Houses | `010055D009F78000` | `89048449BA238C8C` ([✅](SaltySD/plugins/FPSLocker/patches/010055D009F78000/89048449BA238C8C.yaml), v5, 1.2.0) | ~~[📏](#📏)~~ |
-| Fire Emblem Warriors | `0100F15003E64000` | `1953770037ACC52A` (❌, v5, 1.5.0) | ~~[📏](#📏)~~ |
+| Fire Emblem Warriors | `0100F15003E64000` | `1953770037ACC52A` (❌ℹ️, v5, 1.5.0) | ~~[📏](#📏)~~ |
 | Fishing: North Atlantic | `0100A55019C38000` | `B9DB6040F70BE58F` ([✅](SaltySD/plugins/FPSLocker/patches/0100A55019C38000/B9DB6040F70BE58F.yaml), v1, 1.1) | ~~[📏](#📏)~~ |
 | Flooded | `010022201D254000` | `AF274CB758733A56` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Forgive Me Father | `0100A2A01A026000` | `008F995D1A63B383` ([✅](SaltySD/plugins/FPSLocker/patches/0100A2A01A026000/008F995D1A63B383.yaml), v2, 1.5.4.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
@@ -344,7 +344,7 @@ PATCH AVAILABILITY<br>
 | Garfield Kart Furious Racing | `010061E00E8BE000` | `4A67AFB9EAC0DF44` (◯, v3, 1.0.3) |  |
 | Gear.Club Unlimited | `010065E003FD8000` | `CD94FCB8CC23B24A` (◯, v2, 1.2.0) |  |
 | Gear.Club Unlimited 2 | `010072900AFF0000` | `FE757810B45C3444` ([✅](SaltySD/plugins/FPSLocker/patches/010072900AFF0000/FE757B10B45C3444.yaml), v14, 1.7.2) | ~~[🔐](#🔐)[📏](#📏)[🌤️](#🌤️)~~ |
-| GetsuFumaDen: Undying Moon | `010042A013DB8000` | `8683E654CCD68852` (❌, v2, 1.1.1) | [📏](#📏) |
+| GetsuFumaDen: Undying Moon | `010042A013DB8000` | `8683E654CCD68852` (❌ℹ️, v2, 1.1.1) | [📏](#📏) |
 | Ghostbusters: Spirits Unleashed Ecto Edition | `01005D2016934000` | `579CCC60D8E3DAF1` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/579CCC60D8E3DAF1.yaml), v5, 1.8.0) <br> `4D6E50FF58BF7486` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/4D6E50FF58BF7486.yaml), v6, 1.9.0) <br> `090A100AA49CE00F` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/090A100AA49CE00F.yaml), v7, 1.10.0) <br> `49F6F257348A42A1` ([✅](SaltySD/plugins/FPSLocker/patches/01005D2016934000/49F6F257348A42A1.yaml), v8, 1.11.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Ghostbusters: The Video Game Remastered | `0100EAE00D9EC000` | `0FE6747D03EBA4E3` ([✅](SaltySD/plugins/FPSLocker/patches/0100EAE00D9EC000/0FE6747D03EBA4E3.yaml), v2, 1.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Ghostrunner | `010090F012916000` | `D3DD5B220DCEB626` ([✅](SaltySD/plugins/FPSLocker/patches/010090F012916000/D3DD5B220DCEB626.yaml), v8, 1.8) | ~~[🔐](#🔐)[📏](#📏)~~ |
@@ -400,10 +400,10 @@ PATCH AVAILABILITY<br>
 | Immortal Redneck | `01000F400435A000` | `DB367E57EDA9E84F` (◯, v1, 1.3.5) |  |
 | Immortals Fenyx Rising | `01004A600EC0A000` | `70F3F6751D73C644` (❌, v11, 1.3.4) | [📏](#📏) |
 | In rays of the Light | `0100A760129A0000` | `AB4C861FD0C87F47` (◯, v2, 1.0.2) |  |
-| In Sound Mind | `01006DF014682000` | `5FCC5A8EDF6244C4` (❌, v4, 1.0.4) | [📏](#📏) |
+| In Sound Mind | `01006DF014682000` | `5FCC5A8EDF6244C4` (❌ℹ️, v4, 1.0.4) | [📏](#📏) |
 | Inertial Drift | `01002BD00F626000` | `4C277E67AB50D547` (◯, v10, 1.2.1) |  |
-| Infinity Strash: DRAGON QUEST The Adventure of Dai | `01006FA018D40000` | `DB7E474BEFABB6A0` (❌, v2, 1.0.2) | [📏](#📏)[🔧](#🔧) |
-| INMOST | `0100F1401161E000` | `16CEFEA33FE6E24F` (❌, v6, 1.0.4.3) | [📏](#📏) |
+| Infinity Strash: DRAGON QUEST The Adventure of Dai | `01006FA018D40000` | `DB7E474BEFABB6A0` (❌ℹ️, v2, 1.0.2) | [📏](#📏)[🔧](#🔧) |
+| INMOST | `0100F1401161E000` | `16CEFEA33FE6E24F` (❌ℹ️, v6, 1.0.4.3) | [📏](#📏) |
 | Insomnis | `01001CF0190C2000` | `4C6727375D877B90` ([✅](SaltySD/plugins/FPSLocker/patches/01001CF0190C2000/4C6727375D877B90.yaml), v1, 1.01) | ~~[📏](#📏)~~ |
 | Ironsmith: Medieval Simulator | `010025A01CD86000` | `D2A5A1FC6EEADF31` ([✅](SaltySD/plugins/FPSLocker/patches/010025A01CD86000/D2A5A1FC6EEADF31.yaml), v1, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | It Takes Two | `010092A0172E4000` | `C4067E8CB3258656` ([✅](SaltySD/plugins/FPSLocker/patches/010092A0172E4000/C4067E8CB3258656.yaml), v2, 1.0.2) | ~~[📏](#📏)[⚔️](#⚔️)~~ |
@@ -558,9 +558,9 @@ PATCH AVAILABILITY<br>
 | Paradise Lost | `010077A012A5C000` | `F5ECE696120B65B3` ([✅](SaltySD/plugins/FPSLocker/patches/010077A012A5C000/F5ECE696120B65B3.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
 | Pascal's Wager | `01009B9017D8E000` | `3F9A7276F039B226` (◯, v2, 2.0.0) |  | 
 | Passpartout 2: The Lost Artist | `010094E01AA20000` | `ED2F8EEA20A7943D` (◯, v3, 1.1.1) |  | 
-| PAW Patrol World | `0100273018D70000` | `54C42C73890100F1` (❌, v2, 1.0.2) | [🔐](#🔐) |
+| PAW Patrol World | `0100273018D70000` | `54C42C73890100F1` (❌ℹ️, v2, 1.0.2) | [🔐](#🔐) |
 | Peppa Pig: World Adventures | `0100FF1018E00000` | `696DE87363CDAED0` (◯, v1, 1.0.1) |  |
-| Persona 5 Royal | `01005CA01580E000` | `D4B150B29A931CD3` (❌, v1, 1.0.2) | [🖌️](#🖌️) |
+| Persona 5 Royal | `01005CA01580E000` | `D4B150B29A931CD3` (❌ℹ️, v1, 1.0.2) | [🖌️](#🖌️) |
 | 女神異聞錄５ 亂戰：魅影攻手 | `01005BD010872000` | `496A2F5A9CE4FBEB` ([✅](SaltySD/plugins/FPSLocker/patches/01005BD010872000/496A2F5A9CE4FBEB.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | ペルソナ５ スクランブル　ザ ファントム ストライカーズ | `01001C400E9D8000` | `737E56D43D2C0B38` ([✅](SaltySD/plugins/FPSLocker/patches/01001C400E9D8000/737E56D43D2C0B38.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | 페르소나 5 스크램블 더 팬텀 스트라이커즈 | `01009FE010876000` | `407978D722447B25` ([✅](SaltySD/plugins/FPSLocker/patches/01009FE010876000/407978D722447B25.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
@@ -651,7 +651,7 @@ PATCH AVAILABILITY<br>
 | Sherlock Holmes The Awakened | `0100CA800F9B2000` | `A1E1EFBA68B846A9` ([✅](SaltySD/plugins/FPSLocker/patches/0100CA800F9B2000/A1E1EFBA68B846A9.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Sherlock Holmes: Crimes and Punishments | `0100651014DBA000` | `789C2939A757C0CD` ([✅](SaltySD/plugins/FPSLocker/patches/0100651014DBA000/789C2939A757C0CD.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Sherlock Holmes: The Devil's Daughter | `010020F014DBE000` | `2B37ED2A971948F3` ([✅](SaltySD/plugins/FPSLocker/patches/010020F014DBE000/2B37ED2A971948F3.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| Sherlock Holmes and The<br>Hound of The Baskervilles | `010003D018708000` | `4A06EBBB5A2E4FE4` (❌, v2, 1.0.2) | [🔐](#🔐) |
+| Sherlock Holmes and The<br>Hound of The Baskervilles | `010003D018708000` | `4A06EBBB5A2E4FE4` (❌ℹ️, v2, 1.0.2) | [🔐](#🔐) |
 | Shin chan: Me and the Professor<br>on Summer Vacation<br>The Endless Seven-Day Journey | `0100ACC0185FC000` | `C167F81FB2171443` (◯, v2, 1.1.1) |  |
 | Shin chan: Shiro and the Coal Town | `0100A8B01E0C8000` | `2AD4407726EEAB86` (◯, v3, 1.0.3) |  |
 | Shin Megami Tensei III Nocturne | `01003B0012DC2000` | `F8098979DBC7F34E` (❌, v3, 1.0.3) | [⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️) |
@@ -686,8 +686,8 @@ PATCH AVAILABILITY<br>
 | South of the Circle | `0100E97016F60000` | `4FB83BAB154A2B56` (◯, v3, 1.0.3) |  |
 | SOUTH PARK: SNOW DAY! | `0100D1501ABAE000` | `086789EC0FDA4BF1` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/086789EC0FDA4BF1.yaml), v5, 1.0.5) <br> `2B7E5D5B9A730F77` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/2B7E5D5B9A730F77.yaml), v6, 1.0.6) <br> `DCBE53FDF98752AF` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/DCBE53FDF98752AF.yaml), v7, 1.0.7) <br> `C58AA3A366F82F70` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/C58AA3A366F82F70.yaml), v8, 1.0.8) <br> `9A2DB2F402A31811` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/9A2DB2F402A31811.yaml), v10, 1.0.10) <br> `4B7F793B8355C016` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/4B7F793B8355C016.yaml), v11, 1.0.11) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | South Park: The Fractured But Whole | `01008F2005154000` | `DF15EDAAF603E00C` (❌, v5, 1.05) | [⚔️](#⚔️) |
-| South Park: The Stick Of Truth `US` | `010095300B6A4000` | `BB789D7392B165F5` (❌, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
-| South Park: The Stick Of Truth `EUR` | `010043600B6A6000` | `5BEA90B5335C9B60` (❌, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
+| South Park: The Stick Of Truth `US` | `010095300B6A4000` | `BB789D7392B165F5` (❌ℹ️, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
+| South Park: The Stick Of Truth `EUR` | `010043600B6A6000` | `5BEA90B5335C9B60` (❌ℹ️, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
 | Space Tail: Every Journey Leads Home | `0100C37019BC2000` | `0CD7D5F5600CB448` (◯, v1, 1.0.1) |  |
 | Spark The Electric Jester 3 | `0100D9901DD98000` | `BACDD75FE7F8882F` (◯, v1, 1.1) |  |  
 | Speed Crew | `0100C1201A558000` | `998838513F72152F` (◯, v6, 1.2.0) |  |
@@ -699,11 +699,11 @@ PATCH AVAILABILITY<br>
 | Spyro Reignited Trilogy | `010077B00E046000` | `D2775FAFCF4835CB` ([✅](SaltySD/plugins/FPSLocker/patches/010077B00E046000/D2775FAFCF4835CB.yaml), v1, 1.01) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | STAR OCEAN THE SECOND STORY R | `010065301A2E0000` | `D214BA64D902AEDA` (◯, v3, 1.1.0) |  |
 | Star Overdrive | `010047E01EA24000` | `C0D9B410A09A4ADD` ([✅](SaltySD/plugins/FPSLocker/patches/010047E01EA24000/C0D9B410A09A4ADD.yaml), v5, 1.0.5) <br> `728D92CB9E54CE7A` ([✅](SaltySD/plugins/FPSLocker/patches/010047E01EA24000/728D92CB9E54CE7A.yaml), v8, 1.0.8) <br> `6D05923E7005E182` ([✅](SaltySD/plugins/FPSLocker/patches/010047E01EA24000/6D05923E7005E182.yaml), v9, 1.0.10) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
-| Starlink: Battle for Atlas | `01002CC003FE6000` | `13C816F2A273653C` (❌, v6, 1.0.6) | [📏](#📏) |
+| Starlink: Battle for Atlas | `01002CC003FE6000` | `13C816F2A273653C` (❌ℹ️, v6, 1.0.6) | [📏](#📏) |
 | SteamWorld Build | `01004E401B3EA000` | `017834F19C49FA71` (◯, v16, 1.0.156) |  |
 | STORY OF SEASONS: A Wonderful Life | `010076801929A000` | `FDBD3A3B672290F8` (❌, v2, 1.0.2) | [⚔️](#⚔️) |
 | Stray | `010075101EF84000` | `109D974E180A5AA1` ([✅](SaltySD/plugins/FPSLocker/patches/010075101EF84000/109D974E180A5AA1.yaml), v2, 1.6.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
-| Strike Force 3 | `010060200F080000` | `8507336565D4C86B` (❌, v1, 1.1.0) | [📏](#📏) |
+| Strike Force 3 | `010060200F080000` | `8507336565D4C86B` (❌ℹ️, v1, 1.1.0) | [📏](#📏) |
 | Stubbs the Zombie in Rebel Without a Pulse | `0100964012528000` | `ECF4B91AF1B669EC` (❌, v3, 1.0.3) | [⚔️](#⚔️) |
 | Subnautica | `0100429011144000` | `B3DB5A1EDAF8454F` (◯, v5, 1.21.71113) |  |
 | Subnautica Below Zero | `010014C011146000` | `5B050C55B8264040` (◯, v8, 1.21.49397) |  |
@@ -804,7 +804,7 @@ PATCH AVAILABILITY<br>
 | Tony Hawk's Pro Skater 1 + 2 | `0100CC00102B4000` | `8AFCBE6A930CD42E` ([✅](SaltySD/plugins/FPSLocker/patches/0100CC00102B4000/8AFCBE6A930CD42E.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Tony Hawk's Pro Skater 3 + 4 | `01000AD01F94A000` | `A31FE9B8AF1156D4` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/A31FE9B8AF1156D4.yaml), v2, 1.0.3) <br> `65A9705A4BB35AA2` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/65A9705A4BB35AA2.yaml), v4, 1.05) <br> `505069EBC0B82A6F` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/505069EBC0B82A6F.yaml), v5, 1.06) <br> `52DA46C0166A8643` ([✅](SaltySD/plugins/FPSLocker/patches/01000AD01F94A000/52DA46C0166A8643.yaml), v6, 1.07) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Towa and the Guardians of the Sacred Tree | `0100F52019002000` | `935ABD9796226E9A` (◯, v2, 1.2) |  |
-| Train Life: A Railway Simulator | `0100FC101513E000` | `A9CE4E0196706EC8` (❌, v1, 1.0.1) | [📏](#📏) |
+| Train Life: A Railway Simulator | `0100FC101513E000` | `A9CE4E0196706EC8` (❌ℹ️, v1, 1.0.1) | [📏](#📏) |
 | TRANSFORMERS: EARTHSPARK - Expedition | `010005001A8CA000` | `F87BEAF2C5CE13E3` ([✅](SaltySD/plugins/FPSLocker/patches/010005001A8CA000/F87BEAF2C5CE13E3.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | TRANSFORMERS: Galactic Trials | `0100C12017BCA000` | `F01A4E60035AF15A` ([✅](SaltySD/plugins/FPSLocker/patches/0100C12017BCA000/F01A4E60035AF15A.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Trek to Yomi | `0100D77019324000` | `A52C9938956331C9` ([✅](SaltySD/plugins/FPSLocker/patches/0100D77019324000/A52C9938956331C9.yaml), v3, 0.4) | ~~[📏](#📏)~~ |
@@ -844,7 +844,7 @@ PATCH AVAILABILITY<br>
 | While Waiting | `0100E9A021946000` | `47C0168998492210` (◯, v1, 1.1.2) |  |
 | White Day: A Labirynth Named School | `010076601839C000` | `36D6740B3873CE4A` (◯, v1, 1.0.2) |  |
 | WitchSpringR | `010018401EEA8000` | `5E3F71147A485112` (◯, v6, 1.4.9) |  |
-| Wobbly Life | `010039501F11C000` | `B174F363C2823CBE` (❌, v5, 1.0.0.3) | [📏](#📏) |
+| Wobbly Life | `010039501F11C000` | `B174F363C2823CBE` (❌ℹ️, v5, 1.0.0.3) | [📏](#📏) |
 | Wolfenstein: Youngblood | `01003BD00CAAE000` | `8B40EBBA7244C94A` ([✅](SaltySD/plugins/FPSLocker/patches/01003BD00CAAE000/8B40EBBA7244C94A.yaml), v5, 1.5) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | Wolfenstein II: The New Colossus | `01009040091E0000` | `F2FE5EF877839F4F` ([✅](SaltySD/plugins/FPSLocker/patches/01009040091E0000/F2FE5EF877839F4F.yaml), v2, 1.2) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | WORLD OF FINAL FANTASY MAXIMA | `010072000BD32000` | `5767FD44C331B44B` (❌, v1, 1.0.1) | [⚔️](#⚔️)[👄](#👄)[📺](#📺) |
@@ -873,7 +873,7 @@ PATCH AVAILABILITY<br>
 | Zomborg | `01006401D48A000` | `A371513D3E16409B` (◯, v0, 1.0.0) |  |
 | 妖怪ウォッチ | `0100C0000CEEA000` | `7F35BDFC5DE46CF1` (❌, v4, 1.4.0) | [🔐](#🔐)[📷](#📷) |
 | 妖怪ウォッチ4++ | `010086C00AF7C000` | `C7DAB27F22ACD2ED` ([✅](SaltySD/plugins/FPSLocker/patches/010086C00AF7C000/C7DAB27F22ACD2ED.yaml), v14, 2.2.0) | ~~[🔐](#🔐)~~[⚔️](#⚔️) |
-| 妖怪学園Y ～ワイワイ学園生活～ | `010051D010FC2000` | `1DF8D13059E84915` (❌, v10, 4.0.0) | [🔐](#🔐)[⚔️](#⚔️) |
+| 妖怪学園Y ～ワイワイ学園生活～ | `010051D010FC2000` | `1DF8D13059E84915` (❌ℹ️, v10, 4.0.0) | [🔐](#🔐)[⚔️](#⚔️) |
 | 英雄伝説 閃の軌跡I<br>改 -Thors Military Academy 1204- | `0100AD0014AB4000` | `AC8C8EC9DB1A8EF4` ([✅](SaltySD/plugins/FPSLocker/patches/0100AD0014AB4000/AC8C8EC9DB1A8EF4.yaml), v3, 1.0.3) | ~~[🔐](#🔐)~~ |
 | 英雄伝説 閃の軌跡II<br>改 -The Erebonian Civil War- | `0100906014C3C000` | `EAB1DC1D53E319F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100906014C3C000/EAB1DC1D53E319F9.yaml), v5, 1.0.5) | ~~[🔐](#🔐)~~ |
 | ドラゴンクエストX<br>目覚めし五つの種族　オフライン | `0100E2E0152E4000` | `13F322A6161F787C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E2E0152E4000/13F322A6161F787C.yaml), v4, 2.0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |

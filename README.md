@@ -712,6 +712,7 @@ PATCH AVAILABILITY<br>
 | Super Kirby Clash | `01003FB00C5A8000` | `DCDFA5A4AD9A175D`  ([✅](SaltySD/plugins/FPSLocker/patches/01003FB00C5A8000/DCDFA5A4AD9A175D.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
 | Super Neptunia RPG | `01001CE00D7B6000` | `CE5C50E07FBF1E42` (◯, v2, 1.02) |  |
 | SWORD ART ONLINE Alicization Lycoris | `010034501225C000` | `B6AF2C0FA614CC87` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
+| ソードアート・オンライン アリシゼーション リコリス | `0100C6C01225A000` | `6177B5F818BF234D` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
 | SWORD ART ONLINE: FATAL BULLET | `01005DF00DC26000` | `029C2837B0EEE8A9` ([✅](SaltySD/plugins/FPSLocker/patches/01005DF00DC26000/029C2837B0EEE8A9.yaml), v2, 1.2.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | SWORD ART ONLINE Fractured Daydream `EUR` | `0100727018A10000` | `2EEE840599DC7021` (❌, v14, 1.5.2.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | SWORD ART ONLINE Fractured Daydream `US` | `0100478018A0E000` | `2EEE840599DC7021` (❌, v14, 1.5.2.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |

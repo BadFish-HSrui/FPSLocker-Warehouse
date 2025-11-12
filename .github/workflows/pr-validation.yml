@@ -61,7 +61,20 @@ jobs:
             echo "Validating: $yaml_file"
             
             # Execute my_program with the yaml file path
-            if ! "$EXECUTABLE" "$yaml_file"; then
+            if "$EXECUTABLE" "$yaml_file"; then
+              # Extract filename without extension
+              filename=$(basename "$yaml_file" .yaml)
+              
+              echo "Checking if '$filename' exists in the file with a leading space..."
+              
+              # Check if the filename (with a leading space) exists in the file
+              if grep -q " $filename" "$yaml_file"; then
+                echo "✓ Found ' $filename' in $yaml_file"
+              else
+                echo "✗ Error: ' $filename' not found in $yaml_file"
+                FAILED=1
+              fi
+            else
               echo "Failed validation for: $yaml_file"
               FAILED=1
             fi

@@ -536,6 +536,7 @@ PATCH AVAILABILITY<br>
 | OCTOPATH TRAVELER II | `0100A3501946E000` | `0D9649011312F62E` ([✅](SaltySD/plugins/FPSLocker/patches/0100A3501946E000/0D9649011312F62E.yaml), v2, 1.1.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Oddworld: Soulstorm | `0100D210177C6000` | `9510D677DCCE4447` ([✅](SaltySD/plugins/FPSLocker/patches/0100D210177C6000/9510D677DCCE4447.yaml), v3, 1.1.3) | ~~[📏](#📏)~~ |
 | Off the Road Unleashed | `010045C0112F8000` | `5E8316D212D6D7BD` (◯, v1, 1.0.1) |  |
+| Okami HD | `0100276009872000` | `A4FDDC7FD35B30CB` (❌, v0, 1.0.0) | [⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
 | Olympic Games Tokyo 2020 `EUR` | `010034B00E14C000` | `C4D1BCED9D8C5B81` (❌, v2, 1.0.2) | [⏱️](#⏱️) |
 | 東京2020オリンピック | `01004CE00AAE2000` | `66A8EB853DE90A1A` (❌, v9, 1.0.9) | [⏱️](#⏱️) |
 | Once Upon A KATAMARI | `0100BDF0197C8000` | `FF53171B18C7701A` ([✅](SaltySD/plugins/FPSLocker/patches/0100BDF0197C8000/FF53171B18C7701A.yaml), v1, 1.0.2) | ~~[📏](#📏)~~ |

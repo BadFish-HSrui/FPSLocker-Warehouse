@@ -2,8 +2,6 @@
 # BID: 33463E11899166BB
 # What is still not adjusted: movement speed in cutscenes, 2D animations speed (it includes UI and 2D effects on 3D objects), none of them uses 1/30 nor 1/60 float
 
-unsafeCheck: true
-
 MASTER_WRITE:
   # Triple buffer
   -
@@ -76,4 +74,3 @@ ALL_FPS:
     address: [MAIN, 0x1B1CF00]
     value_type: float
     value: 1 / FPS_TARGET
-

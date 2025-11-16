@@ -117,7 +117,7 @@ PATCH AVAILABILITY<br>
 | Atelier Escha & Logy | `0100E5600EE8E000` | `4BBB3B3455D306C6` (◯, v0, 1.0.0) |  |
 | Atelier Firis | `010023201421E000` | `8BB29E319CCE6357` (◯, v4, 1.0.4) |  |
 | Atelier Lulua | `0100B1400CD50000` | `CA7FACAEC708311C` (◯, v4, 1.0.3) |  |
-| Atelier Lydie & Suelle | `01001A5014220000` | `32EB581C7D9BE094` (◯, v3, 1.0.3) |  |
+| Atelier Lydie & Suelle DX | `01001A5014220000` | `32EB581C7D9BE094` (◯, v3, 1.0.3) |  |
 | Atelier Marie Remake | `0100EAE019904000` | `743CD6A40363900C` (◯, v1, 1.0.0a) |  | 
 | Atelier Meruru | `0100ADD00C6FA000` | `E76C3624D3AE3DCE` (◯, v2, 1.0.2) |  |
 | Atelier Resleriana | `01000F9020CD4000` | `6ACDAEE7DDC5E503` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/6ACDAEE7DDC5E503.yaml), v4, 1.2a) <br> `F140F141FDC4C331` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/F140F141FDC4C331.yaml), v5, 1.3) | [🏃](#🏃) |

@@ -707,6 +707,7 @@ PATCH AVAILABILITY<br>
 | South Park: The Fractured But Whole | `01008F2005154000` | `DF15EDAAF603E00C` (❌, v5, 1.05) | [⚔️](#⚔️) |
 | South Park: The Stick Of Truth `US` | `010095300B6A4000` | `BB789D7392B165F5` (❌📌, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
 | South Park: The Stick Of Truth `EUR` | `010043600B6A6000` | `5BEA90B5335C9B60` (❌📌, v1, 1.01) | [🔐](#🔐)[⚔️](#⚔️) |
+| Space Marshals | `0100782013A04000` | `A7790E95F4A47885` (◯, v0, 1.0.2) |  |
 | Space Tail: Every Journey Leads Home | `0100C37019BC2000` | `0CD7D5F5600CB448` (◯, v1, 1.0.1) |  |
 | Spark The Electric Jester 3 | `0100D9901DD98000` | `BACDD75FE7F8882F` (◯, v1, 1.1) |  |
 | Speed Crew | `0100C1201A558000` | `998838513F72152F` (◯, v6, 1.2.0) |  |

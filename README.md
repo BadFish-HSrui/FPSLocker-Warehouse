@@ -152,6 +152,8 @@ PATCH AVAILABILITY<br>
 | Bendy: Lone Wolf | `010071B022A36000` | `E301AFDBCDF9F9AD` (◯, v3, 2.0.5) |  |
 | Bendy and the Dark Revival | `0100207021C3C000` | `2C2D599E55912C6C` (❌📌, v1, 1.6.9s) | [📏](#📏)[🛑](#🛑) |
 | Bendy and the Ink Machine | `0100D4C00C6C0000` | `91B6BD011F0C2C46` (◯, v2, 1.6.0.0) |  |
+| BEYBLADE X EVOBATTLE | `01009F002286E000` | `92A57698A4F90E7D` (◯, v2, 1.0.2) |  |
+| ベイブレードエックス エボバトル | `0100D9702286C000` | `92A57698A4F90E7D` (◯, v2, 1.0.2) |  |
 | BEYBLADE X XONE | `0100E2301FB1E000` | `FDC719FDA7B9B21A` (◯, v6, 1.0.7) |  |
 | Beyond Galaxyland | `01006E101DBA0000` | `3B3ACCF3458CE10D` (◯, v3, 1.0.4) |  |
 | Beyond Good & Evil | `0100E0A01DD20000` | `AC7FD7804398393D` (❌, v1, 1.0.1) | [⚔️](#⚔️) |

@@ -126,6 +126,9 @@ PATCH AVAILABILITY<br>
 | Atelier Ryza | `0100D1900EC80000` | `3474FAEE2B35BCAD` (◯, v9, 1.0.9) |  |
 | Atelier Ryza 2 | `01009A9012022000` | `2275D20A581F37E3` (◯, v8, 1.0.8) |  |
 | Atelier Ryza 3 | `010095E018944000` | `C29B86A5D924BD38` (◯, v9, 1.7.0) |  |
+| Atelier Ryza DX | `0100199023B2E000` | `A6BE42F22D2788F8` (◯, v0, 1.0.0) |  |
+| Atelier Ryza 2 DX | `01004D5023B32000` | `733604C8B4C5AD73` (◯, v0, 1.0.0) |  |
+| Atelier Ryza 3 DX | `0100A4C023B34000` | `3458B838BD55F8C4` (◯, v0, 1.0.0) |  |
 | Atelier Shallie | `010005C00EE90000` | `AAB0450A965202EC` (◯, v0, 1.0.0) |  |
 | Atelier Sophie | `0100D8701421C000` | `9C95108FD8F7464A` (◯, v3, 1.0.3) |  |
 | Atelier Sophie 2 | `010082A01538E000` | `4A1B406278346C2B` (◯, v8, 1.0.8) |  |

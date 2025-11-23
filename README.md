@@ -667,6 +667,7 @@ PATCH AVAILABILITY<br>
 | Resident Evil | `010050F00BC1A000` | `6BEC9B23B09DF46C` ([✅](SaltySD/plugins/FPSLocker/patches/010050F00BC1A000/6BEC9B23B09DF46C.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📺](#📺)~~ |
 | Resident Evil 4 | `010099A00BC1E000` | `82C2A04A21D3E0B8` (◯, v2, 1.0.2) | ~~[🔐](#🔐)[📺](#📺)~~ |
 | REYNATIS | `010050F01DF9C000` | `456F89F80D657095` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/456F89F80D657095.yaml), v4, 1.0.4) <br> `C370209AECC8D2FB` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/C370209AECC8D2FB.yaml), v5, 1.0.5) <br> `25A4C89527E7A6E6` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/25A4C89527E7A6E6.yaml), v6, 1.0.6) <br> `7C8FE1FD610E1F1F` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/7C8FE1FD610E1F1F.yaml), v7, 1.0.7) <br> `11D6D6158B566A74` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/11D6D6158B566A74.yaml), v8, 1.0.8) <br> `C59C89CCDF382602` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/C59C89CCDF382602.yaml), v9, 1.0.9) <br> `5F765D2CC4CDEF1C` ([✅](SaltySD/plugins/FPSLocker/patches/010050F01DF9C000/5F765D2CC4CDEF1C.yaml), v10, 1.0.10) | ~~[📏](#📏)~~ |
+| RICO | `01009D5009234000` | `D4852E02DCD55245` (◯, v5, 1.0.5) |  |
 | RiME | `0100A62002042000` | `B426F56F027E8231` (◯, v2, 1.0.2) |  |
 | Road 96 | `010031B0145B4000` | `EAF3511193618B2A` (◯, v5, 1.05) |  |
 | Road 96: Mile 0 | `01008600180CE000` | `DF1EBBA8DE722A3B` (◯, v0, 1.00) |  |

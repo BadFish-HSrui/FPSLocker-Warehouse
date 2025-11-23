@@ -340,6 +340,7 @@ PATCH AVAILABILITY<br>
 | Fire Emblem Engage | `0100A6301214E000` | `8C08B9719E085F91` ([✅](SaltySD/plugins/FPSLocker/patches/0100A6301214E000/8C08B9719E085F91.yaml), v5, 2.0.0) | ~~[⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️)~~ |
 | Fire Emblem: Three Houses | `010055D009F78000` | `89048449BA238C8C` ([✅](SaltySD/plugins/FPSLocker/patches/010055D009F78000/89048449BA238C8C.yaml), v5, 1.2.0) | ~~[📏](#📏)~~ |
 | Fire Emblem Warriors | `0100F15003E64000` | `1953770037ACC52A` ([✅](SaltySD/plugins/FPSLocker/patches/0100F15003E64000/1953770037ACC52A.yaml), v5, 1.5.0) | ~~[🔐](#🔐)~~[📏](#📏) |
+| Firewatch | `0100AC300919A000` | `C0D5723A48563E40` (◯, v0, 1.0.0) |  |
 | Fishing: North Atlantic | `0100A55019C38000` | `B9DB6040F70BE58F` ([✅](SaltySD/plugins/FPSLocker/patches/0100A55019C38000/B9DB6040F70BE58F.yaml), v1, 1.1) | ~~[📏](#📏)~~ |
 | Five Nights at Freddy's: Help Wanted | `0100F7901118C000` | `668FE05AA1AAC5A1` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7901118C000/668FE05AA1AAC5A1.yaml), v4, 1.25) | ~~[🔧](#🔧)~~ |
 | Five Nights at Freddy's: Help Wanted 2 | `010032F01F7CC000` | `F7EB23F0D8E5A933` ([✅](SaltySD/plugins/FPSLocker/patches/010032F01F7CC000/F7EB23F0D8E5A933.yaml), v1, 0.2) <br> `DE7B50B9FEF89856` ([✅](SaltySD/plugins/FPSLocker/patches/010032F01F7CC000/DE7B50B9FEF89856.yaml), v2, 0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |

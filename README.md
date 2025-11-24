@@ -392,6 +392,7 @@ PATCH AVAILABILITY<br>
 | Grand Theft Auto: Vice City | `0100182014022000` | `56EEFA704373BDB3` ([✅](SaltySD/plugins/FPSLocker/patches/0100182014022000/56EEFA704373BDB3.yaml), v7, 1.0.7) <br> `9151E53EE514B03A` ([✅](SaltySD/plugins/FPSLocker/patches/0100182014022000/9151E53EE514B03A.yaml), v8, 1.0.8) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Graveyard Keeper | `0100B6800B5C8000` | `9356531EDD2EC448` (◯, v6, 1.0.0.4633) |  |
 | Gray Dawn | `0100A5700C0B2000` | `BA74A217AF6DCB32` (◯, v0, 1.0.0) |  |
+| Green Hell | `0100453012FEA000` | `D3A8F87E96C94045` (◯, v2, 2.0) |  |
 | GRID Autosport | `0100DC800A602000` | `347A44223C9537A5` (◯, v10, 1.10.1_70328) |  |
 | GRIME | `0100F300169B6000` | `326AC32516E23370` (◯, v7, 1.3.9) |  |
 | GRIP | `0100459009A2A000` | `ACF717E72EA920C2` ([✅](SaltySD/plugins/FPSLocker/patches/0100459009A2A000/ACF717E72EA920C2.yaml), v8, 1.0.8) | ~~[⚔️](#⚔️)[🔧](#🔧)~~ |

@@ -608,6 +608,7 @@ PATCH AVAILABILITY<br>
 | Pascal's Wager | `01009B9017D8E000` | `3F9A7276F039B226` (◯, v2, 2.0.0) |  | 
 | Passpartout 2: The Lost Artist | `010094E01AA20000` | `ED2F8EEA20A7943D` (◯, v3, 1.1.1) |  | 
 | PAW Patrol World | `0100273018D70000` | `54C42C73890100F1` (❌📌, v2, 1.0.2) | [🔐](#🔐) |
+| Payday 2 | `0100274004052000` | `AEA19BDA16E7A34F` (◯, v1, 1.1.0) |  |
 | Peppa Pig: World Adventures | `0100FF1018E00000` | `696DE87363CDAED0` (◯, v1, 1.0.1) |  |
 | Persona 5 Royal | `01005CA01580E000` | `D4B150B29A931CD3` (❌, v1, 1.0.2) | [🖌️](#🖌️) |
 | - 女神異聞錄５ 皇家版<br>- 페르소나5 더 로열 | `01004B10157F2000` | `D4B150B29A931CD3` (❌, v1, 1.0.2) | [🖌️](#🖌️) |

@@ -18,8 +18,6 @@ DECLARATIONS:
       [ret]
     ]
 MASTER_WRITE:
-  # Triple buffer
-  # REF: 00 40 00 00 00 04 00 00 00 88 00 00 02 00 00 00
   -
     type: asm_a64
     main_offset: 0x726338

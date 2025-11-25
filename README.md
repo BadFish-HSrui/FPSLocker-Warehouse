@@ -61,7 +61,7 @@ PATCH AVAILABILITY<br>
 ---
 
 <details>
-<summary>List of 30 FPS locked games</summary>
+<summary>List of 30 FPS locked games (901 titles)</summary>
 
 | NAME | TITLE ID | BUILD ID (PATCH AVAILABLE, VERSION ID, VERSION) | ISSUES |
 | --- | --- | --- | --- |
@@ -970,7 +970,7 @@ PATCH AVAILABILITY<br>
 </details>
 
 <details>
-<summary>Patches for games not locked to 30 FPS, but with graphics settings targeting strictly 30 or 60 FPS</summary>
+<summary>Patches for games not locked to 30 FPS, but with graphics settings targeting strictly 30 or 60 FPS (23 titles)</summary>
 
 | NAME | TITLE ID | BUILD ID (PATCH AVAILABLE, VERSION ID, VERSION) | ISSUES |
 | --- | --- | --- | --- |

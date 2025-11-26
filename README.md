@@ -61,7 +61,7 @@ PATCH AVAILABILITY<br>
 ---
 
 <details>
-<summary>List of 30 FPS locked games (907 titles)</summary>
+<summary>List of 30 FPS locked games (908 titles)</summary>
 
 | NAME | TITLE ID | BUILD ID (PATCH AVAILABLE, VERSION ID, VERSION) | ISSUES |
 | --- | --- | --- | --- |
@@ -546,6 +546,7 @@ PATCH AVAILABILITY<br>
 | Monster Train 2 | `010051701FB46000` | `0683E6E287160F88` (◯, v6, 1.3) |  |
 | Morbid: The Lords of Ire | `01007B0017C90000` | `55DFB4A664D8B596` ([✅](SaltySD/plugins/FPSLocker/patches/01007B0017C90000/55DFB4A664D8B596.yaml), v2, 1.02) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Moto Racer 4 | `01002ED00B01C000` | `31F61EC3A4FEFDF7` ([✅](SaltySD/plugins/FPSLocker/patches/01002ED00B01C000/31F61EC3A4FEFDF7.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
+| MotoGP 22 | `0100CF3016BBE000` | `6A8373EFB7B2BD5D` ([✅](SaltySD/plugins/FPSLocker/patches/0100CF3016BBE000/6A8373EFB7B2BD5D.yaml), v6, 1.0.6) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | MotoGP 23 | `0100B750198C6000` | `FF0DDCCB9C3B9375` ([✅](SaltySD/plugins/FPSLocker/patches/0100B750198C6000/FF0DDCCB9C3B9375.yaml), v7, 1.0.7) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | MotoGP 24 | `010040401D564000` | `1053EA8AD2A50F15` ([✅](SaltySD/plugins/FPSLocker/patches/010040401D564000/1053EA8AD2A50F15.yaml), v5, 1.0.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | MotoGP 25 | `01006C7021024000` | `72D353380DD03B52` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/72D353380DD03B52.yaml), v1, 1.0.1) <br> `BD9B46CAE607D7E8` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/BD9B46CAE607D7E8.yaml), v2, 1.0.2) <br> `03DBE839CAA0632B` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/03DBE839CAA0632B.yaml), v3, 1.0.3) <br> `499A85D046C70186` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/499A85D046C70186.yaml), v4, 1.0.4) | ~~[📏](#📏)[🔧](#🔧)~~ |

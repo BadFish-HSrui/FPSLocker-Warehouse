@@ -358,7 +358,9 @@ PATCH AVAILABILITY<br>
 | FAR: Changing Tides | `01008A0014A92000` | `7041BC78D64745A1` (◯, v2, 1.2.0) |  |
 | FAR: Lone Sails | `010022700E7D6000` | `CE59C773211A1A49` (◯, v0, 1.0.0) <br> `8FD06AB8DA27EC40` (◯, v1, 1.3) |  |
 | Farming Simulator 23 | `01001E3017A10000` | `17F37A56B17DD9CC` ([✅](SaltySD/plugins/FPSLocker/patches/01001E3017A10000/17F37A56B17DD9CC.yaml), v7, 1.7.0.0) | ~~[🔐](#🔐)~~ |
-| Fashion Dreamer | `0100E99019B3A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
+| Fashion Dreamer `EUR` | `0100E99019B3A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
+| Fashion Dreamer `US` | `01000C001A09A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
+| ファッションドリーマー | `0100E99019B3A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
 | F.I.S.T.: Forged in Shadow Torch | `01009F8017F48000` | `69EE5F71F187EAA9` ([✅](SaltySD/plugins/FPSLocker/patches/01009F8017F48000/69EE5F71F187EAA9.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
 | 零 ～濡鴉ノ巫女～ | `010082F015576000` | `8BFBF5B8A7098443` ([✅](SaltySD/plugins/FPSLocker/patches/010082F015576000/8BFBF5B8A7098443.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | FATAL FRAME: MAIDEN OF BLACK WATER | `0100BEB015604000` | `B38D51E0391187EC` ([✅](SaltySD/plugins/FPSLocker/patches/0100BEB015604000/B38D51E0391187EC.yaml), v4, 1.0.4) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |

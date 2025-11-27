@@ -544,7 +544,7 @@ PATCH AVAILABILITY<br>
 | Monster Jam Steel Titans 2 | `010051B0131F0000` | `E0E9D0429A2458E1` ([✅](SaltySD/plugins/FPSLocker/patches/010051B0131F0000/E0E9D0429A2458E1.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | Monster Truck Championship | `0100D30010C42000` | `682F4A502035678D` ([✅](SaltySD/plugins/FPSLocker/patches/0100D30010C42000/682F4A502035678D.yaml), v2, 1.2.0) | ~~[📏](#📏)~~ |
 | Monster Train | `01006D9013894000` | `9DCA1A70C6414A49` (◯, v1, 2.2.0) |  |
-| Monster Train 2 | `010051701FB46000` | `0683E6E287160F88` (◯, v6, 1.3) |  |
+| Monster Train 2 | `010051701FB46000` | `ECE035D9E5A2B3F0` (◯, v7, 1.3.1) |  |
 | Morbid: The Lords of Ire | `01007B0017C90000` | `55DFB4A664D8B596` ([✅](SaltySD/plugins/FPSLocker/patches/01007B0017C90000/55DFB4A664D8B596.yaml), v2, 1.02) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Moto Racer 4 | `01002ED00B01C000` | `31F61EC3A4FEFDF7` ([✅](SaltySD/plugins/FPSLocker/patches/01002ED00B01C000/31F61EC3A4FEFDF7.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
 | MotoGP 22 | `0100CF3016BBE000` | `6A8373EFB7B2BD5D` ([✅](SaltySD/plugins/FPSLocker/patches/0100CF3016BBE000/6A8373EFB7B2BD5D.yaml), v6, 1.0.6) | ~~[📏](#📏)[🔧](#🔧)~~ |

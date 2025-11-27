@@ -679,7 +679,7 @@ PATCH AVAILABILITY<br>
 | Red Dead Redemption | `01007820196A6000` | `37531419DA7654EC` (◯, v4, 1.0.4) |  |
 | レッド・デッド・リデンプション | `010000B0196AA000` | `005CB235608DCEDD` (◯, v4, 1.0.4) |  |
 | Redemption Reapers | `010073F0197DA000` | `955DF07AA5F4497B` ([✅](SaltySD/plugins/FPSLocker/patches/010073F0197DA000/955DF07AA5F4497B.yaml), v7, 1.4.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| Redout | `0100DA20021D0000` | `1C81D0BC78A01EE2` (◯, v2, 1.0.2) |  |
+| Redout | `0100DA20021D0000` | `1C81D0BC7BA01EE2` (◯, v2, 1.0.2) |  |
 | Redout 2 | `0100664016D5C000` | `D45B9332B5742A70` ([✅](SaltySD/plugins/FPSLocker/patches/0100664016D5C000/D45B9332B5742A70.yaml), v6, 1.0.6) <br> `E47783ECB944D857` ([✅](SaltySD/plugins/FPSLocker/patches/0100664016D5C000/E47783ECB944D857.yaml), v7, 1.0.7) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Remnant: From the Ashes | `010010F01418E000` | `49CF6B0B0A62F9E2` ([✅](SaltySD/plugins/FPSLocker/patches/010010F01418E000/49CF6B0B0A62F9E2.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | Remothered: Broken Porcelain | `0100FBD00F5F6000` | `5EFAB20F5C1F0F68` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD00F5F6000/5EFAB20F5C1F0F68.yaml), v9, 2.0.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~[⚔️](#⚔️) |

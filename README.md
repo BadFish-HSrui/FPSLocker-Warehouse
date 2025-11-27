@@ -54,7 +54,7 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 
 PATCH AVAILABILITY<br>
 ✝️ - patch is not possible to create<br>
-❌ - patch not available (📌 means that nobody asked for it, if there is no such icon it means that it was already looked at and deemed too hard to do to fix all issues to acceptable level)
+❌ - patch not available (📌 means that nobody asked for it, if there is no such icon it means that it was already looked at and deemed too hard to do to fix all issues to acceptable level)<br>
 ✅ - patch available (click on it for config file that can be converted to patch, config file may require additional files that are listed in "addons" entry inside config).<br>
 ◯ - this version doesn't need a patch
 

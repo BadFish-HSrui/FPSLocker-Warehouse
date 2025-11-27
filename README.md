@@ -480,7 +480,7 @@ PATCH AVAILABILITY<br>
 | Lara Croft and the Temple of Osiris | `010079C017F5E001` | `F47C697C2B59443B` ([✅](SaltySD/plugins/FPSLocker/patches/010079C017F5E001/F47C697C2B59443B.yaml), v0, 1.1_65791) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | LEGO 2K Drive | `0100739018020000` | `B75E7D3DB78D69C1` ([✅](SaltySD/plugins/FPSLocker/patches/0100739018020000/B75E7D3DB78D69C1.yaml), v17, 1.17) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | LEGO City Undercover | `010085500130A000` | `32C590B064956546` ([✅](SaltySD/plugins/FPSLocker/patches/010085500130A000/32C590B064956546.yaml), v3, 1.0.3) | ~~[📺](#📺)~~ |
-| LEGO DC Super-Villains | `010070D009FEC000` | `711C52FC37605D45` (◯, v8, 1.0.8) |  |
+| LEGO DC Super-Villains | `010070D009FEC000` | `711C52FC37606D45` (◯, v8, 1.0.8) |  |
 | LEGO Horizon Adventures | `010073C01AF34000` | `2D99FA4793E426C3` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/2D99FA4793E426C3.yaml), v1, 1.1.0) <br> `675538722EE1FACB` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/675538722EE1FACB.yaml), v2, 1.2.0) <br> `B3DFF885ABB66B5C` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/B3DFF885ABB66B5C.yaml), v3, 1.3.0) <br> `C6F56735E3837278` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01AF34000/C6F56735E3837278.yaml), v4, 1.4.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | LEGO Jurassic World | `01001C100E772000` | `1B80403BE8882745` (◯, v1, 1.0.1) |  |
 | LEGO MARVEL Super Heroes | `01006F600FFC8000` | `5D769ABCAD9F2743` (◯, v1, 1.0.1) |  |

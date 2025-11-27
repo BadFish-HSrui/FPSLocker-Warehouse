@@ -472,6 +472,7 @@ PATCH AVAILABILITY<br>
 | Imagine Earth | `0100E2701A3D8000` | `77BF3F116454337D` (◯, v4, 1.20.6.6770) |  |
 | Immortal Redneck | `01000F400435A000` | `DB367E57EDA9E84F` (◯, v1, 1.3.5) |  |
 | Immortals Fenyx Rising | `01004A600EC0A000` | `70F3F6751D73C644` (❌, v11, 1.3.4) | [📏](#📏) |
+| イモータルズ フィニクス ライジング | `01006E60131B6000` | `70F3F6751D73C644` (❌, v11, 1.3.4) | [📏](#📏) |
 | In rays of the Light | `0100A760129A0000` | `AB4C861FD0C87F47` (◯, v2, 1.0.2) |  |
 | In Sound Mind | `01006DF014682000` | `5FCC5A8EDF6244C4` (❌📌, v4, 1.0.4) | [📏](#📏) |
 | INAZUMA ELEVEN: Victory Road | `0100B36008F90000` | `09AD6947189FC6D9` ([✅](SaltySD/plugins/FPSLocker/patches/0100B36008F90000/09AD6947189FC6D9.yaml), v4, 1.2.0) <br> `F9648F3865C8B1AE` ([✅](SaltySD/plugins/FPSLocker/patches/0100B36008F90000/F9648F3865C8B1AE.yaml), v5, 1.3.0) | ~~[🔐](#🔐)[📏](#📏)~~ |

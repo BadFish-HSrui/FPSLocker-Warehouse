@@ -791,6 +791,8 @@ PATCH AVAILABILITY<br>
 | Super Kirby Clash | `01003FB00C5A8000` | `DCDFA5A4AD9A175D` ([✅](SaltySD/plugins/FPSLocker/patches/01003FB00C5A8000/DCDFA5A4AD9A175D.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
 | Super Neptunia RPG | `01001CE00D7B6000` | `CE5C50E07FBF1E42` (◯, v2, 1.02) |  |
 | SWORD ART ONLINE Alicization Lycoris | `010034501225C000` | `B6AF2C0FA614CC87` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
+| SWORD ART ONLINE Alicization Lycoris `US` | `0100115012260000` | `33360EA29C2FBEF2` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
+| - 刀劍神域 彼岸遊境<br>- 소드 아트 온라인 앨리시제이션 리코리스 | `0100AF0013970000` | `948CA1FDC708FB22` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
 | ソードアート・オンライン アリシゼーション リコリス | `0100C6C01225A000` | `6177B5F818BF234D` (❌, v8, 3.0.1) | [⚔️](#⚔️) |
 | SWORD ART ONLINE: FATAL BULLET | `01005DF00DC26000` | `029C2837B0EEE8A9` ([✅](SaltySD/plugins/FPSLocker/patches/01005DF00DC26000/029C2837B0EEE8A9.yaml), v2, 1.2.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | ソードアート・オンライン フェイタル・バレット | `0100E4700C648000` | `171EC82D8156810B` (❌📌, v2, 1.2.0) | [🔐](#🔐)[📏](#📏) |

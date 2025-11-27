@@ -250,6 +250,9 @@ PATCH AVAILABILITY<br>
 | DAEMON X MACHINA | `0100B6400CA56000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🔢](#🔢) |
 | デモンエクスマキナ | `0100CB8005B26000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🔢](#🔢) |
 | Danganronpa V3: Killing Harmony | `010063F014176000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
+| Danganronpa V3: Killing Harmony `EUR` | `010083A016192000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
+| ニューダンガンロンパV3 みんなのコロシアイ新学期 | `01001AB0140F2000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
+| 新槍彈辯駁V3 大家的自相殘殺新學期 | `01000F5014620000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
 | Dark Souls Remastered | `01004AB00A260000` | `DF3766A2BB651A3E` ([✅](SaltySD/plugins/FPSLocker/patches/01004AB00A260000/DF3766A2BB651A3E.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[🔢](#🔢)~~ |
 | Darkest Dungeon II | `0100E5E01C098000` | `FC04D5F903B31D4C` (◯, v10, 1.1.0) |  |
 | Darksiders Genesis | `0100F2300D4BA000` | `DB17131624D04A9C` ([✅](SaltySD/plugins/FPSLocker/patches/0100F2300D4BA000/DB17131624D04A9C.yaml), v3, 1.0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |

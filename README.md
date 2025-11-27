@@ -248,6 +248,7 @@ PATCH AVAILABILITY<br>
 | Cuisineer | `010087E01FCD6000` | `ACD959FBAECADE00` ([✅](SaltySD/plugins/FPSLocker/patches/010087E01FCD6000/ACD959FBAECADE00.yaml), v3, 2.0.27) | ~~[🛑](#🛑)~~ |
 | Curse of the Dead Gods | `0100D4A0118EA000` | `DB285A63A090884F` (◯, v5, 1.0.0.5) |  |
 | DAEMON X MACHINA | `0100B6400CA56000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🔢](#🔢) |
+| デモンエクスマキナ | `0100CB8005B26000` | `937209E79E2E0E5D` (❌, v12, 1.4.2a) | [🔢](#🔢) |
 | Danganronpa V3: Killing Harmony | `010063F014176000` | `6CBEE0573826FF73` (◯, v2, 1.0.2) |  |
 | Dark Souls Remastered | `01004AB00A260000` | `DF3766A2BB651A3E` ([✅](SaltySD/plugins/FPSLocker/patches/01004AB00A260000/DF3766A2BB651A3E.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[🔢](#🔢)~~ |
 | Darkest Dungeon II | `0100E5E01C098000` | `FC04D5F903B31D4C` (◯, v10, 1.1.0) |  |

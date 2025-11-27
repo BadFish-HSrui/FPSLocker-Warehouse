@@ -427,6 +427,7 @@ PATCH AVAILABILITY<br>
 | Grand Theft Auto: San Andreas | `010065A014024000` | `6FB56071CCB321B6` ([✅](SaltySD/plugins/FPSLocker/patches/010065A014024000/6FB56071CCB321B6.yaml), v7, 1.0.7) <br> `B898981D361D0201` ([✅](SaltySD/plugins/FPSLocker/patches/010065A014024000/B898981D361D0201.yaml), v8, 1.0.8) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Grand Theft Auto: Vice City | `0100182014022000` | `56EEFA704373BDB3` ([✅](SaltySD/plugins/FPSLocker/patches/0100182014022000/56EEFA704373BDB3.yaml), v7, 1.0.7) <br> `9151E53EE514B03A` ([✅](SaltySD/plugins/FPSLocker/patches/0100182014022000/9151E53EE514B03A.yaml), v8, 1.0.8) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Graveyard Keeper | `0100B6800B5C8000` | `9356531EDD2EC448` (◯, v6, 1.0.0.4633) |  |
+| Graveyard Keeper `JPN` | `010033900F308000` | `9356531EDD2EC448` (◯, v6, 1.0.0.4633) |  |
 | Gray Dawn | `0100A5700C0B2000` | `BA74A217AF6DCB32` (◯, v0, 1.0.0) |  |
 | Green Hell | `0100453012FEA000` | `D3A8F87E96C94045` (◯, v2, 2.0) |  |
 | GRID Autosport | `0100DC800A602000` | `347A44223C9537A5` (◯, v10, 1.10.1_70328) |  |

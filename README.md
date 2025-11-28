@@ -761,7 +761,10 @@ PATCH AVAILABILITY<br>
 | S.T.A.L.K.E.R.: Clear Sky | `010027B01E32C000` | `38171F8A5687B940` ([✅](SaltySD/plugins/FPSLocker/patches/010027B01E32C000/38171F8A5687B940.yaml), v1, 1.0.1) <br> `227837B490A51033` ([✅](SaltySD/plugins/FPSLocker/patches/010027B01E32C000/227837B490A51033.yaml), v2, 1.0.2) <br> `C7E4E6F4167C8E3A` ([✅](SaltySD/plugins/FPSLocker/patches/010027B01E32C000/C7E4E6F4167C8E3A.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | S.T.A.L.K.E.R.: Shadow Of Chornobyl | `01004A001E32E000` | `0214CA2211DE8313` ([✅](SaltySD/plugins/FPSLocker/patches/01004A001E32E000/0214CA2211DE8313.yaml), v1, 1.0.1) <br> `8E8BFFE66292CFF1` ([✅](SaltySD/plugins/FPSLocker/patches/01004A001E32E000/8E8BFFE66292CFF1.yaml), v2, 1.0.2) <br> `F7D1E815E44D0A56` ([✅](SaltySD/plugins/FPSLocker/patches/01004A001E32E000/F7D1E815E44D0A56.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | SaGa Emerald Beyond | `01008BE01E1C2000` | `9FD4FB446CEDB012` (◯, v4, 1.04) |  |
-| Sakuna: Of Rice and Ruin | `0100B1400E8FE000` | `A4F17AB0C365545B` (◯, v9, 1.0.9) |  |
+| Sakuna: Of Rice and Ruin | `0100B1500EF32000` | `A4F17AB0C365545B` (◯, v9, 1.0.9) |  |
+| Sakuna: Of Rice and Ruin `US` | `0100B1400E8FE000` | `A4F17AB0C365545B` (◯, v9, 1.0.9) |  |
+| 천수의 사쿠나히메 | `0100D82012300000` | `A4F17AB0C365545B` (◯, v9, 1.0.9) |  |
+| 天穂のサクナヒメ | `0100008011882000` | `A4F17AB0C365545B` (◯, v9, 1.0.9) |  |
 | Samurai Bringer | `01007E30176E6000` | `20F6DC74F8FB9601` (◯, v4, 1.05.0) |  |
 | Samurai Jack: Battle Through Time | `01006C600E46E000` | `6D5DB3434CCF63F2` ([✅](SaltySD/plugins/FPSLocker/patches/01006C600E46E000/6D5DB3434CCF63F2.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | SAMURAI WARRIORS 5 | `0100B28014132000` | `810CBA3D7DB83EC0` ([✅](SaltySD/plugins/FPSLocker/patches/0100B28014132000/810CBA3D7DB83EC0.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |

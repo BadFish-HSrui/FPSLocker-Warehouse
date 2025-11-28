@@ -1021,7 +1021,9 @@ PATCH AVAILABILITY<br>
 | 無双アビス | `01000400204FE000` | `2D22A87AE49C75AA` ([✅](SaltySD/plugins/FPSLocker/patches/01000400204FE000/2D22A87AE49C75AA.yaml), v11, 1.4.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | WARRIORS OROCHI 4 | `010016A00AEC0000` | `5C9CCD358BE85FC9` ([✅](SaltySD/plugins/FPSLocker/patches/010016A00AEC0000/5C9CCD358BE85FC9.yaml), v8, 1.0.13) | ~~[🔐](#🔐)~~ |
 | 無双OROCHI３ | `0100E8500AD58000` | `07650FD5E5E2B82C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E8500AD58000/07650FD5E5E2B82C.yaml), v13, 1.0.13) | ~~[🔐](#🔐)~~ |
-| We Love Katamari REROLL+ Royal Reverie | `0100E71018D1A000` | `8B1BC6D7B367605F` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
+| We Love Katamari REROLL+ Royal Reverie | `0100C22018D20000` | `8B1BC6D7B367605F` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
+| We Love Katamari REROLL+ Royal Reverie `US` | `0100E71018D1A000` | `8B1BC6D7B367605F` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
+| - 아바마마와 돌아온 데굴데굴~쫀득쫀득~ 괴혼<br>- 人見人愛的塊魂 安可+ 國王大人的小小回憶 | `0100075018D24000` | `8B1BC6D7B367605F` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
 | みんな大好き塊魂アンコール＋ 王様プチメモリー | `010089D018D18000` | `9FC7AF389B98F61A` (❌, v2, 1.0.3) | [⏱️](#⏱️) |
 | What Remains of Edith Finch | `010038900DFE0000` | `E9578A470B175851` ([✅](SaltySD/plugins/FPSLocker/patches/010038900DFE0000/E9578A470B175851.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | While Waiting | `0100E9A021946000` | `47C0168998492210` (◯, v1, 1.1.2) |  |

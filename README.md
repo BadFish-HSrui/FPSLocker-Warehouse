@@ -1056,6 +1056,7 @@ PATCH AVAILABILITY<br>
 | XUAN YUAN SWORD 7 | `010029F01BA3E000` | `F8EA898027152437` ([✅](SaltySD/plugins/FPSLocker/patches/010029F01BA3E000/F8EA898027152437.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Yakuza Kiwami | `0100C9801FEE6000` | `53F407A2CFBF5202` ([✅](SaltySD/plugins/FPSLocker/patches/0100C9801FEE6000/53F407A2CFBF5202.yaml), v0, 1.00) <br> `AE90FD64E7B2FE1E` ([✅](SaltySD/plugins/FPSLocker/patches/0100C9801FEE6000/AE90FD64E7B2FE1E.yaml), v1, 1.01) | ~~[📺](#📺)~~ |
 | Yooka-Laylee | `0100F110029C8000` | `6352FCBB7C75E478` (◯, v2, 1.2.0) |  |
+| ユーカレイリー | `010090C00B0E8000` | `6352FCBB7C75E478` (◯, v2, 1.2.0) |  |
 | Young Souls | `010097900F550000` | `E43952D95F17FA48` (◯, v3, 1.0.3) |  |
 | Ys VIII: Lacrimosa of DANA | `01007F200B0C0000` | `F7C4835FD8AE9D10` (◯, v5, 1.05) |  |
 | Ys IX: Monstrum Nox | `0100E390124D8000` | `4D33981B6DB6125A` (◯, v3, 1.0.3) |  |

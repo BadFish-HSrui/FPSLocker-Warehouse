@@ -63,5 +63,4 @@ MASTER_WRITE:
     main_offset: 0x24A5C0
     instructions: [
       [mov, w1, 2]
-
     ]

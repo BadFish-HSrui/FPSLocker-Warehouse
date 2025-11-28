@@ -678,10 +678,11 @@ PATCH AVAILABILITY<br>
 | Peppa Pig: World Adventures | `0100FF1018E00000` | `696DE87363CDAED0` (◯, v1, 1.0.1) |  |
 | Persona 5 Royal | `01005CA01580E000` | `D4B150B29A931CD3` (❌, v1, 1.0.2) | [🖌️](#🖌️) |
 | - 女神異聞錄５ 皇家版<br>- 페르소나5 더 로열 | `01004B10157F2000` | `D4B150B29A931CD3` (❌, v1, 1.0.2) | [🖌️](#🖌️) |
+| ペルソナ５ ザ・ロイヤル | `0100B880154FC000` | `D4B150B29A931CD3` (❌, v1, 1.0.2) | [🖌️](#🖌️) |
 | 女神異聞錄５ 亂戰：魅影攻手 | `01005BD010872000` | `496A2F5A9CE4FBEB` ([✅](SaltySD/plugins/FPSLocker/patches/01005BD010872000/496A2F5A9CE4FBEB.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
+| Persona 5 Strikers | `0100801011C3E000` | `C4DF04F647BDC727` ([✅](SaltySD/plugins/FPSLocker/patches/0100801011C3E000/C4DF04F647BDC727.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | ペルソナ５ スクランブル　ザ ファントム ストライカーズ | `01001C400E9D8000` | `737E56D43D2C0B38` ([✅](SaltySD/plugins/FPSLocker/patches/01001C400E9D8000/737E56D43D2C0B38.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | 페르소나 5 스크램블 더 팬텀 스트라이커즈 | `01009FE010876000` | `407978D722447B25` ([✅](SaltySD/plugins/FPSLocker/patches/01009FE010876000/407978D722447B25.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
-| Persona 5 Strikers | `0100801011C3E000` | `C4DF04F647BDC727` ([✅](SaltySD/plugins/FPSLocker/patches/0100801011C3E000/C4DF04F647BDC727.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | Persona 5 Tactica | `010087701B092000` | `B6333790BE11542C` (◯, v4, 1.1.0) |  |
 | Pikmin 1 | `0100AA80194B0000` | `3A8E744D8F65CDEA` ([✅](SaltySD/plugins/FPSLocker/patches/0100AA80194B0000/3A8E744D8F65CDEA.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📺](#📺)~~ |
 | Pikmin 2 | `0100D680194B2000` | `9A257FAB83444214` ([✅](SaltySD/plugins/FPSLocker/patches/0100D680194B2000/9A257FAB83444214.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[📺](#📺)~~ |

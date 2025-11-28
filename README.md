@@ -895,6 +895,7 @@ PATCH AVAILABILITY<br>
 | Tchia | `0100CEE01D23C000` | `76B6E5E830A43D97` ([✅](SaltySD/plugins/FPSLocker/patches/0100CEE01D23C000/76B6E5E830A43D97.yaml), v1, 1.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Team Sonic Racing | `010084B00B36E000` | `7D942261130F42A7` (◯, v3, 1.0.3) |  |
 | Team Sonic Racing `US` | `010092B0091D0000` | `AD75285A65EB6FFD` (◯, v2, 1.0.3) |  |
+| チームソニックレーシング 新価格版 | `010029D00B72A000` | `7D942261130F42A7` (◯, v3, 1.0.3) |  |
 | Terra Nil | `01006D501D14A000` | `C8BCCB615DA4BD6C` (◯, v7, 1.2.10) |  |
 | Terraformers | `0100C1B01872A000` | `EFA897C8B97F1C9E` (◯, v6, 1.6.21) |  |
 | The Beast Inside | `010028901FF00000` | `EB58D577539E9151` ([✅](SaltySD/plugins/FPSLocker/patches/010028901FF00000/EB58D577539E9151.yaml), v2, 1.2.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |

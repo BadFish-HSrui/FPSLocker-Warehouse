@@ -881,6 +881,8 @@ PATCH AVAILABILITY<br>
 | Tales from the Borderlands | `0100F0C011A68000` | `818C98B885460561` (◯, v0, 1.0.0) |  |
 | Tales of Graces f Remastered | `01005E701D168000` | `49700C9DA58DAD47` (◯, v3, 1.0.3) |  |
 | Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
+| - 테일즈 오브 심포니아 리마스터<br>- 交響傳奇 Remastered | `010074201698A000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
+| テイルズ オブ シンフォニア リマスター | `01002B8014440000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
 | Tales of the Shire | `010094D01DC7E000` | `80876AF5CEF98E23` (◯, v5, 1.0.5) |  |
 | Tales of Xillia Remastered | `0100F1101BB9E000` | `171806C35E4152E7` ([✅](SaltySD/plugins/FPSLocker/patches/0100F1101BB9E000/171806C35E4152E7.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |
 | テイルズ オブ エクシリア リマスター | `010058301BB98000` | `4779B3A56B655418` ([✅](SaltySD/plugins/FPSLocker/patches/010058301BB98000/4779B3A56B655418.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)~~ |

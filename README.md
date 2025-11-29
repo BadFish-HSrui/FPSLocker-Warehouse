@@ -350,6 +350,7 @@ PATCH AVAILABILITY<br>
 | Everything | `010031F00B246000` | `646BFBEE3CD99F4A` (◯, v1, 1.0.1) |  |
 | Exhausted Man | `010017D01F5E6000` | `5FB21A8A4819801C` (◯, v6, 1.0.6) |  |
 | Expeditions: A Mudrunner Game | `01002C101C1AA000` | `9ACB108D8DC59245` ([✅](SaltySD/plugins/FPSLocker/patches/01002C101C1AA000/9ACB108D8DC59245.yaml), v18, 1.18.0.0) <br> `0F7616E6F5EE08CE` ([✅](SaltySD/plugins/FPSLocker/patches/01002C101C1AA000/0F7616E6F5EE08CE.yaml), v19, 1.19.0.0) | ~~[📏](#📏)~~ |
+| F.I.S.T.: Forged in Shadow Torch | `01009F8017F48000` | `69EE5F71F187EAA9` ([✅](SaltySD/plugins/FPSLocker/patches/01009F8017F48000/69EE5F71F187EAA9.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
 | F1 Manager 2024 | `010072E01CE0E000` | `85F60F87D19B5270` ([✅](SaltySD/plugins/FPSLocker/patches/010072E01CE0E000/85F60F87D19B5270.yaml), v11, 1.11) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Fading Afternoon | `01004E601E168000` | `B7D2694AEFBF2AFE` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Fairy Tail 2 | `0100B9801F872000` | `007EA5E2E2541C6F` ([✅](SaltySD/plugins/FPSLocker/patches/0100B9801F872000/007EA5E2E2541C6F.yaml), v8, 1.4.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
@@ -362,9 +363,9 @@ PATCH AVAILABILITY<br>
 | Fashion Dreamer `EUR` | `0100E99019B3A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
 | Fashion Dreamer `US` | `01000C001A09A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
 | ファッションドリーマー | `0100E99019B3A000` | `628BE46730A3B09D` (◯, v7, 1.5.1) |  |
-| F.I.S.T.: Forged in Shadow Torch | `01009F8017F48000` | `69EE5F71F187EAA9` ([✅](SaltySD/plugins/FPSLocker/patches/01009F8017F48000/69EE5F71F187EAA9.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
-| 零 ～濡鴉ノ巫女～ | `010082F015576000` | `8BFBF5B8A7098443` ([✅](SaltySD/plugins/FPSLocker/patches/010082F015576000/8BFBF5B8A7098443.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
+| Fast and Furious Arcade Edition | `0100C9C022FC2000` | `9D2BAA0D77241296` (◯, v2, 1.908) |  |
 | FATAL FRAME: MAIDEN OF BLACK WATER | `0100BEB015604000` | `B38D51E0391187EC` ([✅](SaltySD/plugins/FPSLocker/patches/0100BEB015604000/B38D51E0391187EC.yaml), v4, 1.0.4) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
+| 零 ～濡鴉ノ巫女～ | `010082F015576000` | `8BFBF5B8A7098443` ([✅](SaltySD/plugins/FPSLocker/patches/010082F015576000/8BFBF5B8A7098443.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | Fate/EXTELLA | `010053E002EA2000` | `76EC789B99A25BA5` ([✅](SaltySD/plugins/FPSLocker/patches/010053E002EA2000/76EC789B99A25BA5.yaml), v0, 1.0.0) | ~~[⚔️](#⚔️)~~ |
 | Fate/EXTELLA LINK | `01001A700C832000` | `97FC79E063E26C9B` ([✅](SaltySD/plugins/FPSLocker/patches/01001A700C832000/97FC79E063E26C9B.yaml), v2, 1.0.2) | ~~[⚔️](#⚔️)~~ |
 | Fate/Samurai Remnant | `01003AE01AA76000` | `85D00BDAADD369E6` ([✅](SaltySD/plugins/FPSLocker/patches/01003AE01AA76000/85D00BDAADD369E6.yaml), v10, 1.2.1) <br> `8D6606B544CBCBC8` ([✅](SaltySD/plugins/FPSLocker/patches/01003AE01AA76000/8D6606B544CBCBC8.yaml), v12, 1.3.1) <br> `6C46135714ABB870` ([✅](SaltySD/plugins/FPSLocker/patches/01003AE01AA76000/6C46135714ABB870.yaml), v13, 1.3.2) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |

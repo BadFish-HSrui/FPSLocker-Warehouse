@@ -61,7 +61,7 @@ PATCH AVAILABILITY<br>
 ---
 
 <details>
-<summary>List of 30 FPS locked games (1024 titles)</summary>
+<summary>List of 30 FPS locked games (1025 titles)</summary>
 
 | NAME | TITLE ID | BUILD ID (PATCH AVAILABLE, VERSION ID, VERSION) | ISSUES |
 | --- | --- | --- | --- |
@@ -637,6 +637,7 @@ PATCH AVAILABILITY<br>
 | Nikoderiko: The Magical World | `01009FA01FF6C000` | `EBDE239CB7780F58` ([✅](SaltySD/plugins/FPSLocker/patches/01009FA01FF6C000/EBDE239CB7780F58.yaml), v0, 1.0.0) <br> `FCCC4FDA392C1C16` ([✅](SaltySD/plugins/FPSLocker/patches/01009FA01FF6C000/FCCC4FDA392C1C16.yaml), v1, 1.0.1) <br> `6CFA2609A2D00FA5` ([✅](SaltySD/plugins/FPSLocker/patches/01009FA01FF6C000/6CFA2609A2D00FA5.yaml), v2, 1.0.2) <br> `1218D04A7C77F2DA` ([✅](SaltySD/plugins/FPSLocker/patches/01009FA01FF6C000/1218D04A7C77F2DA.yaml), v4, 1.0.4) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Nine Parchments | `0100D03003F0E000` | `F7893E37FC10C803` (◯, v4, 1.1.1) |  |
 | No Man's Sky | `0100853015E86000` | `D5C5F47DFABD0812` ([✅](SaltySD/plugins/FPSLocker/patches/0100853015E86000/D5C5F47DFABD0812.yaml), v62, 5.7.5) <br> `4995675B5380FA50` ([✅](SaltySD/plugins/FPSLocker/patches/0100853015E86000/4995675B5380FA50.yaml), v63, 6.0.0) <br> `538D60FF5A324C92` ([✅](SaltySD/plugins/FPSLocker/patches/0100853015E86000/538D60FF5A324C92.yaml), v64, 6.5.0) <br> `DEA84284F054C693` ([✅](SaltySD/plugins/FPSLocker/patches/0100853015E86000/DEA84284F054C693.yaml), v65, 6.10.0) <br> `0C4BD6CA532E589C` ([✅](SaltySD/plugins/FPSLocker/patches/0100853015E86000/0C4BD6CA532E589C.yaml), v67, 6.17.0) | ~~[📏](#📏)~~ |
+| Noctuary | `01003A10208FA000` | `07D3F6E45AD3C3C1` (◯, v2, 1.4.1) |  |
 | Oceanhorn 2: Knights of the Lost Realm | `01006CB010840000` | `9F2F187D1C6E44EC` ([✅](SaltySD/plugins/FPSLocker/patches/01006CB010840000/9F2F187D1C6E44EC.yaml), v2, 1.2) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | OCTOPATH TRAVELER 歧路旅人 | `01000E200DC58000` | `9E6B0D0023F9DB3B` ([✅](SaltySD/plugins/FPSLocker/patches/01000E200DC58000/9E6B0D0023F9DB3B.yaml), v3, 1.0.5) | ~~[🔐](#🔐)~~ |
 | OCTOPATH TRAVELER | `010057D006492000` | `67DACC049CEEE858` ([✅](SaltySD/plugins/FPSLocker/patches/010057D006492000/67DACC049CEEE858.yaml), v5, 1.0.5) | ~~[🔐](#🔐)~~ |

@@ -322,7 +322,6 @@ PATCH AVAILABILITY<br>
 | ドラゴンクエスト トレジャーズ | `0100217014266000` | `2F81A2EC9B298B37` ([✅](SaltySD/plugins/FPSLocker/patches/0100217014266000/2F81A2EC9B298B37.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | DreadOut Remastered Collection | `01000B202041A000` | `725731C74E4CA6A9` ([✅](SaltySD/plugins/FPSLocker/patches/01000B202041A000/725731C74E4CA6A9.yaml), v1, 1.0.2) | ~~[📏](#📏)~~ |
 | DreadOut 2 | `010032B01C6F2000` | `FEEA420683820CD5` ([✅](SaltySD/plugins/FPSLocker/patches/010032B01C6F2000/FEEA420683820CD5.yaml), v6, 0.7) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| DreamWorks All-Star Kart Racing | `010037401A374000` | `3C3A2E68DBD1BBEC` ([✅](SaltySD/plugins/FPSLocker/patches/010037401A374000/3C3A2E68DBD1BBEC.yaml), v1, 0.1.0.11740) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Dredge | `01008CD0172D6000` | `B9CC2F4DE53D4F94` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/B9CC2F4DE53D4F94.yaml), v8, 1.4.2) <br> `E711B99C30E041F7` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/E711B99C30E041F7.yaml), v10, 1.5.1) <br> `2B1C8B24F6744644` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/2B1C8B24F6744644.yaml), v11, 1.5.2) <br> `F716D367A6D7F5BA` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/F716D367A6D7F5BA.yaml), v12, 1.5.3) | ~~[🛑](#🛑)~~ |
 | Dusk Diver | `0100B2B00E7AA000` | `FAD1AF4EDC6DB267` ([✅](SaltySD/plugins/FPSLocker/patches/0100B2B00E7AA000/FAD1AF4EDC6DB267.yaml), v6, 1.0.6) | ~~[🔐](#🔐)[🔧](#🔧)[📏](#📏)~~ |
 | Dusk Diver 酉閃町 | `010011C00E636000` | `FAD1AF4EDC6DB267` ([✅](SaltySD/plugins/FPSLocker/patches/010011C00E636000/FAD1AF4EDC6DB267.yaml), v6, 1.0.6) | ~~[🔐](#🔐)[🔧](#🔧)[📏](#📏)~~ |
@@ -1111,6 +1110,7 @@ PATCH AVAILABILITY<br>
 | Borderlands 3 | `01009970122E4000` | `AE2768797E3337EE` ([✅](SaltySD/plugins/FPSLocker/patches/01009970122E4000/AE2768797E3337EE.yaml), v3, 1.0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Caravan SandWitch | `0100D5801E904000` | `CE493FC8CDD3D7B2` ([✅](SaltySD/plugins/FPSLocker/patches/0100D5801E904000/CE493FC8CDD3D7B2.yaml), v5, 1.0.5) <br> `89349071D2B0BFF7` ([✅](SaltySD/plugins/FPSLocker/patches/0100D5801E904000/89349071D2B0BFF7.yaml), v7, 1.0.7) | ~~[📏](#📏)~~ |
 | City of Brass | `01009BC00B872000` | `53116900DC7BBE11` ([✅](SaltySD/plugins/FPSLocker/patches/01009BC00B872000/53116900DC7BBE11.yaml), v2, 1.2.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
+| DreamWorks All-Star Kart Racing | `010037401A374000` | `3C3A2E68DBD1BBEC` ([✅](SaltySD/plugins/FPSLocker/patches/010037401A374000/3C3A2E68DBD1BBEC.yaml), v1, 0.1.0.11740) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Empire of Sin | `010058600E530000` | `BD5F1ED30FDBA245` ([✅](SaltySD/plugins/FPSLocker/patches/010058600E530000/BD5F1ED30FDBA245.yaml), v10, 1.10.0) | ~~[📏](#📏)~~ |
 | EVERYBODY'S GOLF: Hot Shots `EUR` | `0100EBE020BC0000` | `D3CA3F7A4AE6F9A0` ([✅](SaltySD/plugins/FPSLocker/patches/0100EBE020BC0000/D3CA3F7A4AE6F9A0.yaml), v4, 1.1.3) | ~~[📏](#📏)~~ |
 | EVERYBODY'S GOLF: Hot Shots `US` | `0100821020BBC000` | `D45002D206976B20` (❌, v5, 1.1.4) | [📏](#📏) |

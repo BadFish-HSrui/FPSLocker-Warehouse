@@ -347,7 +347,9 @@ PATCH AVAILABILITY<br>
 | エンドリング - エクスティンクション イズ フォーエバー | `0100F8D01810E000` | `33DBE39C8A83F1E6` ([✅](SaltySD/plugins/FPSLocker/patches/0100F8D01810E000/33DBE39C8A83F1E6.yaml), v4, 1.3.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Eternights | `010018F01E0A0000` | `1AA4FD0FCA644CD3` (◯, v2, 1.0.2) |  |
 | Europa | `0100C8E01DD16000` | `3F2E96A4396944A1` ([✅](SaltySD/plugins/FPSLocker/patches/0100C8E01DD16000/3F2E96A4396944A1.yaml), v4, 1.4.0) | ~~[🔧](#🔧)~~ |
-| Everdream Valley | `0100B9801AA3C000` | `9860ED8101DC731B` (◯, v11, 1.0.11) |  |
+| Everdream Valley `West` | `0100B9801AA3C000` | `E2614ED6CF9FB524` (◯, v12, 1.0.12) |  |
+| Everdream Valley `Asia` | `01009F801C634000` | `E5900D64DC3674D6` (◯, v3, 1.0.11) |  |
+| Everdream Valley `KOR` | `0100CC501B7BA000` | `C5543AF98DB21155` (◯, v4, 1.0.11) |  |
 | Everspace | `0100DCF0093EC000` | `71873FEB4648FA39` ([✅](SaltySD/plugins/FPSLocker/patches/0100DCF0093EC000/71873FEB4648FA39.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Everything | `010031F00B246000` | `646BFBEE3CD99F4A` (◯, v1, 1.0.1) |  |
 | Exhausted Man | `010017D01F5E6000` | `5FB21A8A4819801C` (◯, v6, 1.0.6) |  |

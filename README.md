@@ -1090,6 +1090,7 @@ PATCH AVAILABILITY<br>
 | レックフェスト | `0100908017CC8000` | `7BCD694B69C98104` (◯, v2, 1.0.2) |  |
 | WW2: Bunker Simulator | `01009A601B032000` | `0C2E9A763F9AB7A2` (◯, v0, 01.00) |  |
 | WWE 2K18 | `010009800203E000` | `DEEE18D307C81634` (❌, v5, 1.04) | [⏱️](#⏱️)[📏](#📏)[⚔️](#⚔️) |
+| X-Morph Defense | `0100DF100B97C000` | `B0D911BC4C9A3760` (❌, v1, 1.0.1) | [⚔️](#⚔️) |
 | Xenoblade2 (ゼノブレイド2) | `0100F3400332C000` | `E3938FA78579C1CA` ([✅](SaltySD/plugins/FPSLocker/patches/0100F3400332C000/E3938FA78579C1CA.yaml), v14, 2.0.2) | ~~[🔐](#🔐)[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)[📺](#📺)~~[🔢](#🔢)[⚔️](#⚔️) |
 | Xenoblade Chronicles: Definitive Edition | `0100FF500E34A000` | `92C78BB3DCBBC3F7` ([✅](SaltySD/plugins/FPSLocker/patches/0100FF500E34A000/92C78BB3DCBBC3F7.yaml), v3, 1.1.2) | ~~[🔐](#🔐)[📏](#📏)[🖥️](#🖥️)~~[⚔️](#⚔️) |
 | Xenoblade Chronicles 2 | `0100E95004038000` | `F77F1559371C0EC6` ([✅](SaltySD/plugins/FPSLocker/patches/0100E95004038000/F77F1559371C0EC6.yaml), v15, 2.1.0) | ~~[🔐](#🔐)[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)[📺](#📺)~~[🔢](#🔢)[⚔️](#⚔️) |

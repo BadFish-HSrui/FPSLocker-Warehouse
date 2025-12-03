@@ -381,6 +381,9 @@ PATCH AVAILABILITY<br>
 | FINAL FANTASY CRYSTAL CHRONICLES `US` | `0100CE4010AAC000` | `E1D8B399B787AE41` (❌, v3, 1.0.3) | [⏱️](#⏱️)[🖥️](#🖥️) |
 | FINAL FANTASY CRYSTAL CHRONICLES | `0100BE0010AAE000` | `4C3D7BA90267A44F` (❌, v3, 1.0.3) | [⏱️](#⏱️)[🖥️](#🖥️) |
 | FINAL FANTASY VIII Remastered | `01008B900DC0A000` | `7F59549F6E792936` (❌, v3, 1.0.1_5) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
+| FINAL FANTASY X/X-2 HD Remaster | `0100BC300CB48000` | `1CE9F39DDB8A1A93` (❌, v0, 1.0.0) | [⏱️](#⏱️)[🖥️](#🖥️) |
+| FINAL FANTASY X/X-2 HD Remaster `Asia` | `0100FE500D0CA000` | `C581C65CD5743ADF` (❌, v0, 1.0.0) | [⏱️](#⏱️)[🖥️](#🖥️) |
+| FINAL FANTASY X/X-2 HD Remaster `JPN` | `0100B3600AE9A000` | `F7D7C90D32B8DA7D` (❌, v0, 1.0.0) | [⏱️](#⏱️)[🖥️](#🖥️) |
 | FINAL FANTASY XII THE ZODIAC AGE | `0100EB100AB42000` | `C2932C4D1C84ED7D` (❌, v1, 1.1.0) | [⏱️](#⏱️)[🖥️](#🖥️)[🛑](#🛑) |
 | Fire Emblem Engage | `0100A6301214E000` | `8C08B9719E085F91` ([✅](SaltySD/plugins/FPSLocker/patches/0100A6301214E000/8C08B9719E085F91.yaml), v5, 2.0.0) | ~~[⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️)~~ |
 | Fire Emblem: Three Houses | `010055D009F78000` | `89048449BA238C8C` ([✅](SaltySD/plugins/FPSLocker/patches/010055D009F78000/89048449BA238C8C.yaml), v5, 1.2.0) | ~~[📏](#📏)~~ |

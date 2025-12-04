@@ -581,8 +581,9 @@ PATCH AVAILABILITY<br>
 | Max: The Curse Of Brotherhood | `01001C9007614000` | `F99E70DF48B3DC49` (◯, v1, 1.0.1) |  |
 | MEGATON MUSASHI W: WIRED | `01003EB01C2F0000` | `0D28F064B3A5D030` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/0D28F064B3A5D030.yaml), v3, 3.0.3) <br> `4183AB952B599826` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/4183AB952B599826.yaml), v4, 3.1.0) <br> `F1E096F78DFB8263` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/F1E096F78DFB8263.yaml), v5, 3.1.1) <br> `452F9C150D1D17B7` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/452F9C150D1D17B7.yaml), v6, 3.1.2) <br> `FF46A0C56BAD0A32` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/FF46A0C56BAD0A32.yaml), v7, 3.1.3) <br> `8286C091117CAECF` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/8286C091117CAECF.yaml), v8, 3.2.0) <br> `1EC3E6373D7DA9A6` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/1EC3E6373D7DA9A6.yaml), v9, 3.2.2) <br> `D152798E91A87AE7` ([✅](SaltySD/plugins/FPSLocker/patches/01003EB01C2F0000/D152798E91A87AE7.yaml), v10, 3.2.3) | ~~[🛑](#🛑)~~ |
 | Mercenaries Saga Chronicles | `0100273008FBC000` | `B657840C3D2D554E` (◯, v1, 1.0.1) |  |
-| Mercenaries Saga Chronicles `CHN` | `0100D5000B988000` | `C97E3DEC93B2E447` (◯, v0, 1.0.0) |  |
-| Mercenaries Wings | `010094500C216000` | `FEA1E2AF77833E40` (◯, v1, 1.0.1) |  |
+| Mercenaries Saga Chronicles `CHN` | `0100D5000B988000` | `C97E3DEC93B2E447` (◯, v0, 1.0.1) |  |
+| マーセナリーズサーガ クロニクルズ | `01001C40079BC000` | `B657840C3D2D554E` (◯, v1, 1.0.1) |  |
+| Mercenaries Wings | `010094500C216000` | `FEA1E2AF77833E40` (◯, v0, 1.0.1) |  |
 | Metal Gear Solid 2: Sons of Liberty | `0100A4301AA0C000` | `03C2232966780A16` (❌, v9, 2.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Metal Gear Solid 2: Sons of Liberty `JPN` | `0100EE8019534000` | `03C2232966780A16` (❌, v7, 2.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Metal Gear Solid 3: Snake Eater | `010047F01AA10000` | `AE937A8EA9B815AD` (❌, v10, 2.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |

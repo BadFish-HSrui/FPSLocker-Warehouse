@@ -848,6 +848,7 @@ PATCH AVAILABILITY<br>
 | Solar Ash | `010083501AB36000` | `0959D87753F9FED4` ([✅](SaltySD/plugins/FPSLocker/patches/010083501AB36000/0959D87753F9FED4.yaml), v1, 1.06.0) | ~~[📏](#📏)~~ |
 | SOMA | `0100927023A34000` | `9BD1FF915EE92EAA` (❌, v4, 1.4.0) | [🔐](#🔐)[⏱️](#⏱️)[🏃](#🏃) |
 | Song of Nunu: A League of Legends Story | `01004F401BEBE000` | `DF2D64FB63F1BD00` ([✅](SaltySD/plugins/FPSLocker/patches/01004F401BEBE000/DF2D64FB63F1BD00.yaml), v2, 1.0.2) | ~~[📏](#📏)[🔧](#🔧)~~ |
+| Songs of Conquest | `01001AC019A0C000` | `4CCD57106100AA12` (◯, v0, 1.5.6) |  |
 | Sonic Colours: Ultimate | `010040E0116B8000` | `957E1E19958A93F9` (◯, v7, 1.0.9) |  |
 | SONIC FORCES | `01001270012B6000` | `6D9EA94F8AAC00A8` ([✅](SaltySD/plugins/FPSLocker/patches/01001270012B6000/6D9EA94F8AAC00A8.yaml), v2, 1.2.0) | ~~[🔐](#🔐)[⚔️](#⚔️)~~[🔢](#🔢) |
 | SONIC FORCES DIGITAL BONUS EDITION | `0100111004460000` | `6D9EA94F8AAC00A8` ([✅](SaltySD/plugins/FPSLocker/patches/0100111004460000/6D9EA94F8AAC00A8.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[⚔️](#⚔️)~~[🔢](#🔢) |

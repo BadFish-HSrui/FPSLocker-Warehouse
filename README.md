@@ -898,6 +898,7 @@ PATCH AVAILABILITY<br>
 | Subnautica | `0100429011144000` | `B3DB5A1EDAF8454F` (◯, v5, 1.21.71113) |  |
 | Subnautica Below Zero | `010014C011146000` | `5B050C55B8264040` (◯, v8, 1.21.49397) |  |
 | Suikoden I&II HD Remaster | `01004BD017080000` | `A481E5E6A88FDFB7` (❌, v3, 1.0.3) | [⏱️](#⏱️) |
+| Sun Haven | `010027B01D4EA000` | `7E94BF1452827F44` (◯, v4, 2.5.2k) |  |
 | Super Crazy Rhythm Castle | `01005B7017828000` | `90B9B162B022DCBF` (◯, v0, 1.0.0.0) |  |
 | Super Kirby Clash | `01003FB00C5A8000` | `DCDFA5A4AD9A175D` ([✅](SaltySD/plugins/FPSLocker/patches/01003FB00C5A8000/DCDFA5A4AD9A175D.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⚔️](#⚔️)~~ |
 | Super Neptunia RPG | `01001CE00D7B6000` | `CE5C50E07FBF1E42` (◯, v2, 1.02) |  |

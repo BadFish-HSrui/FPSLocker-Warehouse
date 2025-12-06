@@ -280,6 +280,7 @@ PATCH AVAILABILITY<br>
 | Deliver Us The Moon | `010047401EA8E000` | `928AF9461536F5E3` ([✅](SaltySD/plugins/FPSLocker/patches/010047401EA8E000/928AF9461536F5E3.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
 | DELTARUNE | `0100A0D022A68000` | `59972BE5A4FE0696` (❌, v5, 1.04) | [🔐](#🔐)[⏱️](#⏱️) |
 | DEMON GAZE EXTRA | `0100FCC0168FC000` | `58EE9A90F6FE6D4B` (❌, v2, 1.0.2) | [⏱️](#⏱️)[🖥️](#🖥️) |
+| 데몬 게이즈 엑스트라 | `01000C30162A6000` | `A2919B047E388540` (❌, v4, 1.0.4) | [⏱️](#⏱️)[🖥️](#🖥️) |
 | Demon Slayer -Kimetsu no Yaiba- Sweep the Board! | `0100A7101B806000` | `BCC955FF933FEF2E` ([✅](SaltySD/plugins/FPSLocker/patches/0100A7101B806000/BCC955FF933FEF2E.yaml), v8, 1.20) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | 귀멸의 칼날: 도전, 최강의 대원! | `0100D3201B808000` | `BCC955FF933FEF2E` ([✅](SaltySD/plugins/FPSLocker/patches/0100D3201B808000/BCC955FF933FEF2E.yaml), v8, 1.20) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | 鬼滅の刃 目指せ！最強隊士！ | `0100A3D0199AC000` | `BCC955FF933FEF2E` ([✅](SaltySD/plugins/FPSLocker/patches/0100A3D0199AC000/BCC955FF933FEF2E.yaml), v8, 1.20) | ~~[🔐](#🔐)[🔧](#🔧)~~ |

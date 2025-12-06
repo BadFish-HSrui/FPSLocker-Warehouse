@@ -519,6 +519,7 @@ PATCH AVAILABILITY<br>
 | Kao the Kangaroo `GLOBAL` | `0100956016464000` | `F9C83728910E28A4` ([✅](SaltySD/plugins/FPSLocker/patches/0100956016464000/F9C83728910E28A4.yaml), v5, 1.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Kao the Kangaroo `US` | `010078C01769A000` | `7BA282E94D34C620` ([✅](SaltySD/plugins/FPSLocker/patches/010078C01769A000/7BA282E94D34C620.yaml), v5, 1.5) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Katamari Damacy REROLL | `0100D7000C2C6000` | `B528B17AD9C71F41` (❌, v2, 1.2) | [⏱️](#⏱️) |
+| Kentum | `01008F0022CD2000` | `BC18BFC4C64571A9` (◯, v1, 1.0.1) |  |
 | Kiki | `0100E2D01F290000` | `722D0E06169C2458` (◯, v0, 1.0.0) |  |
 | King of Seas | `01008D80148C8000` | `BC82DB38671F8468` ([✅](SaltySD/plugins/FPSLocker/patches/01008D80148C8000/BC82DB38671F8468.yaml), v4, 1.0.4) | ~~[🔧](#🔧)~~ |
 | Kingdom Come: Deliverance `GLOBAL` | `0100650018FE0000` | `7A450848CFDEC18E` ([✅](SaltySD/plugins/FPSLocker/patches/0100650018FE0000/7A450848CFDEC18E.yaml), v2, 1.9.6H) | ~~[🔐](#🔐)[📏](#📏)~~ |

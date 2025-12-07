@@ -122,7 +122,8 @@ PATCH AVAILABILITY<br>
 | Astor: Blade of the Monolith | `01001D00186E8000` | `C26E93197DEB4004` ([✅](SaltySD/plugins/FPSLocker/patches/01001D00186E8000/C26E93197DEB4004.yaml), v1, 1.0.1) <br> `6133D5CC14F51B7A` ([✅](SaltySD/plugins/FPSLocker/patches/01001D00186E8000/6133D5CC14F51B7A.yaml), v2, 1.0.2) <br> `E2AFE5A73F5C0803` ([✅](SaltySD/plugins/FPSLocker/patches/01001D00186E8000/E2AFE5A73F5C0803.yaml), v3, 1.0.3) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ASTRAL CHAIN | `01007300020FA000` | `4B159F0F7A360669` ([✅](SaltySD/plugins/FPSLocker/patches/01007300020FA000/4B159F0F7A360669.yaml), v1, 1.0.1) | ~~[⏱️](#⏱️)[📺](#📺)~~[🔢](#🔢) |
 | ASTRONEER | `0100E63013E60000` | `0C8DC9D899379FA5` ([✅](SaltySD/plugins/FPSLocker/patches/0100E63013E60000/0C8DC9D899379FA5.yaml), v24, 1.34.46.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| Atelier Ayesha | `0100D9D00EE8C000` | `B9146E1CAD9E36BA` (◯, v0, 1.0.0) |  |
+| Atelier Ayesha DX | `0100D9D00EE8C000` | `B9146E1CAD9E36BA` (◯, v0, 1.0.0) |  |
+| アーシャのアトリエ DX | `010092800EC76000` | `1BE6448B6751FF20` (◯, v2, 1.0.2) |  |
 | Atelier Escha & Logy | `0100E5600EE8E000` | `4BBB3B3455D306C6` (◯, v0, 1.0.0) |  |
 | Atelier Firis | `010023201421E000` | `8BB29E319CCE6357` (◯, v4, 1.0.4) |  |
 | Atelier Lulua | `0100B1400CD50000` | `CA7FACAEC708311C` (◯, v4, 1.0.3) |  |

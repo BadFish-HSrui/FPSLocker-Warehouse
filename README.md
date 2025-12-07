@@ -111,6 +111,8 @@ PATCH AVAILABILITY<br>
 | Arrest of a stone Buddha | `0100184011B32000` | `6E617D487F4EE441` (❌, v0, 1.0.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | art of rally | `0100A88012504000` | `0D17FD76B32F3040` ([✅](SaltySD/plugins/FPSLocker/patches/0100A88012504000/0D17FD76B32F3040.yaml), v6, 1.1.8) <br> `BCAA04FAF88EEA4A` ([✅](SaltySD/plugins/FPSLocker/patches/0100A88012504000/BCAA04FAF88EEA4A.yaml), v7, 1.1.9) | ~~[📏](#📏)~~ |
 | Ary and the Secret of Seasons | `0100C2500CAB6000` | `3EBEDE7394C88C42` (◯, v3, 1.0.3) |  |
+| Asdivine Hearts | `010042800A516000` | `47F635A5D1FDDC45` (❌, v4, 1.0.4) | [⏱️](#⏱️)[🖥️](#🖥️) |
+| Asdivine Hearts II | `01007D300CD8C000` | `781A8278C5BFE44A` (❌, v3, 1.0.3) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Assassin's Creed II | `0100670014482000` | `824B38A25986B2AB` ([✅](SaltySD/plugins/FPSLocker/patches/0100670014482000/824B38A25986B2AB.yaml), v3, 1.3) | ~~[📏](#📏)~~ |
 | Assassin's Creed Brotherhood | `0100670014482001` | `2B59D6C677258A2A` ([✅](SaltySD/plugins/FPSLocker/patches/0100670014482001/2B59D6C677258A2A.yaml), v3, 1.3) | ~~[📏](#📏)~~ |
 | Assassin's Creed Revelations | `0100670014482002` | `0AE4D1770B196094` ([✅](SaltySD/plugins/FPSLocker/patches/0100670014482002/0AE4D1770B196094.yaml), v3, 1.3) | ~~[📏](#📏)~~ |

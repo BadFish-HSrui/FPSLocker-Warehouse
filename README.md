@@ -550,6 +550,7 @@ PATCH AVAILABILITY<br>
 | LEGO Party | `0100A760232D2000` | `C70A4E7B66BB6338` (◯, v2, 1.2.0) |  |
 | LEGO Star Wars: The Skywalker Saga | `010042D00D900000` | `EC593A5F9552100A` ([✅](SaltySD/plugins/FPSLocker/patches/010042D00D900000/EC593A5F9552100A.yaml), v9, 1.10.0) | ~~[📏](#📏)~~ |
 | LEGO The Incredibles | `0100F19006E04000` | `414D247F3FD8084E` (◯, v2, 1.0.2) |  |
+| LEGO The Incredibles `US` | `0100A01006E00000` | `2103782A9AE5384E` (◯, v2, 1.0.2) |  |
 | LEGO Worlds | `0100838002AEA000` | `8174C89125B5404E` (◯, v10, 1.3.2) |  |
 | Life is Strange | `0100DC301186A000` | `EE295EAAEA7D31E4` ([✅](SaltySD/plugins/FPSLocker/patches/0100DC301186A000/EE295EAAEA7D31E4.yaml), v1, 1.0.1) | ~~[📏](#📏)~~ |
 | Life is Strange 2 | `0100FD101186C000` | `BF0088C59D7E97C0` ([✅](SaltySD/plugins/FPSLocker/patches/0100FD101186C000/BF0088C59D7E97C0.yaml), v1, 1.1.0) | ~~[🔐](#🔐)[🔧](#🔧)~~ |

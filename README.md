@@ -837,6 +837,7 @@ PATCH AVAILABILITY<br>
 | Sherlock Holmes and The<br>Hound of The Baskervilles | `010003D018708000` | `4A06EBBB5A2E4FE4` (❌📌, v2, 1.0.2) | [🔐](#🔐) |
 | Shin chan: Me and the Professor<br>on Summer Vacation<br>The Endless Seven-Day Journey | `0100ACC0185FC000` | `C167F81FB2171443` (◯, v2, 1.1.1) |  |
 | Shin chan: Shiro and the Coal Town | `0100A8B01E0C8000` | `2AD4407726EEAB86` (◯, v3, 1.0.3) |  |
+| - 짱구는 못 말려『탄광마을의 흰둥이』<br>- 蠟筆小新 煤炭鎮的小白 | `010049901D704000` | `B6ACB0F1227E5A35` (◯, v2, 1.0.2) |  |
 | Shin Megami Tensei III Nocturne | `01003B0012DC2000` | `F8098979DBC7F34E` (❌, v3, 1.0.3) | [⏱️](#⏱️)[🏃](#🏃)[🖥️](#🖥️) |
 | SHIN MEGAMI TENSEI V | `0100B870126CE000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/0100B870126CE000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |
 | 真・女神転生Ⅴ | `01006BD0095F4000` | `019FBFE7738EA314` ([✅](SaltySD/plugins/FPSLocker/patches/01006BD0095F4000/019FBFE7738EA314.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |

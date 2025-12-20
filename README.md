@@ -1174,7 +1174,7 @@ PATCH AVAILABILITY<br>
 | 英雄伝説 閃の軌跡II<br>改 -The Erebonian Civil War- | `0100906014C3C000` | `EAB1DC1D53E319F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100906014C3C000/EAB1DC1D53E319F9.yaml), v5, 1.0.5) | ~~[🔐](#🔐)~~ |
 | ドラゴンクエストX<br>目覚めし五つの種族　オフライン | `0100E2E0152E4000` | `13F322A6161F787C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E2E0152E4000/13F322A6161F787C.yaml), v4, 2.0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | 電車でＧＯ！！ はしろう山手線 | `0100BC501355A000` | `7C9F89C3743F202F` ([✅](SaltySD/plugins/FPSLocker/patches/0100BC501355A000/7C9F89C3743F202F.yaml), v3, 1.1.2) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `2D532E9C1B773907` (◯, v7, 1.2.0) |  |
+| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `14C62FBD356EB81B` (◯, v8, 1.3.0) |  |
 | 창세기전 \~회색의 잔영\~ | `0100276019E96000` | `EC983B9153629AC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100276019E96000/EC983B9153629AC8.yaml), v1, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ドラゴンクエストヒーローズI・II | `0100CD3000BDC000` | `5C598E5025BF97BC` ([✅](SaltySD/plugins/FPSLocker/patches/0100CD3000BDC000/5C598E5025BF97BC.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[⚔️](#⚔️)~~
 | エアコンフリクト：パシフィックキャリアー | `010020700C952000` | `E0875F171671C8F7` (❌, v0, 1.0.0) | [⚔️](#⚔️) |

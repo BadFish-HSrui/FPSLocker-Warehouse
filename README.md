@@ -362,7 +362,7 @@ PATCH AVAILABILITY<br>
 | Embr | `0100CC6013432000` | `473D222EB1BDAD47` (◯, v6, 1.0.6) |  |
 | エンバー それゆけ救助隊 | `01007CC016284000` | `473D222EB1BDAD47` (◯, v2, 1.0.6) |  |
 | Endless Ocean Luminous | `010067B017588000` | `E5EFB5ABA3601B97` ([✅](SaltySD/plugins/FPSLocker/patches/010067B017588000/E5EFB5ABA3601B97.yaml), v1, 1.0.1) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
-| Endling | `0100E9400FE34000` | `33DBE39C8A83F1E6` ([✅](SaltySD/plugins/FPSLocker/patches/0100E9400FE34000/33DBE39C8A83F1E6.yaml), v3, 1.3.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
+| Endling | `0100E9400FE34000` | `33DBE39C8A83F1E6` ([✅](SaltySD/plugins/FPSLocker/patches/0100E9400FE34000/33DBE39C8A83F1E6.yaml), v4, 1.3.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | エンドリング - エクスティンクション イズ フォーエバー | `0100F8D01810E000` | `33DBE39C8A83F1E6` ([✅](SaltySD/plugins/FPSLocker/patches/0100F8D01810E000/33DBE39C8A83F1E6.yaml), v4, 1.3.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Escape Academy | `01001B0019F9E000` | `9E365FE9EC3A52D3` ([✅](SaltySD/plugins/FPSLocker/patches/01001B0019F9E000/9E365FE9EC3A52D3.yaml), v4, 3.0.6.2) | ~~[📷](#📷)~~ |
 | Eternights | `010018F01E0A0000` | `1AA4FD0FCA644CD3` (◯, v2, 1.0.2) |  |

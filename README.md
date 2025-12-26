@@ -62,7 +62,7 @@ PATCH AVAILABILITY<br>
 
 <details>
 <summary>List of 30 FPS locked games (1149 titles)</summary>
-<h5>
+<h6>
 
 | NAME | TITLE ID | BUILD ID (PATCH AVAILABLE, VERSION ID, VERSION) | ISSUES |
 | --- | --- | --- | --- |
@@ -1216,7 +1216,7 @@ PATCH AVAILABILITY<br>
 | エアコンフリクト：パシフィックキャリアー | `010020700C952000` | `E0875F171671C8F7` (❌, v0, 1.0.0) | [⚔️](#⚔️) |
 | 仮面ライダー クライマックススクランブル ジオウ | `0100BDC00A664000` | `1EAD461ABA0F154A` (❌📌, v3, 1.2.0) | [⏱️](#⏱️)[🖥️](#🖥️) |
 
-</h5>
+</h6>
 </details>
 
 <details>

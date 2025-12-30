@@ -869,6 +869,7 @@ PATCH AVAILABILITY<br>
 | 戦国無双５ | `010089A0117D4000` | `9B7A3AC5AF1A3B0D` ([✅](SaltySD/plugins/FPSLocker/patches/010089A0117D4000/9B7A3AC5AF1A3B0D.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | Scars of Mars | `01007D101F162000` | `8945AE96329ED1C7` (◯, v3, 1.1.1) |  |
 | SD GUNDAM BATTLE ALLIANCE | `01002BE016054000` | `751420FADE402804` ([✅](SaltySD/plugins/FPSLocker/patches/01002BE016054000/751420FADE402804.yaml), v7, 1.4.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
+| - SD GUNDAM 激鬥同盟<br>- SD건담 배틀 얼라이언스 | `010080001783A000` | `9AA43E51D52F9DA2` (❌📌, v7, 1.4.0) | [📏](#📏)[🔧](#🔧) |
 | SD シン・仮面ライダー 乱舞 | `0100CD40192AC000` | `651CF2EC3B62B82B` (◯, v2, 1.0.2) |  |
 | SD 신 가면라이더 난무 | `01002160192B2000` | `1E989D90345AB3D2` (◯, v2, 1.0.2) |  |
 | SENRAN KAGURA Peach Ball | `01004DC00D936000` | `31CDAD67EA25CC16` ([✅](SaltySD/plugins/FPSLocker/patches/01004DC00D936000/31CDAD67EA25CC16.yaml), v0, 1.0.0) | ~~[🔐](#🔐)~~[⚔️](#⚔️) |

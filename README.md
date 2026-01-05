@@ -678,7 +678,7 @@ PATCH AVAILABILITY<br>
 | My Time at Sandrock | `0100B63016916000` | `B74DFD27FC9DA1B4` (◯, v13, 1.4.2.0) |  |
 | - 마이 타임 앳 샌드록<br>- 沙石鎮時光 | `0100F5101C890000` | `B74DFD27FC9DA1B4` (◯, v11, 1.4.2.0) |  |
 | Mythic Ocean | `0100F4F014108000` | `2284DFB25F387719` ([✅](SaltySD/plugins/FPSLocker/patches/0100F4F014108000/2284DFB25F387719.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)~~ |
-| NARUTO SHIPPUUDEN: Ultimate Ninja STORM TRILOGY | `0100EC800800C000` | `295564276378B0DF` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🖌️](#🖌️) |
+| NARUTO SHIPPUDEN: Ultimate Ninja STORM TRILOGY | `0100EC800800C000` | `295564276378B0DF` (❌, v1, 1.0.1) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🖌️](#🖌️) |
 | NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO | `01006CF00CF60000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 ROAD TO BORUTO `US` | `010084D00CF5E000` | `D3016FC0C0402DFB` (❌, v2, 1.2.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |
 | - ＮＡＲＵＴＯ－ナルト－ 疾風伝　ナルティメットストーム４ ROAD TO BORUTO<br>- 火影忍者疾風傳 終極風暴4 慕留人傳 | `01003F800CF5C000` | `D3016FC0C0402DFB` (❌, v1, 1.1.0) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[🎮](#🎮) |

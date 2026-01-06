@@ -25,7 +25,7 @@ def DownloadDatabase():
         print("Github API requests limit was achieved.")
         print("We cannot check when last time file was updated.")
     else:
-        commits = repo.get_commits(path="versions.txt")
+        commits = repo.get_commits(path="version_dump.txt")
         print("Last version_dump update (YYYY/MM/DD):")
         print(commits[0].commit.committer.date)
         print("\n---\n")
@@ -188,6 +188,7 @@ for i in range(len(tid_keys)):
     print("\n")
 
 print("Script finished execution.")
+
 
 
 

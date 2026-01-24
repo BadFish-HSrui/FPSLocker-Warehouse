@@ -499,7 +499,7 @@ PATCH AVAILABILITY<br>
 | Hellpoint | `010024600C794000` | `3776E7BBC7C01E43` ([✅](SaltySD/plugins/FPSLocker/patches/010024600C794000/3776E7BBC7C01E43.yaml), v3, 1.0.2.0) | ~~[📏](#📏)~~ |
 | Hello Neighbor 2 | `0100EAF01527E000` | `AB75C103EEC0D5FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100EAF01527E000/AB75C103EEC0D5FC.yaml), v1, 1.1) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | Hentai vs. Evil | `0100267013F04000` | `30BDD096B2E78836` (◯, v0, 1.0.0) |  |
-| Hero's Hour | `010005E01E5E6000` | `8B0C5F41A0CCDFD9` (❌, v2, 2.5.3) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
+| Hero's Hour | `010005E01E5E6000` | `97FA84EAB42AFE5B` (❌, v3, 2.5.4) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | High On Life | `0100C1101EE5A000` | `950FB0C3D58D6A7B` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1101EE5A000/950FB0C3D58D6A7B.yaml), v5, 1.0.5) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Highwater | `0100D1A019EBA000` | `3A38653015036D51` (◯, v1, 1.0.1) |  |
 | Hitman: Absolution | `010037C022390000` | `96B7F9BD973D298E` ([✅](SaltySD/plugins/FPSLocker/patches/010037C022390000/96B7F9BD973D298E.yaml), v0, 1.2.2RC1) | ~~[🔐](#🔐)[📏](#📏)~~ |

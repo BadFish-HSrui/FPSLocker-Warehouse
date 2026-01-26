@@ -50,89 +50,35 @@ jobs:
           PATCH_DIR="${GITHUB_WORKSPACE}/SaltySD/plugins/FPSLocker/patches"
           EXECUTABLE="${GITHUB_WORKSPACE}/FPSLocker/tester/my_program"
           FAILED=0
-          MAX_PARALLEL=2
           
           if [ ! -d "$PATCH_DIR" ]; then
             echo "Error: Patches directory not found at $PATCH_DIR"
             exit 1
           fi
           
-          # Find all .yaml files and store them in an array
-          yaml_files=()
+          # Find all .yaml files recursively
           while IFS= read -r yaml_file; do
-            yaml_files+=("$yaml_file")
-          done < <(find "$PATCH_DIR" -type f -name "*.yaml")
-          
-          echo "Found ${#yaml_files[@]} YAML files to validate"
-          
-          # Create a temporary directory for results
-          TEMP_DIR=$(mktemp -d)
-          
-          # Function to validate a single file
-          validate_file() {
-            local yaml_file="$1"
-            local index="$2"
-            local result_file="$TEMP_DIR/result_$index"
-            
-            echo "[Job $index] Validating: $yaml_file"
+            echo "Validating: $yaml_file"
             
             # Execute my_program with the yaml file path
             if "$EXECUTABLE" "$yaml_file"; then
               # Extract filename without extension
               filename=$(basename "$yaml_file" .yaml)
               
-              echo "[Job $index] Checking if '$filename' exists in the file with a leading space..."
+              echo "Checking if '$filename' exists in the file with a leading space..."
               
               # Check if the filename (with a leading space) exists in the file
               if grep -q " $filename" "$yaml_file"; then
-                echo "[Job $index] ✓ Found ' $filename' in $yaml_file"
-                echo "0" > "$result_file"
+                echo "✓ Found ' $filename' in $yaml_file"
               else
-                echo "[Job $index] ✗ Error: ' $filename' not found in $yaml_file"
-                echo "1" > "$result_file"
-              fi
-            else
-              echo "[Job $index] Failed validation for: $yaml_file"
-              echo "1" > "$result_file"
-            fi
-          }
-          
-          export -f validate_file
-          export EXECUTABLE
-          export TEMP_DIR
-          
-          # Process files with controlled parallelism
-          running=0
-          index=0
-          
-          for yaml_file in "${yaml_files[@]}"; do
-            # Wait if we've reached max parallel jobs
-            while [ $running -ge $MAX_PARALLEL ]; do
-              wait -n
-              running=$((running - 1))
-            done
-            
-            # Start validation in background
-            validate_file "$yaml_file" "$index" &
-            running=$((running + 1))
-            index=$((index + 1))
-          done
-          
-          # Wait for all remaining jobs to complete
-          wait
-          
-          # Check all result files
-          for result_file in "$TEMP_DIR"/result_*; do
-            if [ -f "$result_file" ]; then
-              result=$(cat "$result_file")
-              if [ "$result" -ne 0 ]; then
+                echo "✗ Error: ' $filename' not found in $yaml_file"
                 FAILED=1
               fi
+            else
+              echo "Failed validation for: $yaml_file"
+              FAILED=1
             fi
-          done
-          
-          # Cleanup
-          rm -rf "$TEMP_DIR"
+          done < <(find "$PATCH_DIR" -type f -name "*.yaml")
           
           if [ $FAILED -eq 1 ]; then
             echo "One or more patch files failed validation"

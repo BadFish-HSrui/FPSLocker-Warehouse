@@ -50,14 +50,26 @@ jobs:
           PATCH_DIR="${GITHUB_WORKSPACE}/SaltySD/plugins/FPSLocker/patches"
           EXECUTABLE="${GITHUB_WORKSPACE}/FPSLocker/tester/my_program"
           FAILED=0
+          MAX_PARALLEL=2
           
           if [ ! -d "$PATCH_DIR" ]; then
             echo "Error: Patches directory not found at $PATCH_DIR"
             exit 1
           fi
           
-          # Find all .yaml files recursively
+          # Find all .yaml files and store them in an array
+          yaml_files=()
           while IFS= read -r yaml_file; do
+            yaml_files+=("$yaml_file")
+          done < <(find "$PATCH_DIR" -type f -name "*.yaml")
+          
+          echo "Found ${#yaml_files[@]} YAML files to validate"
+          
+          # Function to validate a single file
+          validate_file() {
+            local yaml_file="$1"
+            local temp_result="$2"
+            
             echo "Validating: $yaml_file"
             
             # Execute my_program with the yaml file path
@@ -70,15 +82,34 @@ jobs:
               # Check if the filename (with a leading space) exists in the file
               if grep -q " $filename" "$yaml_file"; then
                 echo "✓ Found ' $filename' in $yaml_file"
+                echo "0" > "$temp_result"
               else
                 echo "✗ Error: ' $filename' not found in $yaml_file"
-                FAILED=1
+                echo "1" > "$temp_result"
               fi
             else
               echo "Failed validation for: $yaml_file"
-              FAILED=1
+              echo "1" > "$temp_result"
             fi
-          done < <(find "$PATCH_DIR" -type f -name "*.yaml")
+          }
+          
+          # Export function and variables for use in subshells
+          export -f validate_file
+          export EXECUTABLE
+          
+          # Process files with limited parallelism using xargs
+          printf '%s\n' "${yaml_files[@]}" | xargs -I {} -P "$MAX_PARALLEL" bash -c '
+            temp_result=$(mktemp)
+            validate_file "{}" "$temp_result"
+            result=$(cat "$temp_result")
+            rm -f "$temp_result"
+            exit $result
+          '
+          
+          # Check if any validation failed
+          if [ $? -ne 0 ]; then
+            FAILED=1
+          fi
           
           if [ $FAILED -eq 1 ]; then
             echo "One or more patch files failed validation"

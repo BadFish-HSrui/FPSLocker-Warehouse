@@ -65,51 +65,74 @@ jobs:
           
           echo "Found ${#yaml_files[@]} YAML files to validate"
           
+          # Create a temporary directory for results
+          TEMP_DIR=$(mktemp -d)
+          
           # Function to validate a single file
           validate_file() {
             local yaml_file="$1"
-            local temp_result="$2"
+            local index="$2"
+            local result_file="$TEMP_DIR/result_$index"
             
-            echo "Validating: $yaml_file"
+            echo "[Job $index] Validating: $yaml_file"
             
             # Execute my_program with the yaml file path
             if "$EXECUTABLE" "$yaml_file"; then
               # Extract filename without extension
               filename=$(basename "$yaml_file" .yaml)
               
-              echo "Checking if '$filename' exists in the file with a leading space..."
+              echo "[Job $index] Checking if '$filename' exists in the file with a leading space..."
               
               # Check if the filename (with a leading space) exists in the file
               if grep -q " $filename" "$yaml_file"; then
-                echo "✓ Found ' $filename' in $yaml_file"
-                echo "0" > "$temp_result"
+                echo "[Job $index] ✓ Found ' $filename' in $yaml_file"
+                echo "0" > "$result_file"
               else
-                echo "✗ Error: ' $filename' not found in $yaml_file"
-                echo "1" > "$temp_result"
+                echo "[Job $index] ✗ Error: ' $filename' not found in $yaml_file"
+                echo "1" > "$result_file"
               fi
             else
-              echo "Failed validation for: $yaml_file"
-              echo "1" > "$temp_result"
+              echo "[Job $index] Failed validation for: $yaml_file"
+              echo "1" > "$result_file"
             fi
           }
           
-          # Export function and variables for use in subshells
           export -f validate_file
           export EXECUTABLE
+          export TEMP_DIR
           
-          # Process files with limited parallelism using xargs
-          printf '%s\n' "${yaml_files[@]}" | xargs -I {} -P "$MAX_PARALLEL" bash -c '
-            temp_result=$(mktemp)
-            validate_file "{}" "$temp_result"
-            result=$(cat "$temp_result")
-            rm -f "$temp_result"
-            exit $result
-          '
+          # Process files with controlled parallelism
+          running=0
+          index=0
           
-          # Check if any validation failed
-          if [ $? -ne 0 ]; then
-            FAILED=1
-          fi
+          for yaml_file in "${yaml_files[@]}"; do
+            # Wait if we've reached max parallel jobs
+            while [ $running -ge $MAX_PARALLEL ]; do
+              wait -n
+              running=$((running - 1))
+            done
+            
+            # Start validation in background
+            validate_file "$yaml_file" "$index" &
+            running=$((running + 1))
+            index=$((index + 1))
+          done
+          
+          # Wait for all remaining jobs to complete
+          wait
+          
+          # Check all result files
+          for result_file in "$TEMP_DIR"/result_*; do
+            if [ -f "$result_file" ]; then
+              result=$(cat "$result_file")
+              if [ "$result" -ne 0 ]; then
+                FAILED=1
+              fi
+            fi
+          done
+          
+          # Cleanup
+          rm -rf "$TEMP_DIR"
           
           if [ $FAILED -eq 1 ]; then
             echo "One or more patch files failed validation"

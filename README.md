@@ -137,7 +137,7 @@ PATCH AVAILABILITY<br>
 | Atelier Meruru | `0100ADD00C6FA000` | `E76C3624D3AE3DCE` (◯, v2, 1.0.2) |  |
 | Atelier Resleriana | `01000F9020CD4000` | `6ACDAEE7DDC5E503` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/6ACDAEE7DDC5E503.yaml), v4, 1.2a) <br> `F140F141FDC4C331` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/F140F141FDC4C331.yaml), v5, 1.3) <br> `8593E6008F5A883D` ([✅](SaltySD/plugins/FPSLocker/patches/01000F9020CD4000/8593E6008F5A883D.yaml), v6, 1.4) | ~~[🏃](#🏃)~~ |
 | レスレリアーナのアトリエ | `010051A020C6E000` | `9CD533668EF74A45` (❌📌, v7, 1.4a) | [🏃](#🏃) |
-| - 레슬레리아나의 아틀리에<br>-蕾斯萊莉婭娜的鍊金工房 | `0100B4E020CE2000` | `A853C1F3C1934C6C` (❌📌, v7, 1.4a) | [🏃](#🏃) |
+| - 레슬레리아나의 아틀리에<br>- 蕾斯萊莉婭娜的鍊金工房 | `0100B4E020CE2000` | `A853C1F3C1934C6C` (❌📌, v7, 1.4a) | [🏃](#🏃) |
 | Atelier Rorona DX | `010088600C66E000` | `967D32BE4B10B67E` (◯, v1, 1.0.1) |  |
 | Atelier Ryza | `0100D1900EC80000` | `3474FAEE2B35BCAD` (◯, v9, 1.0.9) |  |
 | ライザのアトリエ | `010096000E1EC000` | `488B1EBAC649C983` (◯, v17, 1.0.17) |  |

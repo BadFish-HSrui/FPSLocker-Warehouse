@@ -500,6 +500,7 @@ PATCH AVAILABILITY<br>
 | Hammerwatch Anniversary Edition | `0100321017CC0000` | `D147CAEF2BC74574` ([✅](SaltySD/plugins/FPSLocker/patches/0100321017CC0000/D147CAEF2BC74574.yaml), v3, 1.0.3) | ~~[🔐](#🔐)~~ |
 | Hammerwatch 2 | `0100367016DF0000` | `38896FEC1B4ADB1C` ([✅](SaltySD/plugins/FPSLocker/patches/0100367016DF0000/38896FEC1B4ADB1C.yaml), v3, 1.0.4) | ~~[🔐](#🔐)~~ |
 | Hamster Playground | `010035901701A000` | `243C8F241C196CDA` (◯, v8, 1.0.8) |  |
+| Hand in Hand | `01002CB01CEE8000` | `95384D09B498C931` (◯, v1, 1.0.18.10) |  |
 | Hannag | `01009E702225A000` | `07E20F126ABEFF78` ([✅](SaltySD/plugins/FPSLocker/patches/01009E702225A000/07E20F126ABEFF78.yaml), v3, 1.0.3) | ~~[🔧](#🔧)~~ |
 | HARVESTELLA | `0100521017B2A000` | `249EAB9BF046C5EA` ([✅](SaltySD/plugins/FPSLocker/patches/0100521017B2A000/249EAB9BF046C5EA.yaml), v2, 1.0.2) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Hazel Sky | `0100A8A013AB2000` | `1EFB6879CFAD7DD3` ([✅](SaltySD/plugins/FPSLocker/patches/0100A8A013AB2000/1EFB6879CFAD7DD3.yaml), v7, 1.0.10f) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |

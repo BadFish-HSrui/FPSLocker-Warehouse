@@ -843,7 +843,7 @@ PATCH AVAILABILITY<br>
 | Raji: An Ancient Epic | `010010B00DDA2000` | `8A39E660F956BB00` ([✅](SaltySD/plugins/FPSLocker/patches/010010B00DDA2000/8A39E660F956BB00.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
 | Ravenswatch | `0100E6701DF4E000` | `485D429ABFC16687` (◯, v11, 1.11.0) |  |
 | realMyst: Masterpiece Edition | `0100E64010BAA000` | `31E49EEA600A6248` (◯, v3, 1.0.3) |  |
-| Real Heroes: Firefighter | `010048600CC16000` | `B91956695D2FD96D` (❌, v0, 1.0.0) | [🔐](#🔐)[🏃](#🏃) |
+| Real Heroes: Firefighter | `010048600CC16000` | `B91956695D2FD96D` (❌, v0, 1.0.0) | [🔐](#🔐)[🏃](#🏃)[⚔️](#⚔️) |
 | Red Dead Redemption | `01007820196A6000` | `37531419DA7654EC` ([✅](SaltySD/plugins/FPSLocker/patches/01007820196A6000/37531419DA7654EC.yaml), v6, 1.0.6) | ~~[📏](#📏)~~ |
 | レッド・デッド・リデンプション | `010000B0196AA000` | `005CB235608DCEDD` (❌📌, v6, 1.0.6) | [📏](#📏) |
 | Redemption Reapers | `010073F0197DA000` | `955DF07AA5F4497B` ([✅](SaltySD/plugins/FPSLocker/patches/010073F0197DA000/955DF07AA5F4497B.yaml), v7, 1.4.0) | ~~[🔐](#🔐)[📏](#📏)~~ |

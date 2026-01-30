@@ -670,7 +670,7 @@ PATCH AVAILABILITY<br>
 | Momotaro Dentetsu: Showa, Heisei, Reiwa no Teiban! Asia Edition | `010021801DD26000` | `B2D4462B71536EC6` ([✅](SaltySD/plugins/FPSLocker/patches/010021801DD26000/B2D4462B71536EC6.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️)[🔢](#🔢)~~ |
 | 모모타로전철 ～쇼와 헤이세이 레이와에서도 국룰！～ Korea Edition | `010040A0209DC000` | `A4A3B5A20B03B2A7` ([✅](SaltySD/plugins/FPSLocker/patches/010040A0209DC000/A4A3B5A20B03B2A7.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️)[🔢](#🔢)~~ |
 | MONARK | `0100E4A01548C000` | `85EB6295023DD394` (◯, v1, 1.0.1) |  |
-| MONOPOLY | `01002C201BC40000` | `1AAA3C7D76026D29` (◯, v5, 1.5) |  |
+| MONOPOLY | `01002C201BC40000` | `1AAA3C7D76026D29` (◯, v6, 1.6) |  |
 | Monopoly for Nintendo Switch | `01007430037F6000` | `78440BAC00D01742` (◯, v5, 1.0.5) |  |
 | Monopoly Madness | `01005FF013DC2000` | `78B532D348D69BD5` (◯, v5, 1.0.5) |  |
 | Monster Energy Supercross - The Official Videogame | `0100742007266000` | `A03FD278F67CDFD2` ([✅](SaltySD/plugins/FPSLocker/patches/0100742007266000/A03FD278F67CDFD2.yaml), v2, 1.0.2) | ~~[📏](#📏)~~ |

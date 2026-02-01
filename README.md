@@ -1242,7 +1242,11 @@ PATCH AVAILABILITY<br>
 | Young Souls | `010097900F550000` | `E43952D95F17FA48` (◯, v3, 1.0.3) |  |
 | Ys VIII: Lacrimosa of DANA | `01007F200B0C0000` | `F7C4835FD8AE9D10` (◯, v5, 1.05) |  |
 | 伊蘇VIII -丹娜的隕涕日- | `0100AAD00FBE0000` | `14556DE5C310D6D8` (◯, v0, 1.0.0) |  |
+| イースVIII -Lacrimosa of DANA- | `0100A2E008162000` | `6C0EEE3D5A0224A2` (◯, v4, 1.04) |  |
 | Ys IX: Monstrum Nox | `0100E390124D8000` | `4D33981B6DB6125A` (◯, v3, 1.0.3) |  |
+| 이스 IX -몬스트룸 녹스- | `0100798016864000` | `017A93D627FD61EC` (◯, v1, 1.0.1) |  |
+| イースIX -Monstrum NOX- | `01008EC014BD0000` | `15D47D266DCA5118` (◯, v2, 1.0.2) |  |
+| 伊蘇IX -怪人之夜- | `01000460162DC000` | `B6ACB685FFCBA4DA` (◯, v1, 1.0.1) |  |
 | Ys X: Nordics | `0100BAC01E57E000` | `E5816E16CC5D72A5` ([✅](SaltySD/plugins/FPSLocker/patches/0100BAC01E57E000/E5816E16CC5D72A5.yaml), v2, 1.0.2) <br> `C55F6B8AEFA54324` ([✅](SaltySD/plugins/FPSLocker/patches/0100BAC01E57E000/C55F6B8AEFA54324.yaml), v3, 1.0.3) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | 伊蘇X -北境歷險- | `0100A0C01BED8000` | `7E06539B5874B9C4` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0C01BED8000/7E06539B5874B9C4.yaml), v5, 1.0.5) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |
 | イースX -NORDICS- | `0100CC401A16C000` | `ACF8E5931E38EAA0` ([✅](SaltySD/plugins/FPSLocker/patches/0100CC401A16C000/ACF8E5931E38EAA0.yaml), v4, 1.0.4) | ~~[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)~~ |

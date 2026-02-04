@@ -483,6 +483,7 @@ PATCH AVAILABILITY<br>
 | Gods Will Fall | `0100CFA0111C8000` | `2C22089ABC14264F` (◯, v4, 1.0.4) |  |
 | Going Under | `01004D501113C000` | `3AC30B12FEAD3149` (◯, v4, 1.0.4) |  |
 | Golazo 2 | `0100997014004000` | `8057D5A82615847E` (◯, v2, 1.2.3) |  |
+| Golf With Your Friends | `01006FB00EBE0000` | `B56D950BEFF7C02A` (◯, v14, 1.0.14) |  |
 | Good Job! | `0100B0500FE4E000` | `951D09EECE122A47` ([✅](SaltySD/plugins/FPSLocker/patches/0100B0500FE4E000/951D09EECE122A47.yaml), v0, 1.0.0) | ~~[🛑](#🛑)~~ |
 | Gori: Cuddly Carnage | `010000A017F96000` | `EEE598377C0A5966` ([✅](SaltySD/plugins/FPSLocker/patches/010000A017F96000/EEE598377C0A5966.yaml), v5, 1.0.5) <br> `1146A5AA87A93969` ([✅](SaltySD/plugins/FPSLocker/patches/010000A017F96000/1146A5AA87A93969.yaml), v6, 1.0.6) <br> `A21FFE97D09DCE4E` ([✅](SaltySD/plugins/FPSLocker/patches/010000A017F96000/A21FFE97D09DCE4E.yaml), v7, 1.0.7) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ゴリ: カドリー カーネイジ | `0100E8401FC8A000` | `A21FFE97D09DCE4E` ([✅](SaltySD/plugins/FPSLocker/patches/0100E8401FC8A000/A21FFE97D09DCE4E.yaml), v3, 1.0.7) | ~~[📏](#📏)[🔧](#🔧)~~ |

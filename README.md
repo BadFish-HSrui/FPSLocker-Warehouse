@@ -702,6 +702,8 @@ PATCH AVAILABILITY<br>
 | MotoGP 25 | `01006C7021024000` | `72D353380DD03B52` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/72D353380DD03B52.yaml), v1, 1.0.1) <br> `BD9B46CAE607D7E8` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/BD9B46CAE607D7E8.yaml), v2, 1.0.2) <br> `03DBE839CAA0632B` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/03DBE839CAA0632B.yaml), v3, 1.0.3) <br> `499A85D046C70186` ([✅](SaltySD/plugins/FPSLocker/patches/01006C7021024000/499A85D046C70186.yaml), v4, 1.0.4) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Moving Out | `0100C4C00E73E000` | `CB3172ED0C3BC646` (◯, v6, 1.0.6) |  |
 | Moving Out 2 | `010065D018172000` | `C552B6464E7348A7` (◯, v5, 1.3.315) |  |
+| Mr.Shifty | `010031F002B66000` | `456ED4E18E253F2C` (❌📌, v3, 1.0.3) | [🔐](#🔐) |
+| Mr.Shifty `JPN` | `0100C220040C0000` | `B000ECCC5AFC1EC0` (❌📌, v0, 1.0.0) | [🔐](#🔐) |
 | Mutant Year Zero: Road to Eden | `0100E6B00DEA4000` | `B1B728101DD359DA` ([✅](SaltySD/plugins/FPSLocker/patches/0100E6B00DEA4000/B1B728101DD359DA.yaml), v4, 4.0.23280) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | My Time at Sandrock | `0100B63016916000` | `B74DFD27FC9DA1B4` (◯, v13, 1.4.2.0) |  |
 | - 마이 타임 앳 샌드록<br>- 沙石鎮時光 | `0100F5101C890000` | `B74DFD27FC9DA1B4` (◯, v11, 1.4.2.0) |  |

@@ -189,6 +189,7 @@ PATCH AVAILABILITY<br>
 | BEYBLADE X XONE `EU/US` | `0100E2301FB1E000` | `7CDECA46F6E69ADF` (◯, v11, 1.0.12) |  |
 | BEYBLADE X XONE `ASIA` | `0100FC90205FE000` | `AE69E1BB81CD6FDE` (◯, v9, 1.0.10) |  |
 | ベイブレードエックス XONE | `0100E0901E2AA000` | `BEB69A37E9B16A56` (◯, v12, 1.0.12) |  |
+| 베이블레이드 엑스 존 컴플리트 에디션 | `010038E025428800` | `C11C1FB76049B3C3` (◯, v1, 1.0.1) |  |
 | Beyond Enemy Lines | `0100AE7010434000` | `5915CDDDC4EEA6CD` ([✅](SaltySD/plugins/FPSLocker/patches/0100AE7010434000/5915CDDDC4EEA6CD.yaml), v1, 1.1.0) | ~~[📏](#📏)~~ |
 | Beyond Galaxyland | `01006E101DBA0000` | `3B3ACCF3458CE10D` (◯, v3, 1.0.4) |  |
 | Beyond Good & Evil | `0100E0A01DD20000` | `AC7FD7804398393D` (❌, v1, 1.0.1) | [⚔️](#⚔️) |

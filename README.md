@@ -380,6 +380,7 @@ PATCH AVAILABILITY<br>
 | EarthX | `010069001B820000` | `1F9EA163A82C7D8F` (◯, v2, 1.0.2) |  |
 | Easy Come Easy Golf | `0100ECF01800C000` | `7175D9FAE2F8F48B` (◯, v7, 1.9.11) |  |
 | Echo Generation | `01007BC018C1C000` | `5C6DC047D93B270B` (◯, v1, 1.0.1) |  |
+| EcoGnomix | `0100C5901FF02000` | `1826ECF433ABCAA4` (◯, v2, 1.0.2) |  |
 | Eiyuden Chronicle: Rising | `010039B015CB6000` | `39DC785D9073C22B` ([✅](SaltySD/plugins/FPSLocker/patches/010039B015CB6000/39DC785D9073C22B.yaml), v2, 1.02) | ~~[📏](#📏)~~ |
 | El Coco | `01006A701A9A8000` | `7DE11F7AFAAC6E1A` (◯, v3, 1.0.3) |  |
 | Embr | `0100CC6013432000` | `473D222EB1BDAD47` (◯, v6, 1.0.6) |  |

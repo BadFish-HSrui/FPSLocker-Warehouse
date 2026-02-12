@@ -843,6 +843,8 @@ PATCH AVAILABILITY<br>
 | Potion Permit | `010025F0126FE000` | `EAD19EF59A52CC14` (◯, v13, 1.0.13) |  |
 | Potionomics: Masterwork Edition | `0100AB701E288000` | `39467922663ACFBC` (◯, v4, 1.0.4) |  |
 | Potionomics: Masterwork Edition `US` | `01000A801D4C2000` | `39467922663ACFBC` (◯, v3, 1.0.4) |  |
+| ポーショノミクス シルヴィアの魔法薬店 | `010044D01FD56000` | `39467922663ACFBC` (◯, v4, 1.0.4) |  |
+| - 포셔노믹스 -신비한 마법물약 상점-<br>- 魔藥經濟學：神秘的魔法藥水商店 | `010031C01FDCA000` | `39467922663ACFBC` (◯, v4, 1.0.4) |  |
 | PowerWash Simulator | `0100926016012000` | `8EACFE3E9E92B0FE` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/8EACFE3E9E92B0FE.yaml), v12, 1.7.0) <br> `7FF42DE6AA57290B` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/7FF42DE6AA57290B.yaml), v16, 1.9.1) <br> `B2395B882C2BCB24` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/B2395B882C2BCB24.yaml), v17, 1.9.2) <br> `30997D8F7566EBB5` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/30997D8F7566EBB5.yaml), v18, 1.10.0) <br> `561B0F485E699E4E` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/561B0F485E699E4E.yaml), v19, 1.11.0) | ~~[🔐](#🔐)~~ |
 | Project Nightmares Case 36: Henrietta Kedward | `0100736019D8E000` | `72AE4B77322A5B1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100736019D8E000/72AE4B77322A5B1B.yaml), v3, 1.0.3) | ~~[📏](#📏)~~ |
 | PROJECT ZERO: MAIDEN OF BLACK WATER | `0100BEB015604000` | `B38D51E0391187EC` ([✅](SaltySD/plugins/FPSLocker/patches/0100BEB015604000/B38D51E0391187EC.yaml), v4, 1.0.4) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~ |

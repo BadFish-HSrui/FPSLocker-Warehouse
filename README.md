@@ -328,7 +328,7 @@ PATCH AVAILABILITY<br>
 | Detective - Rainy Night | `0100C47025F3A000` | `553262E59A96741B` ([✅](SaltySD/plugins/FPSLocker/patches/0100C47025F3A000/553262E59A96741B.yaml), v2, 1.0.2) | ~~[📏](#📏)[⏱️](#⏱️)[🔧](#🔧)~~ |
 | Detective - Stella Porta Case | `01005AB01DAD0000` | `50F47EC19A33A73E` ([✅](SaltySD/plugins/FPSLocker/patches/01005AB01DAD0000/50F47EC19A33A73E.yaml), v0, 1.0.0) | ~~[📏](#📏)[⏱️](#⏱️)[🔧](#🔧)~~ |
 | Detective Pikachu Returns | `010007500F27C000` | `A2A5ABEF988ABAA2` (◯, v0, 1.0.0) |  |
-| Diablo II: Resurrected | `0100726014352000` | `C5E0C2DB39A8D8A3` (◯, v28, 1.0.28.0) |  |
+| Diablo II: Resurrected | `0100726014352000` | `0CE8C34C8208A872` (◯, v30, 1.0.30.0) |  |
 | Diesel Legacy: The Brazen Age | `010076001F5DA000` | `DE2461E141ED0958` (❌, v4, 1.0.4) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Dinkum | `0100A5A020D5E000` | `8B3609ECB49DBBED` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/8B3609ECB49DBBED.yaml), v3, 1.0.2.44) <br> `16346DDFF65961FF` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/16346DDFF65961FF.yaml), v4, 1.0.2.47) | ~~[📷](#📷)~~ |
 | Dino Ranch: Ride to the Rescue | `010038301ABDA000` | `DDF3A995F0EC84E1` (◯, v2, 1.0.4) |  |

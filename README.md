@@ -863,7 +863,7 @@ PATCH AVAILABILITY<br>
 | Rain World | `010047600BF72000` | `F863394B7796B35C` (◯, v14, 1.11.6) |  |
 | RAINBOW HIGH: RUNWAY RUSH | `010039E0182D8000` | `8ECB01C6E7E4F50C` (◯, v0, 1.0.0) |  |
 | Raji: An Ancient Epic | `010010B00DDA2000` | `8A39E660F956BB00` ([✅](SaltySD/plugins/FPSLocker/patches/010010B00DDA2000/8A39E660F956BB00.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
-| Ravenswatch | `0100E6701DF4E000` | `485D429ABFC16687` (◯, v11, 1.11.0) |  |
+| Ravenswatch | `0100E6701DF4E000` | `2736F4BCB2187C82` (◯, v12, 1.12.0) |  |
 | realMyst: Masterpiece Edition | `0100E64010BAA000` | `31E49EEA600A6248` (◯, v3, 1.0.3) |  |
 | Real Heroes: Firefighter | `010048600CC16000` | `B91956695D2FD96D` (❌, v0, 1.0.0) | [🔐](#🔐)[🏃](#🏃)[⚔️](#⚔️) |
 | Rebel Galaxy: Outlaw | `0100CAA01084A000` | `AAFB4D6D5F01A5E7` (❌, v1, 1.0.1) | [⚔️](#⚔️) |

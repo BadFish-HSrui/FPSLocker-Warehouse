@@ -671,8 +671,8 @@ PATCH AVAILABILITY<br>
 | Mercenaries Wings | `010094500C216000` | `FEA1E2AF77833E40` (◯, v0, 1.0.1) |  |
 | Metal Gear Solid 2: Sons of Liberty | `0100A4301AA0C001` | `818EA1592F5B931A` (❌, v10, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Metal Gear Solid 2: Sons of Liberty `JPN` | `0100EE8019534001` | `818EA1592F5B931A` (❌, v8, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️) |
-| Metal Gear Solid 3: Snake Eater | `010047F01AA10001` | `B108C2314431F54C` (❌, v11, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
-| Metal Gear Solid 3: Snake Eater `JPN` | `0100099019536001` | `B108C2314431F54C` (❌, v8, 2.0.1) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
+| Metal Gear Solid 3: Snake Eater | `010047F01AA10001` | `C7F276F193E4DE4C` (❌, v12, 3.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
+| Metal Gear Solid 3: Snake Eater `JPN` | `0100099019536001` | `C7F276F193E4DE4C` (❌, v9, 3.0.0) | [⚔️](#⚔️)[⏱️](#⏱️)[🖥️](#🖥️)[🔢](#🔢) |
 | Metamorphosis | `010055200E87E000` | `9F1B5FB4C53E321F` ([✅](SaltySD/plugins/FPSLocker/patches/010055200E87E000/9F1B5FB4C53E321F.yaml), v1, 1.0.1) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Metro 2033 Redux | `0100D4900E82C000` | `85C362CC9790F0ED` ([✅](SaltySD/plugins/FPSLocker/patches/0100D4900E82C000/85C362CC9790F0ED.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |
 | Metro: Last Light Redux | `0100F0400E850000` | `85C362CC9790F0ED` ([✅](SaltySD/plugins/FPSLocker/patches/0100F0400E850000/85C362CC9790F0ED.yaml), v0, 1.0.0) | ~~[📏](#📏)~~ |

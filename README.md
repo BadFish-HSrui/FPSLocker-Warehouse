@@ -586,7 +586,7 @@ PATCH AVAILABILITY<br>
 | Katamari Damacy REROLL | `0100D7000C2C6000` | `B528B17AD9C71F41` (❌, v2, 1.2) | [⏱️](#⏱️) |
 | KATANA KAMI: A Way of the Samurai Story | `0100F9800EDFA000` | `8581380704220444` (◯, v3, 1.0.3) |  |
 | Kawaii Slime Arena | `01001210199E8000` | `4F02C24688DB725C` (◯, v0, 1.0.0) |  |
-| Kentum | `01008F0022CD2000` | `3F430EA986C59462` (◯, v2, 1.0.2) |  |
+| Kentum | `01008F0022CD2000` | `8E4F45A68ACE458B` (◯, v3, 1.0.5) |  |
 | KIBORG | `0100AFE01EC6C000` | `635E7DB24F2BCD32` ([✅](SaltySD/plugins/FPSLocker/patches/0100AFE01EC6C000/635E7DB24F2BCD32.yaml), v0, 1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Kiki | `0100E2D01F290000` | `722D0E06169C2458` (◯, v0, 1.0.0) |  |
 | King of Seas | `01008D80148C8000` | `BC82DB38671F8468` ([✅](SaltySD/plugins/FPSLocker/patches/01008D80148C8000/BC82DB38671F8468.yaml), v4, 1.0.4) | ~~[🔧](#🔧)~~ |

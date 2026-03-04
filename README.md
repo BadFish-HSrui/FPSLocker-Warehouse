@@ -867,7 +867,7 @@ PATCH AVAILABILITY<br>
 | realMyst: Masterpiece Edition | `0100E64010BAA000` | `31E49EEA600A6248` (◯, v3, 1.0.3) |  |
 | Real Heroes: Firefighter | `010048600CC16000` | `B91956695D2FD96D` (❌, v0, 1.0.0) | [🔐](#🔐)[🏃](#🏃)[⚔️](#⚔️) |
 | Rebel Galaxy: Outlaw | `0100CAA01084A000` | `AAFB4D6D5F01A5E7` (❌, v1, 1.0.1) | [⚔️](#⚔️) |
-| Red Dead Redemption | `01007820196A6000` | `37531419DA7654EC` ([✅](SaltySD/plugins/FPSLocker/patches/01007820196A6000/37531419DA7654EC.yaml), v6, 1.0.6) | ~~[📏](#📏)~~ |
+| Red Dead Redemption | `01007820196A6000` | `37531419DA7654EC` ([✅](SaltySD/plugins/FPSLocker/patches/01007820196A6000/37531419DA7654EC.yaml), v7, 1.0.7) | ~~[📏](#📏)~~ |
 | レッド・デッド・リデンプション | `010000B0196AA000` | `005CB235608DCEDD` (❌📌, v6, 1.0.6) | [📏](#📏) |
 | Redemption Reapers | `010073F0197DA000` | `955DF07AA5F4497B` ([✅](SaltySD/plugins/FPSLocker/patches/010073F0197DA000/955DF07AA5F4497B.yaml), v7, 1.4.0) | ~~[🔐](#🔐)[📏](#📏)~~ |
 | Redout | `0100DA20021D0000` | `1C81D0BC7BA01EE2` (◯, v2, 1.0.2) |  |

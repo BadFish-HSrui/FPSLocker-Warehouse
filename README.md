@@ -1269,7 +1269,7 @@ PATCH AVAILABILITY<br>
 | Xenoblade Chronicles X | `0100453019AA8000` | `3F2425864CF22684` ([✅](SaltySD/plugins/FPSLocker/patches/0100453019AA8000/3F2425864CF22684.yaml), v1, 1.0.1) <br> `2A720C7CE5C84905` ([✅](SaltySD/plugins/FPSLocker/patches/0100453019AA8000/2A720C7CE5C84905.yaml), v2, 1.0.2) <br> `EC4ED46BBC4A9EBB` ([✅](SaltySD/plugins/FPSLocker/patches/0100453019AA8000/EC4ED46BBC4A9EBB.yaml), v3, 2.0.0) | ~~[🔐](#🔐)[📏](#📏)[⏱️](#⏱️)[🖥️](#🖥️)[📺](#📺)[🔢](#🔢)~~[⚔️](#⚔️) |
 | XUAN YUAN SWORD 7 | `010029F01BA3E000` | `F8EA898027152437` ([✅](SaltySD/plugins/FPSLocker/patches/010029F01BA3E000/F8EA898027152437.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Yakuza Kiwami | `0100C9801FEE6000` | `53F407A2CFBF5202` ([✅](SaltySD/plugins/FPSLocker/patches/0100C9801FEE6000/53F407A2CFBF5202.yaml), v0, 1.00) <br> `AE90FD64E7B2FE1E` ([✅](SaltySD/plugins/FPSLocker/patches/0100C9801FEE6000/AE90FD64E7B2FE1E.yaml), v1, 1.01) | ~~[📺](#📺)~~ |
-| Yohane the Parhelion - NUMAZU in the MIRAGE - | `0100F2101C9A6000` | `443A6995C2AC66B8` (◯, v9, 1.0.18) |  |
+| Yohane the Parhelion - NUMAZU in the MIRAGE - | `0100F2101C9A6000` | `0514DE4CCE0D6A09` (◯, v10, 1.1.0) |  |
 | Yooka-Laylee | `0100F110029C8000` | `6352FCBB7C75E478` (◯, v2, 1.2.0) |  |
 | ユーカレイリー | `010090C00B0E8000` | `6352FCBB7C75E478` (◯, v2, 1.2.0) |  |
 | Young Souls | `010097900F550000` | `E43952D95F17FA48` (◯, v3, 1.0.3) |  |

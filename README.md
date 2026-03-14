@@ -548,7 +548,7 @@ PATCH AVAILABILITY<br>
 | Hyrule Warriors: Age of Calamity | `01002B00111A2000` | `C3CF52BF2B05D731` ([✅](SaltySD/plugins/FPSLocker/patches/01002B00111A2000/C3CF52BF2B05D731.yaml), v5, 1.3.0) | ~~[🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️)~~[📺](#📺) |
 | I Am Setsuna. | `0100849000BDA000` | `0BBA2167AED893BE` (◯, v1, 1.1.0) |  |
 | Ice Age Scrat's Nutty Adventure! | `01004E5007E92000` | `799D52EEAAF76B47` (◯, v1, 1.0.1) |  |
-| Imagine Earth | `0100E2701A3D8000` | `77BF3F116454337D` (◯, v4, 1.20.6.6770) |  |
+| Imagine Earth | `0100E2701A3D8000` | `A97375641FA100BE` (◯, v5, 1.21.13.6929) |  |
 | Immortal Redneck | `01000F400435A000` | `DB367E57EDA9E84F` (◯, v1, 1.3.5) |  |
 | Immortals Fenyx Rising | `01004A600EC0A000` | `70F3F6751D73C644` (❌, v11, 1.3.4) | [📏](#📏) |
 | イモータルズ フィニクス ライジング | `01006E60131B6000` | `70F3F6751D73C644` (❌, v11, 1.3.4) | [📏](#📏) |

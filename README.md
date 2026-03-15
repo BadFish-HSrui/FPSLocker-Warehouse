@@ -1016,6 +1016,9 @@ PATCH AVAILABILITY<br>
 | SteamWorld Build | `01004E401B3EA000` | `017834F19C49FA71` (◯, v16, 1.0.156) |  |
 | Storm Lancers | `01002A4021B86000` | `99519C9259122E4F` ([✅](SaltySD/plugins/FPSLocker/patches/01002A4021B86000/99519C9259122E4F.yaml), v3, 1.0.1.72) <br> `E5D70A1E288F74A7` ([✅](SaltySD/plugins/FPSLocker/patches/01002A4021B86000/E5D70A1E288F74A7.yaml), v4, 1.1.0.5) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | STORY OF SEASONS: A Wonderful Life | `010076801929A000` | `FDBD3A3B672290F8` (❌, v2, 1.0.2) | [⚔️](#⚔️) |
+| Story of Seasons: Grand Bazaar | `0100DD901ED24000` | `E6949EF4974AF5A7` (◯, v8, 1.4.0) |  |
+| Story of Seasons: Grand Bazaar `US` | `010056901ED1A000` | `9E8A9AC1196397FC` (◯, v9, 1.4.0) |  |
+| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `22C29AF3FABB8CA6` (◯, v9, 1.4.0) |  |
 | Stray | `010075101EF84000` | `109D974E180A5AA1` ([✅](SaltySD/plugins/FPSLocker/patches/010075101EF84000/109D974E180A5AA1.yaml), v2, 1.6.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Strike Force 3 | `010060200F080000` | `8507336565D4C86B` (❌📌, v1, 1.1.0) | [📏](#📏) |
 | Stubbs the Zombie in Rebel Without a Pulse | `0100964012528000` | `10C14AD346AE02E3` (❌, v3, 1.0.3) | [⚔️](#⚔️) |
@@ -1296,7 +1299,6 @@ PATCH AVAILABILITY<br>
 | 英雄伝説 閃の軌跡II<br>改 -The Erebonian Civil War- | `0100906014C3C000` | `EAB1DC1D53E319F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100906014C3C000/EAB1DC1D53E319F9.yaml), v5, 1.0.5) | ~~[🔐](#🔐)~~ |
 | ドラゴンクエストX<br>目覚めし五つの種族　オフライン | `0100E2E0152E4000` | `13F322A6161F787C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E2E0152E4000/13F322A6161F787C.yaml), v4, 2.0.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | 電車でＧＯ！！ はしろう山手線 | `0100BC501355A000` | `7C9F89C3743F202F` ([✅](SaltySD/plugins/FPSLocker/patches/0100BC501355A000/7C9F89C3743F202F.yaml), v3, 1.1.2) | ~~[📏](#📏)[🔧](#🔧)~~ |
-| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `22C29AF3FABB8CA6` (◯, v9, 1.4.0) |  |
 | 창세기전 \~회색의 잔영\~ | `0100276019E96000` | `EC983B9153629AC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100276019E96000/EC983B9153629AC8.yaml), v1, 1.1.0) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | ドラゴンクエストヒーローズI・II | `0100CD3000BDC000` | `5C598E5025BF97BC` ([✅](SaltySD/plugins/FPSLocker/patches/0100CD3000BDC000/5C598E5025BF97BC.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[⏱️](#⏱️)[⚔️](#⚔️)~~
 | エアコンフリクト：パシフィックキャリアー | `010020700C952000` | `E0875F171671C8F7` (❌, v0, 1.0.0) | [⚔️](#⚔️) |

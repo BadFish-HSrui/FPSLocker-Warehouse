@@ -1165,7 +1165,7 @@ PATCH AVAILABILITY<br>
 | Tiebreak+ | `010008301AA96000` | `2A5244CCB17B44AC` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/2A5244CCB17B44AC.yaml), v1, 1.1.0) <br> `5BCA5C20C8F8A9B4` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/5BCA5C20C8F8A9B4.yaml), v2, 1.2.0) <br> `88CC45A195E0BDA8` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/88CC45A195E0BDA8.yaml), v3, 1.3.0) <br> `612E3D607D2A13BB` ([✅](SaltySD/plugins/FPSLocker/patches/010008301AA96000/612E3D607D2A13BB.yaml), v4, 1.4.0) | ~~[⚔️](#⚔️)[📏](#📏)~~ |
 | TinTin Reporter - Cigars of the Pharaoh | `0100E9001A94C000` | `57B6B2062EC8C38A` ([✅](SaltySD/plugins/FPSLocker/patches/0100E9001A94C000/57B6B2062EC8C38A.yaml), v3, 1.3.0) <br> `ACBD89C999804FD2` ([✅](SaltySD/plugins/FPSLocker/patches/0100E9001A94C000/ACBD89C999804FD2.yaml), v5, 1.4.1) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Tiny Bookshop | `0100F7A023F14000` | `2701524CAE039C9F` (◯, v7, 1.0.7) |  |
-| Tiny Terry's Turbo Trip | `01002B202075A000` | `AA16C73B964F7B3E` (◯, v7, 1.6) |  |
+| Tiny Terry's Turbo Trip | `01002B202075A000` | `05620E57969164C7` (◯, v8, 1.7) |  |
 | Tiny Troopers: Global Ops | `0100347013E4C000` | `63F1A8874A936747` (◯, v2, 1.0.0.2) |  |
 | Tinykin | `0100A73016576000` | `4E2AA28721AFF2C1` ([✅](SaltySD/plugins/FPSLocker/patches/0100A73016576000/4E2AA28721AFF2C1.yaml), v4, 1.1.1) | ~~[📏](#📏)~~ |
 | Tokyo Mirage Sessions<br>#FE Encore | `0100A9400C9C2000` | `33463E11899166BB` ([✅](SaltySD/plugins/FPSLocker/patches/0100A9400C9C2000/33463E11899166BB.yaml), v0, 1.0.0) | ~~[⚔️](#⚔️)[⏱️](#⏱️)[🏃](#🏃)~~[🖥️](#🖥️) |

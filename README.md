@@ -1066,7 +1066,7 @@ PATCH AVAILABILITY<br>
 | Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
 | - 테일즈 오브 심포니아 리마스터<br>- 交響傳奇 Remastered | `010074201698A000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
 | テイルズ オブ シンフォニア リマスター | `01002B8014440000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | [⏱️](#⏱️)[🖥️](#🖥️)[⚔️](#⚔️) |
-| Tales of the Shire | `010094D01DC7E000` | `80876AF5CEF98E23` (◯, v5, 1.0.5) |  |
+| Tales of the Shire | `010094D01DC7E000` | `A96B7487F79BE742` (◯, v6, 1.0.6) |  |
 | Tales of Xillia Remastered | `0100F1101BB9E000` | `171806C35E4152E7` ([✅](SaltySD/plugins/FPSLocker/patches/0100F1101BB9E000/171806C35E4152E7.yaml), v1, 1.0.1) <br> `5A2EE9B7315F91E5` ([✅](SaltySD/plugins/FPSLocker/patches/0100F1101BB9E000/5A2EE9B7315F91E5.yaml), v2, 1.0.2) <br> `6DB62DBD1CECC235` ([✅](SaltySD/plugins/FPSLocker/patches/0100F1101BB9E000/6DB62DBD1CECC235.yaml), v3, 1.0.3) | ~~[⏱️](#⏱️)~~ |
 | Tales of Xillia Remastered `US` | `0100DC601BB9A000` | `252525232F08D487` ([✅](SaltySD/plugins/FPSLocker/patches/0100DC601BB9A000/252525232F08D487.yaml), v3, 1.0.3) | ~~[⏱️](#⏱️)~~ |
 | テイルズ オブ エクシリア リマスター | `010058301BB98000` | `4779B3A56B655418` ([✅](SaltySD/plugins/FPSLocker/patches/010058301BB98000/4779B3A56B655418.yaml), v1, 1.0.1) <br> `CAEAFFC2CD152394` ([✅](SaltySD/plugins/FPSLocker/patches/010058301BB98000/CAEAFFC2CD152394.yaml), v2, 1.0.2) <br> `89D7333B5443950F` ([✅](SaltySD/plugins/FPSLocker/patches/010058301BB98000/89D7333B5443950F.yaml), v3, 1.0.3) | ~~[⏱️](#⏱️)~~ |

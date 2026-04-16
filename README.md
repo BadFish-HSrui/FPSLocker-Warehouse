@@ -861,7 +861,7 @@ PATCH AVAILABILITY<br>
 | Raccoo Venture | `0100C1E01CDEE000` | `27BB06DD145F39F5` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1E01CDEE000/27BB06DD145F39F5.yaml), v3, 1.0.3) | ~~[🔐](#🔐)[🏃](#🏃)~~ |
 | Rad Rodgers: Radical Edition | `010000600CD54000` | `78885A1CA987C04C` ([✅](SaltySD/plugins/FPSLocker/patches/010000600CD54000/78885A1CA987C04C.yaml), v2, 1.2.0) | ~~[🔐](#🔐)~~ |
 | RAFT SURVIVAL SIMULATOR | `0100A0D01DB4E000` | `99F0F054E0EE7899` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0D01DB4E000/99F0F054E0EE7899.yaml), v0, 1.0.0) <br> `0050303DBCEF561D` ([✅](SaltySD/plugins/FPSLocker/patches/0100A0D01DB4E000/0050303DBCEF561D.yaml), v1, 1.0.1) | ~~[📷](#📷)~~ |
-| Rain World | `010047600BF72000` | `F863394B7796B35C` (◯, v14, 1.11.6) |  |
+| Rain World | `010047600BF72000` | `55C2AF8FDE212EF5` (◯, v16, 1.11.7b) |  |
 | RAINBOW HIGH: RUNWAY RUSH | `010039E0182D8000` | `8ECB01C6E7E4F50C` (◯, v0, 1.0.0) |  |
 | Raji: An Ancient Epic | `010010B00DDA2000` | `8A39E660F956BB00` ([✅](SaltySD/plugins/FPSLocker/patches/010010B00DDA2000/8A39E660F956BB00.yaml), v4, 1.0.4) | ~~[📏](#📏)~~ |
 | Ravenswatch | `0100E6701DF4E000` | `2736F4BCB2187C82` (◯, v12, 1.12.0) |  |

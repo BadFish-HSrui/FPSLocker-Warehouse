@@ -780,6 +780,7 @@ PATCH AVAILABILITY<br>
 | ワンス・アポン・ア・塊魂 | `0100BDF0197C8000` | `FF53171B18C7701A` ([✅](SaltySD/plugins/FPSLocker/patches/0100BDF0197C8000/FF53171B18C7701A.yaml), v1, 1.0.2) <br> `41F236A333370F55` ([✅](SaltySD/plugins/FPSLocker/patches/0100BDF0197C8000/41F236A333370F55.yaml), v2, 1.0.3) <br> `B7242BF0E5B17B6F` ([✅](SaltySD/plugins/FPSLocker/patches/0100BDF0197C8000/B7242BF0E5B17B6F.yaml), v3, 1.0.4) <br> `D476C70749CA9D33` ([✅](SaltySD/plugins/FPSLocker/patches/0100BDF0197C8000/D476C70749CA9D33.yaml), v4, 1.1.0) <br> `F1B11CCC4381AFCF` ([✅](SaltySD/plugins/FPSLocker/patches/0100BDF0197C8000/F1B11CCC4381AFCF.yaml), v5, 1.1.1) | ~~[📏](#📏)~~ |
 | ONE PIECE ODYSSEY | `0100D9601A994000` | `28ED06F94D767478` ([✅](SaltySD/plugins/FPSLocker/patches/0100D9601A994000/28ED06F94D767478.yaml), v0, 1.0.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Oninaki | `01001AF00CE54000` | `C949E2576F532C43` (◯, v2, 1.0.2) |  |
+| 오니가 우는 나라 | `0100CF4011B2A000` | `57E968301DCF8C41` (◯, v0, 1.0.0) |  |
 | Open Roads | `010034401672A000` | `1C651256CC812D06` (◯, v2, 1.0.2) |  |
 | Operation: Polygon Storm | `010084501F592000` | `3025AF1CB2515489` (◯, v2, 1.0.2) |  |
 | OPUS: Echo of Starsong | `01009B601676C000` | `BFF92D9D3F4CE84D` (◯, v5, 2.3.2f4) |  |

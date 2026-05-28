@@ -318,9 +318,9 @@ PATCH AVAILABILITY<br>
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles | `0100309016E7A000` | `14C878ECCA9D7CB5` ([✅](SaltySD/plugins/FPSLocker/patches/0100309016E7A000/14C878ECCA9D7CB5.yaml), v9, 1.53) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | 鬼滅の刃 ヒノカミ血風譚 | `0100285016010000` | `14C878ECCA9D7CB5` ([✅](SaltySD/plugins/FPSLocker/patches/0100285016010000/14C878ECCA9D7CB5.yaml), v9, 1.53) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | 귀멸의 칼날 히노카미 혈풍담 | `01004B2016E7C000` | `14C878ECCA9D7CB5` ([✅](SaltySD/plugins/FPSLocker/patches/01004B2016E7C000/14C878ECCA9D7CB5.yaml), v9, 1.53) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
-| Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 | `0100AD80208A8000` | `80D3ED31C7B8C53A` (❌, v13, 1.80) | [🔐](#🔐)[🔧](#🔧)[🏃](#🏃) |
-| 귀멸의 칼날 히노카미 혈풍담2 | `01001080208AA000` | `80D3ED31C7B8C53A` (❌, v13, 1.80) | [🔐](#🔐)[🔧](#🔧)[🏃](#🏃) |
-| 鬼滅の刃 ヒノカミ血風譚2 | `010059301B7F0000` | `80D3ED31C7B8C53A` (❌, v13, 1.80) | [🔐](#🔐)[🔧](#🔧)[🏃](#🏃) |
+| Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 | `0100AD80208A8000` | `DADF52C97D951FBC` (❌, v14, 1.80) | [🔐](#🔐)[🔧](#🔧)[🏃](#🏃) |
+| 귀멸의 칼날 히노카미 혈풍담2 | `01001080208AA000` | `DADF52C97D951FBC` (❌, v14, 1.80) | [🔐](#🔐)[🔧](#🔧)[🏃](#🏃) |
+| 鬼滅の刃 ヒノカミ血風譚2 | `010059301B7F0000` | `DADF52C97D951FBC` (❌, v14, 1.80) | [🔐](#🔐)[🔧](#🔧)[🏃](#🏃) |
 | Demon Turf | `0100FF5015492000` | `9D3270945708DE4A` (◯, v2, 1.0.1) |  |
 | Demon Turf: Neon Splash | `010010C017B28000` | `500BE42BCD41604F` (◯, v0, 1.0.0) |  |
 | Descenders | `0100D4600D0E4000` | `899B8B12DCD0864F` ([✅](SaltySD/plugins/FPSLocker/patches/0100D4600D0E4000/899B8B12DCD0864F.yaml), v7, 1.0.7) | ~~[📏](#📏)~~ |
@@ -329,7 +329,7 @@ PATCH AVAILABILITY<br>
 | Detective - Rainy Night | `0100C47025F3A000` | `553262E59A96741B` ([✅](SaltySD/plugins/FPSLocker/patches/0100C47025F3A000/553262E59A96741B.yaml), v2, 1.0.2) | ~~[📏](#📏)[⏱️](#⏱️)[🔧](#🔧)~~ |
 | Detective - Stella Porta Case | `01005AB01DAD0000` | `50F47EC19A33A73E` ([✅](SaltySD/plugins/FPSLocker/patches/01005AB01DAD0000/50F47EC19A33A73E.yaml), v0, 1.0.0) | ~~[📏](#📏)[⏱️](#⏱️)[🔧](#🔧)~~ |
 | Detective Pikachu Returns | `010007500F27C000` | `A2A5ABEF988ABAA2` (◯, v0, 1.0.0) |  |
-| Diablo II: Resurrected | `0100726014352000` | `DB08613A7528A1C8` (◯, v32, 1.0.32.0) |  |
+| Diablo II: Resurrected | `0100726014352000` | `194361731C7B9F30` (◯, v33, 1.0.33.0) |  |
 | Diesel Legacy: The Brazen Age | `010076001F5DA000` | `DE2461E141ED0958` (❌, v4, 1.0.4) | [🔐](#🔐)[⏱️](#⏱️)[🖥️](#🖥️) |
 | Dinkum | `0100A5A020D5E000` | `8B3609ECB49DBBED` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/8B3609ECB49DBBED.yaml), v3, 1.0.2.44) <br> `16346DDFF65961FF` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/16346DDFF65961FF.yaml), v4, 1.0.2.47) <br> `7919EB22D79D420B` ([✅](SaltySD/plugins/FPSLocker/patches/0100A5A020D5E000/7919EB22D79D420B.yaml), v5, 1.0.7) | ~~[📷](#📷)~~ |
 | Dino Ranch: Ride to the Rescue | `010038301ABDA000` | `DDF3A995F0EC84E1` (◯, v2, 1.0.4) |  |

@@ -1019,9 +1019,9 @@ PATCH AVAILABILITY<br>
 | Storm Lancers | `01002A4021B86000` | `99519C9259122E4F` ([✅](SaltySD/plugins/FPSLocker/patches/01002A4021B86000/99519C9259122E4F.yaml), v3, 1.0.1.72) <br> `E5D70A1E288F74A7` ([✅](SaltySD/plugins/FPSLocker/patches/01002A4021B86000/E5D70A1E288F74A7.yaml), v4, 1.1.0.5) | ~~[🔐](#🔐)[🔧](#🔧)~~ |
 | STORY OF SEASONS: A Wonderful Life | `0100F940192A0000` | `7EB6AA5DE87C0562` (❌, v2, 1.0.2) | [⚔️](#⚔️) |
 | STORY OF SEASONS: A Wonderful Life `US` | `010076801929A000` | `FDBD3A3B672290F8` (❌, v2, 1.0.2) | [⚔️](#⚔️) |
-| Story of Seasons: Grand Bazaar | `0100DD901ED24000` | `E6949EF4974AF5A7` (◯, v8, 1.4.0) |  |
-| Story of Seasons: Grand Bazaar `US` | `010056901ED1A000` | `9E8A9AC1196397FC` (◯, v9, 1.4.0) |  |
-| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `22C29AF3FABB8CA6` (◯, v9, 1.4.0) |  |
+| Story of Seasons: Grand Bazaar | `0100DD901ED24000` | `C483C805E3AEF52D` (◯, v9, 1.5.0) |  |
+| Story of Seasons: Grand Bazaar `US` | `010056901ED1A000` | `AD6B1EE322197D0A` (◯, v10, 1.5.0) |  |
+| 牧場物語 Let's！風のグランドバザール | `0100DAE01E4C8000` | `2EF3BB19EAC3B0A5` (◯, v10, 1.5.0) |  |
 | Stray | `010075101EF84000` | `109D974E180A5AA1` ([✅](SaltySD/plugins/FPSLocker/patches/010075101EF84000/109D974E180A5AA1.yaml), v2, 1.6.0) | ~~[🔐](#🔐)[📏](#📏)[🔧](#🔧)~~ |
 | Strike Force 3 | `010060200F080000` | `8507336565D4C86B` (❌📌, v1, 1.1.0) | [📏](#📏) |
 | Stubbs the Zombie in Rebel Without a Pulse | `0100964012528000` | `10C14AD346AE02E3` (❌, v3, 1.0.3) | [⚔️](#⚔️) |

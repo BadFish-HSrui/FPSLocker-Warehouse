@@ -1246,7 +1246,7 @@ PATCH AVAILABILITY<br>
 | White Day: A Labirynth Named School | `010076601839C000` | `36D6740B3873CE4A` (◯, v1, 1.0.2) |  |
 | Wildkeepers Rising | `0100095023E68000` | `D91CFC777B9A6E94` ([✅](SaltySD/plugins/FPSLocker/patches/0100095023E68000/D91CFC777B9A6E94.yaml), v1, 1.01) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Winning Post 10 2026 | `01000AE025452000` | `CF6DB873CAEE1B37` (❌📌, v1, 1.0.1) | [🔐](#🔐) |
-| Winter Burrow | `01006690239D8000` | `71401A949132778C` (◯, v3, 1.0.3) |  |
+| Winter Burrow | `01006690239D8000` | `B8A3E8276145EE78` (◯, v4, 1.2.0.0) |  |
 | WitchSpringR | `010018401EEA8000` | `5E3F71147A485112` (◯, v6, 1.4.9) |  |
 | Wizard of Legend 2 | `01006BB0203CA000` | `F8FA82D6A1BFE328` ([✅](SaltySD/plugins/FPSLocker/patches/01006BB0203CA000/F8FA82D6A1BFE328.yaml), v2, 1.1.0b) | ~~[📏](#📏)[🔧](#🔧)~~ |
 | Wobbly Life | `010039501F11C000` | `B174F363C2823CBE` ([✅](SaltySD/plugins/FPSLocker/patches/010039501F11C000/B174F363C2823CBE.yaml), v5, 1.0.0.3) | ~~[📏](#📏)~~ |

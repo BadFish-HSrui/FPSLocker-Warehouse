@@ -12,7 +12,7 @@ Currently this repository is dedicated only to FPSLocker 3.0.2 or newer.
 > IT IS RECOMMENDED TO USE OVERLAY'S BUILTIN OPTION TO DOWNLOAD CONFIG! Some games may require additional files to fix certain issues (f.e. compatibility with romfs mods in Tears of The Kingdom), using builtin option is a sure way to download all needed files at once!
 
 > [!NOTE]
-> To download all configs click [here](https://github.com/masagrator/FPSLocker-WarehouseA382B662B93A3650/archive/refs/heads/v4.zip), unpack it and copy the `SaltySD` and `atmosphere` folder to root of your sdcard.
+> To download all configs click [here](https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v4.zip), unpack it and copy the `SaltySD` and `atmosphere` folder to root of your sdcard.
 
 ---
 
